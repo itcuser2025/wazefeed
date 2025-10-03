@@ -1,0 +1,9 @@
+ArcGIs WorkFlow
+Login to server: SRVP073APP33
+then open the SDMS application on the google chrome
+Url:https://geotrans.itc.gov.ae/sdms/
+credentials:WFMSAdmin/Wfms2022
+
+\\dotfs2.doti.ae\GIS\LRSNRN\SDMS-WFMS\01.plannedDataUpdate\02.pro\04.logs
+output path: \\dotfs2.doti.ae\GIS\LRSNRN\SDMS-WFMS\01.plannedDataUpdate\02.pro\02.output\20250731-10004
+
