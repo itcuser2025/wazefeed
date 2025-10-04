@@ -1,0 +1,150 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "Road_Closure",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 53.7024033507, 23.7264490195 ],
+					[ 53.6989325981, 23.7250781658 ],
+					[ 53.6970781241, 23.7243450475 ],
+					[ 53.6941611289, 23.7231937381 ],
+					[ 53.6933108766, 23.7228542881 ],
+					[ 53.6924939603, 23.7225252459 ],
+					[ 53.6918122544, 23.7222390106 ]
+				]
+			},
+			"properties" : {
+				"CurrentDateTime" : "20251005010108",
+				"id" : "AD00002",
+				"name" : "TRAFFIC DIVERSION IN MADINAT ZAYED - AL DHAFRA REGION",
+				"type" : "road_closure",
+				"startTime" : "20250614235900",
+				"endTime" : "20251010060000",
+				"road_name" : "Sheikha Salama Bint Butti Road",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Traffic Diversion On Sheikha Salama Bint Butti Road (E45) in Madinat Zayed - Al Dhafra Region",
+				"lanePosition" : null,
+				"source" : "ITC",
+				"lastUpdated" : "20250624092557",
+				"isFullClosure" : 1,
+				"lanesAffected" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 55.6504286757, 24.204232628 ],
+					[ 55.6526772048, 24.1996557866 ]
+				]
+			},
+			"properties" : {
+				"CurrentDateTime" : "20251005010108",
+				"id" : "AD00093",
+				"name" : "PARTIAL ROAD CLOSURE IN AL AIN",
+				"type" : "lane_closure",
+				"startTime" : "20250908000100",
+				"endTime" : "20251024235900",
+				"road_name" : "Tuwam Street",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Road Closure on Tawam Street - Al Ain",
+				"lanePosition" : "Right",
+				"source" : "ITC",
+				"lastUpdated" : "20250908134317",
+				"isFullClosure" : 0,
+				"lanesAffected" : 2
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 53.7389778655, 23.5173174289 ],
+					[ 53.7408007266, 23.507940992 ],
+					[ 53.7467551091, 23.477366422 ],
+					[ 53.7505663469, 23.4576228848 ],
+					[ 53.7538162018, 23.4408274871 ]
+				]
+			},
+			"properties" : {
+				"CurrentDateTime" : "20251005010108",
+				"id" : "AD00095",
+				"name" : "PARTIAL ROAD CLOSURE IN MADINAT ZAYED - AL DHAFRA REGION",
+				"type" : "lane_closure",
+				"startTime" : "20250919000100",
+				"endTime" : "20251029235900",
+				"road_name" : "Sheikha Salama Bint Butti Road",
+				"direction" : "ONE DIRECTION",
+				"description" : "Partial Road Closure on Sheikha Salama Bint Butti Road (E45) in Madinat Zayed - Al Dhafra Region",
+				"lanePosition" : "Left",
+				"source" : "ITC",
+				"lastUpdated" : "20250918165304",
+				"isFullClosure" : 0,
+				"lanesAffected" : 1
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 53.7389778655, 23.5173174289 ],
+					[ 53.7408007266, 23.507940992 ],
+					[ 53.7467551091, 23.477366422 ],
+					[ 53.7505663469, 23.4576228848 ],
+					[ 53.7538162018, 23.4408274871 ]
+				]
+			},
+			"properties" : {
+				"CurrentDateTime" : "20251005010108",
+				"id" : "AD00135",
+				"name" : "PARTIAL ROAD CLOSURE IN MADINAT ZAYED - AL DHAFRA REGION",
+				"type" : "lane_closure",
+				"startTime" : "20250930000100",
+				"endTime" : "20251013050000",
+				"road_name" : "Sheikha Salama Bint Butti Road",
+				"direction" : "ONE DIRECTION",
+				"description" : "Partial Road Closure on Sheikha Salama Bint Butti Road (E45) in Madinat Zayed - Al Dhafra Region",
+				"lanePosition" : "Right",
+				"source" : "ITC",
+				"lastUpdated" : "20250930094823",
+				"isFullClosure" : 0,
+				"lanesAffected" : 1
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.4982638156, 24.4169003017 ],
+					[ 54.4994665321, 24.4163635737 ],
+					[ 54.5047512164, 24.4140032383 ],
+					[ 54.5114666097, 24.4110027483 ],
+					[ 54.5121225635, 24.4107036868 ]
+				]
+			},
+			"properties" : {
+				"CurrentDateTime" : "20251005010108",
+				"id" : "AD00139",
+				"name" : "PARTIAL ROAD CLOSURE IN ABU DHABI",
+				"type" : "lane_closure",
+				"startTime" : "20251004000100",
+				"endTime" : "20251006050000",
+				"road_name" : "Al Ain Road",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Road Closure on Abu Dhabi - Al Ain Road (E22) Abu Dhabi",
+				"lanePosition" : "Right",
+				"source" : "ITC",
+				"lastUpdated" : "20251003115521",
+				"isFullClosure" : 0,
+				"lanesAffected" : 1
+			}
+		}
+	]
+}
