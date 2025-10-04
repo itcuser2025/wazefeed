@@ -82,6 +82,66 @@
 				"direction" : "ONE_DIRECTION",
 				"description" : "Traffic Diversion On Sheikha Salama Bint Butti Road (E45) in Madinat Zayed - Al Dhafra Region" 
 			}
+		},
+    {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 53.7389778655, 23.5173174289 ],
+					[ 53.7408007266, 23.507940992 ],
+					[ 53.7467551091, 23.477366422 ],
+					[ 53.7505663469, 23.4576228848 ],
+					[ 53.7538162018, 23.4408274871 ]
+				]
+			},
+			"properties" : {
+              "id" : "AD00135",
+				"creationtime" : "2025-10-05T01:01:08+04:00",
+              "updatetime" : "2025-09-30T09:48:23+04:00",
+				"street" : "PARTIAL ROAD CLOSURE IN MADINAT ZAYED - AL DHAFRA REGION",
+				"type": "HAZARD",
+              "subtype": "HAZARD_ON_ROAD_LANE_CLOSED",
+              "startTime" : "2025-09-30T00:01:00+04:00",
+              "endTime" : "2025-10-13T05:00:00+04:00",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Road Closure on Sheikha Salama Bint Butti Road (E45) in Madinat Zayed - Al Dhafra Region",
+				"lane_impact": {
+                "total_closed_lanes": 1,
+                "roadside": "RIGHT"
+              }   
+    
+			}
+
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.4982638156, 24.4169003017 ],
+					[ 54.4994665321, 24.4163635737 ],
+					[ 54.5047512164, 24.4140032383 ],
+					[ 54.5114666097, 24.4110027483 ],
+					[ 54.5121225635, 24.4107036868 ]
+				]
+			},
+			"properties" : {
+              "id" : "AD00139",
+				"creationtime" : "2025-10-05T01:01:08+04:00",
+              "updatetime" : "2025-10-03T11:55:21+04:00",	
+				"street" : "PARTIAL ROAD CLOSURE IN ABU DHABI",
+				"type": "HAZARD",
+              "subtype": "HAZARD_ON_ROAD_LANE_CLOSED",
+              "startTime" : "2025-10-04T00:01:00+04:00",
+              "endTime" : "2025-10-06T05:00:00+04:00",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Road Closure on Abu Dhabi - Al Ain Road (E22) Abu Dhabi",
+				"lane_impact": {
+                "total_closed_lanes": 2,
+                "roadside": "RIGHT"
+              }   
+			}
 		}
   ]
 }
