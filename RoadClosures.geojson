@@ -1,63 +1,8 @@
 {
-  "type": "FeatureCollection",
-  "name": "Road_Closure",
-  "features": [
-    		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 55.6504286757, 24.204232628 ],
-					[ 55.6526772048, 24.1996557866 ]
-				]
-			},
-			"properties" : {
-              "id" : "AD00093",
-				"creationtime": "2025-10-03T10:30:54-04:00",
-              "updatetime": "2025-09-08T13:43:17-04:00",
-              "type": "HAZARD",
-              "subtype": "HAZARD_ON_ROAD_LANE_CLOSED",
-				"startTime": "2025-09-08T00:01:00-04:00",
-              "endTime": "2025-10-24T23:59:00-04:00",
-				"street" : "Tuwam Street",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Partial Road Closure on Tawam Street - Al Ain",				
-				"lane_impact": {
-                "total_closed_lanes": 2,
-                "roadside": "RIGHT"
-              }
-			}
-		},
+	"type" : "FeatureCollection",
+	"name" : "Road_Closure",
+	"features" : [
 		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 53.7389778655, 23.5173174289 ],
-					[ 53.7408007266, 23.507940992 ],
-					[ 53.7467551091, 23.477366422 ],
-					[ 53.7505663469, 23.4576228848 ],
-					[ 53.7538162018, 23.4408274871 ]
-				]
-			},
-			"properties" : {
-              "id" : "AD00095",
-				"creationtime": "2025-10-03T10:30:54-04:00",
-              "updatetime": "2025-09-18T16:53:04-04:00",		
-				"street" : "PARTIAL ROAD CLOSURE IN MADINAT ZAYED - AL DHAFRA REGION",
-				"type": "HAZARD",
-              "subtype": "HAZARD_ON_ROAD_LANE_CLOSED",
-				"startTime": "2025-09-19T00:01:00-04:00",
-              "endTime": "2025-10-29T23:59:00-04:00",			
-				"direction" : "ONE DIRECTION",
-				"description" : "Partial Road Closure on Sheikha Salama Bint Butti Road (E45) in Madinat Zayed - Al Dhafra Region",
-				"lane_impact": {
-                "total_closed_lanes": 2,
-                "roadside": "RIGHT"
-              } 
-			}
-		},
-{
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "LineString",
@@ -72,18 +17,48 @@
 				]
 			},
 			"properties" : {
-              "id" : "AD00002",
-				"creationtime": "2025-10-03T10:30:53-04:00",
-              "updatetime": "2025-06-24T09:25:57-04:00",
-				"street" : "TRAFFIC DIVERSION IN MADINAT ZAYED - AL DHAFRA REGION",
-				"type": "ROAD_CLOSED",
-				"startTime": "2025-06-14T23:59:00-04:00",
-              "endTime": "2025-10-10T06:00:00-04:00",			 
+				"id" : "AD00002",
+				"creationtime" : "2025-06-24T05:16:50+04:00",
+				"updatetime" : "2025-06-24T09:25:57+04:00",
+				"street" : "Sheikha Salama Bint Butti Road",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",				
 				"direction" : "ONE_DIRECTION",
-				"description" : "Traffic Diversion On Sheikha Salama Bint Butti Road (E45) in Madinat Zayed - Al Dhafra Region" 
+				"startTime" : "2025-06-14T23:59:00+04:00",
+				"endTime" : "2025-10-10T06:00:00+04:00",
+				"description" : "Traffic Diversion On Sheikha Salama Bint Butti Road (E45) in Madinat Zayed - Al Dhafra Region",				 
+				"name" : "TRAFFIC DIVERSION IN MADINAT ZAYED - AL DHAFRA REGION"
 			}
 		},
-    {
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 55.6504286757, 24.204232628 ],
+					[ 55.6526772048, 24.1996557866 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00093",
+				"creationtime" : "2025-09-08T09:38:10+04:00",
+				"updatetime" : "2025-09-08T13:43:17+04:00",
+				"street" : "Tuwam Street",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",				
+				"direction" : "ONE_DIRECTION",
+				"startTime" : "2025-09-08T00:01:00+04:00",
+				"endTime" : "2025-10-24T23:59:00+04:00",
+				"description" : "Partial Road Closure on Tawam Street - Al Ain",
+				"lane_impact": {
+					"total_closed_lanes": 1,
+					"roadside": "RIGHT"
+				}	
+				
+				"name" : "PARTIAL ROAD CLOSURE IN AL AIN"
+			}
+		},
+		{
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "LineString",
@@ -96,52 +71,22 @@
 				]
 			},
 			"properties" : {
-              "id" : "AD00135",
-				"creationtime" : "2025-10-05T01:01:08+04:00",
-              "updatetime" : "2025-09-30T09:48:23+04:00",
-				"street" : "PARTIAL ROAD CLOSURE IN MADINAT ZAYED - AL DHAFRA REGION",
-				"type": "HAZARD",
-              "subtype": "HAZARD_ON_ROAD_LANE_CLOSED",
-              "startTime" : "2025-09-30T00:01:00+04:00",
-              "endTime" : "2025-10-13T05:00:00+04:00",
+				"id" : "AD00135",
+				"creationtime" : "2025-09-30T05:44:58+04:00",
+				"updatetime" : "2025-09-30T09:48:23+04:00",
+				"street" : "Sheikha Salama Bint Butti Road",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"startTime" : "2025-09-30T00:01:00+04:00",
+				"endTime" : "2025-10-13T05:00:00+04:00",				
 				"direction" : "ONE_DIRECTION",
 				"description" : "Partial Road Closure on Sheikha Salama Bint Butti Road (E45) in Madinat Zayed - Al Dhafra Region",
 				"lane_impact": {
-                "total_closed_lanes": 1,
-                "roadside": "RIGHT"
-              }   
-    
-			}
-
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.4982638156, 24.4169003017 ],
-					[ 54.4994665321, 24.4163635737 ],
-					[ 54.5047512164, 24.4140032383 ],
-					[ 54.5114666097, 24.4110027483 ],
-					[ 54.5121225635, 24.4107036868 ]
-				]
-			},
-			"properties" : {
-              "id" : "AD00139",
-				"creationtime" : "2025-10-05T01:01:08+04:00",
-              "updatetime" : "2025-10-03T11:55:21+04:00",	
-				"street" : "PARTIAL ROAD CLOSURE IN ABU DHABI",
-				"type": "HAZARD",
-              "subtype": "HAZARD_ON_ROAD_LANE_CLOSED",
-              "startTime" : "2025-10-04T00:01:00+04:00",
-              "endTime" : "2025-10-06T05:00:00+04:00",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Partial Road Closure on Abu Dhabi - Al Ain Road (E22) Abu Dhabi",
-				"lane_impact": {
-                "total_closed_lanes": 2,
-                "roadside": "RIGHT"
-              }   
+					"total_closed_lanes": 1,
+					"roadside": "RIGHT"
+				}	
+				"name" : "PARTIAL ROAD CLOSURE IN MADINAT ZAYED - AL DHAFRA REGION"
 			}
 		}
-  ]
+	]
 }
