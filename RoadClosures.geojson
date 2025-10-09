@@ -22,11 +22,11 @@
 				"updatetime" : "2025-06-24T09:25:57+04:00",
 				"street" : "Sheikha Salama Bint Butti Road",
 				"type" : "ROAD_CLOSED",
-				"subtype" : "ROAD_CLOSED_CONSTRUCTION",				
+                  "subtype" : "ROAD_CLOSED_CONSTRUCTION",		
 				"direction" : "ONE_DIRECTION",
-				"startTime" : "2025-06-14T23:59:00+04:00",
+                  "startTime" : "2025-06-14T23:59:00+04:00",
 				"endTime" : "2025-10-10T06:00:00+04:00",
-				"description" : "Traffic Diversion On Sheikha Salama Bint Butti Road (E45) in Madinat Zayed - Al Dhafra Region",				 
+				"description" : "Traffic Diversion On Sheikha Salama Bint Butti Road (E45) in Madinat Zayed - Al Dhafra Region",
 				"name" : "TRAFFIC DIVERSION IN MADINAT ZAYED - AL DHAFRA REGION"
 			}
 		},
@@ -45,16 +45,15 @@
 				"updatetime" : "2025-09-08T13:43:17+04:00",
 				"street" : "Tuwam Street",
 				"type" : "HAZARD",
-				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",				
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
 				"direction" : "ONE_DIRECTION",
-				"startTime" : "2025-09-08T00:01:00+04:00",
+                  "startTime" : "2025-09-08T00:01:00+04:00",
 				"endTime" : "2025-10-24T23:59:00+04:00",
 				"description" : "Partial Road Closure on Tawam Street - Al Ain",
-				"lane_impact": {
-					"total_closed_lanes": 1,
+				"lane_impact" : {
+					"total_closed_lanes" : 2,
 					"roadside": "RIGHT"
-				}	
-				
+				},
 				"name" : "PARTIAL ROAD CLOSURE IN AL AIN"
 			}
 		},
@@ -77,15 +76,210 @@
 				"street" : "Sheikha Salama Bint Butti Road",
 				"type" : "HAZARD",
 				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
-				"startTime" : "2025-09-30T00:01:00+04:00",
-				"endTime" : "2025-10-13T05:00:00+04:00",				
-				"direction" : "ONE_DIRECTION",
-				"description" : "Partial Road Closure on Sheikha Salama Bint Butti Road (E45) in Madinat Zayed - Al Dhafra Region",
-				"lane_impact": {
-					"total_closed_lanes": 1,
+				"direction" : "ONE DIRECTION",
+                  "startTime" : "2025-09-30T00:01:00+04:00",
+				"endTime" : "2025-10-13T05:00:00+04:00",
+				"description" : "Partial Road Closure on Sheikha Salama Bint Butti Road (E45) in Madinat Zayed - Al Dhafra Region",	
+				"lane_impact" : {
+					"total_closed_lanes" : 1,
 					"roadside": "RIGHT"
-				}	
+				},
 				"name" : "PARTIAL ROAD CLOSURE IN MADINAT ZAYED - AL DHAFRA REGION"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.5035892743, 24.4142452287 ],
+					[ 54.5033856408, 24.4140638193 ],
+					[ 54.5031733981, 24.4139102592 ],
+					[ 54.5029526272, 24.4138065403 ],
+					[ 54.5027467193, 24.4137462633 ],
+					[ 54.5024881498, 24.4137122851 ],
+					[ 54.5022040171, 24.4137303237 ],
+					[ 54.5019627479, 24.4137903292 ],
+					[ 54.5017052153, 24.4139032184 ],
+					[ 54.5015666208, 24.4140190807 ],
+					[ 54.5014783038, 24.4141433257 ],
+					[ 54.5014320463, 24.4142981242 ],
+					[ 54.5014269327, 24.4144518219 ],
+					[ 54.5014537199, 24.4145744579 ],
+					[ 54.5015425981, 24.4147346956 ],
+					[ 54.5016823609, 24.4148498393 ],
+					[ 54.5017905826, 24.4149087467 ],
+					[ 54.5019856302, 24.4149583327 ],
+					[ 54.5021585941, 24.4149543262 ],
+					[ 54.5022838787, 24.4149227834 ],
+					[ 54.5024678791, 24.4148532028 ],
+					[ 54.5031016448, 24.4145774581 ],
+					[ 54.5055151788, 24.4135048187 ],
+					[ 54.5085690327, 24.4121379283 ],
+					[ 54.5106604709, 24.4112028708 ],
+					[ 54.5114552962, 24.4108986967 ],
+					[ 54.5118732436, 24.4107087995 ],
+					[ 54.5125919943, 24.4103818267 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00145",
+				"creationtime" : "2025-10-09T11:25:31+04:00",
+				"updatetime" : "2025-10-09T15:26:14+04:00",
+				"street" : "Al Ain Road",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"direction" : "ONE_DIRECTION",
+                  "startTime" : "2025-10-11T00:01:00+04:00",
+				"endTime" : "2025-10-11T23:00:00+04:00",
+				"description" : "Partial Road Closure on Abu Dhabi - Al Ain Road (E22) Abu Dhabi",				
+				"lane_impact" : {
+					"total_closed_lanes" : 1,
+					"roadside": "LEFT"
+				},
+				"name" : "PARTIAL ROAD CLOSURE IN ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.661210237, 24.3835096558 ],
+					[ 54.6634326389, 24.3883171033 ],
+					[ 54.6647279972, 24.3911191129 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00143",
+				"creationtime" : "2025-10-08T13:12:17+04:00",
+				"updatetime" : "2025-10-08T17:13:10+04:00",
+				"street" : "Shk. Maktoum Bin Rashid Street",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"direction" : "ONE_DIRECTION",
+                  "startTime" : "2025-10-11T00:01:00+04:00",
+				"endTime" : "2025-10-13T05:00:00+04:00",
+				"description" : "Partial Road Closure on Sheikh Maktoum Bin Rashid Road (E11) Abu Dhabi",				 
+				"lane_impact" : {
+					"total_closed_lanes" : 2,
+					"roadside": "LEFT"
+				},
+				"name" : "PARTIAL ROAD CLOSURE IN ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.502162615, 24.4151594031 ],
+					[ 54.5047512164, 24.4140032383 ],
+					[ 54.5087208284, 24.4122295845 ],
+					[ 54.510478378, 24.4114442983 ],
+					[ 54.5121225635, 24.4107036868 ],
+					[ 54.5126494475, 24.4104574713 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00146",
+				"creationtime" : "2025-10-09T11:25:31+04:00",
+				"updatetime" : "2025-10-09T15:26:21+04:00",
+                  "startTime" : "2025-10-11T00:01:00+04:00",
+				"endTime" : "2025-10-11T23:00:00+04:00",
+				"street" : "Al Ain Road",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Road Closure on Abu Dhabi - Al Ain Road (E22) Abu Dhabi",				
+				"lane_impact" : {
+					"total_closed_lanes" : 1,
+					"roadside": "RIGHT"
+				},				
+				"name" : "PARTIAL ROAD CLOSURE IN ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 55.6613674742, 24.1972049092 ],
+					[ 55.6602455016, 24.196736241 ],
+					[ 55.6586715397, 24.1960774147 ],
+					[ 55.6569459673, 24.1953509325 ],
+					[ 55.6551807888, 24.1946158168 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00144",
+				"creationtime" : "2025-10-08T13:12:17+04:00",
+				"updatetime" : "2025-10-08T17:13:10+04:00",
+				"street" : "Khalifa Bin Zayed Street",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"direction" : "ONE_DIRECTION",
+                  "startTime" : "2025-10-11T00:01:00+04:00",
+				"endTime" : "2025-10-19T23:59:00+04:00",
+				"description" : "Partial Road Closure on Sheikh Khalifa Bin Zayed Street - Al Ain",				
+				"lane_impact" : {
+					"total_closed_lanes" : 1,
+					"roadside": "RIGHT"
+				},
+				"name" : "PARTIAL ROAD CLOSURE IN AL AIN"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.5035735335, 24.4142312056 ],
+					[ 54.5033856408, 24.4140638193 ],
+					[ 54.5031733981, 24.4139102592 ],
+					[ 54.5029526272, 24.4138065403 ],
+					[ 54.5027467193, 24.4137462633 ],
+					[ 54.5024881498, 24.4137122851 ],
+					[ 54.5022040171, 24.4137303237 ],
+					[ 54.5019627479, 24.4137903292 ],
+					[ 54.5017052153, 24.4139032184 ],
+					[ 54.5015666208, 24.4140190807 ],
+					[ 54.5014783038, 24.4141433257 ],
+					[ 54.5014320463, 24.4142981242 ],
+					[ 54.5014269327, 24.4144518219 ],
+					[ 54.5014537199, 24.4145744579 ],
+					[ 54.5015425981, 24.4147346956 ],
+					[ 54.5016823609, 24.4148498393 ],
+					[ 54.5017905826, 24.4149087467 ],
+					[ 54.5019856302, 24.4149583327 ],
+					[ 54.5021585941, 24.4149543262 ],
+					[ 54.5022838787, 24.4149227834 ],
+					[ 54.5024678791, 24.4148532028 ],
+					[ 54.5031016448, 24.4145774581 ],
+					[ 54.5055151788, 24.4135048187 ],
+					[ 54.5085690327, 24.4121379283 ],
+					[ 54.5106604709, 24.4112028708 ],
+					[ 54.5114552962, 24.4108986967 ],
+					[ 54.5118732436, 24.4107087995 ],
+					[ 54.5125919943, 24.4103818267 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00147",
+				"creationtime" : "2025-10-09T11:25:31+04:00",
+				"updatetime" : "2025-10-09T15:26:25+04:00",
+				"street" : "Al Ain Road",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"direction" : "ONE_DIRECTION",
+                  "startTime" : "2025-10-12T00:01:00+04:00",
+				"endTime" : "2025-10-13T05:00:00+04:00",
+				"description" : "Partial Road Closure on Abu Dhabi - Al Ain Road (E22) Abu Dhabi",				
+				"lane_impact" : {
+					"total_closed_lanes" : 1,
+					"roadside": "RIGHT"
+				},
+				"name" : "PARTIAL ROAD CLOSURE IN ABU DHABI"
 			}
 		}
 	]
