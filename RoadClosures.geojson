@@ -424,11 +424,14 @@
 				"type" : "ROAD_CLOSED",
               "subtype" : "ROAD_CLOSED_CONSTRUCTION",
 				"direction" : "ONE_DIRECTION",
-              "startTime" : "2025-10-10T22:00:00+04:00",
+"startTime" : "2025-10-10T22:00:00+04:00",
 				"endTime" : "2025-10-14T22:00:00+04:00",
+				"lanePosition" : null,
+              
 				"description" : "Partial Road Closure on Sheikh Zayed Bin Sultan Street (E10) Abu Dhabi.",							
 				"name" : "PARTIAL ROAD CLOSURE IN ABU DHABI"
 			}
 		}
 	]
 }
+
