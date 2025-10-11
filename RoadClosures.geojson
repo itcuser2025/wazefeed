@@ -420,7 +420,7 @@
 				"id" : "AD00154",
 				"creationtime" : "2025-10-11T15:46:47+04:00",
 				"updatetime" : "2025-10-11T19:47:48+04:00",
-				"street" : "",
+				"street" : "Wahat Al Karama Street",
 				"type" : "ROAD_CLOSED",
               "subtype" : "ROAD_CLOSED_CONSTRUCTION",
 				"direction" : "ONE_DIRECTION",
@@ -434,5 +434,6 @@
 		}
 	]
 }
+
 
 
