@@ -206,6 +206,7 @@
 				"updatetime" : "2025-10-21T12:02:53+04:00",
 				"street" : "No Street",
 				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
 				"direction" : "ONE_DIRECTION",
 				"description" : "Road Closure of Intersections on Ghabat Adh Dhafrah Street - Al Dhafra Region",
 				"lanePosition" : null,
@@ -265,3 +266,4 @@
 		}
 	]
 }
+
