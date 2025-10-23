@@ -22,7 +22,7 @@
 				"description" : "Partial Road Closure on Tawam Street - Al Ain",
 				"lane_impact" : {
 					"total_closed_lanes" : 2,
-					"roadside" : "RIGHT"
+				"roadside" : "RIGHT",
 				},
 				"startTime" : "2025-09-08T00:01:00+04:00",
 				"endTime" : "2025-10-24T23:59:00+04:00",
@@ -58,7 +58,7 @@
 				"description" : "Partial Road Closure of Two Right Lanes on Sheikh Khalifa Bin Zayed Int’l Road (E11) in Al Dhafra Region",
 				"lane_impact" : {
 					"total_closed_lanes" : 2,
-					"roadside" : "RIGHT"
+					"roadside" : "RIGHT",
 				},
 				"startTime" : "2025-10-19T00:01:00+04:00",
 				"endTime" : "2025-11-13T06:00:00+04:00",
@@ -91,7 +91,7 @@
 				"description" : "Partial Road Closure of Left Lane Towards Liwa on Sheikha Salama Bint Butti Road (E45) in Madinat Zayed - Al Dhafra Region",
 				"lane_impact" : {
 					"total_closed_lanes" : 1,
-				  "roadside" : "LEFT"
+					"roadside" : "LEFT",
 				},
 				"startTime" : "2025-10-19T00:01:00+04:00",
 				"endTime" : "2025-10-29T06:00:00+04:00",
@@ -119,7 +119,7 @@
 				"description" : "Partial Closure on Left Lane of Intersections on Sheikha Salama Bint Butti Road (E45) Al Dhafra Region",
 				"lane_impact" : {
 					"total_closed_lanes" : 1,
-				  "roadside" : "LEFT"
+					"roadside" : "LEFT",
 				},
 				"startTime" : "2025-10-21T00:01:00+04:00",
 				"endTime" : "2025-11-20T06:00:00+04:00",
@@ -150,7 +150,7 @@
 				"description" : "Partial Closure on Left Lane of Intersections on Sheikha Salama Bint Butti Road (E45) Al Dhafra Region",
 				"lane_impact" : {
 					"total_closed_lanes" : 1,
-					"roadside" : "LEFT"
+					"roadside" : "LEFT",
 				},
 				"startTime" : "2025-10-21T00:01:00+04:00",
 				"endTime" : "2025-11-20T06:00:00+04:00",
@@ -179,7 +179,7 @@
 				"description" : "Partial Closure on Left Lane of Intersections on Sheikha Salama Bint Butti Road (E45) Al Dhafra Region",
 				"lane_impact" : {
 					"total_closed_lanes" : 1,
-					"roadside" : "LEFT"
+					"roadside" : "LEFT",
 				},
 				"startTime" : "2025-10-21T00:01:00+04:00",
 				"endTime" : "2025-11-20T06:00:00+04:00",
@@ -263,7 +263,163 @@
 				"endTime" : "2025-11-20T06:00:00+04:00",
 				"name" : "ROAD CLOSURE OF INTERSECTIONS AL DHAFRA REGION"
 			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 53.6943491934, 23.6777151724 ],
+					[ 53.6934097705, 23.6798438974 ],
+					[ 53.6930752353, 23.6806022966 ],
+					[ 53.6923318018, 23.6822888851 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00163",
+				"creationtime" : "2025-10-23T06:51:38+04:00",
+				"updatetime" : "2025-10-23T10:52:45+04:00",
+				"street" : "Sheikha Salama Bint Butti Road",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Closure on Right 2 Lanes Including Acceleration/Deceleration Lanes of Intersections on Sheikha Salama Bint Butti Road (E45) Al Dhafra Region",
+				"lane_impact" : {
+					"total_closed_lanes" : 2,
+					"roadside" : "RIGHT",
+				},
+				"startTime" : "2025-10-23T00:01:00+04:00",
+				"endTime" : "2025-10-24T06:00:00+04:00",
+				"name" : "PARTIAL CLOSURE OF INTERSECTIONS IN MADINAT ZAYED - AL DHAFRA REGION"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 53.6921756201, 23.6822367352 ],
+					[ 53.6927812209, 23.6808877567 ],
+					[ 53.6931274311, 23.680089093 ],
+					[ 53.6941876365, 23.6777029497 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00164",
+				"creationtime" : "2025-10-23T06:51:38+04:00",
+				"updatetime" : "2025-10-23T10:52:45+04:00",
+				"street" : "Sheikha Salama Bint Butti Road",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Closure on Right 2 Lanes Including Acceleration/Deceleration Lanes of Intersections on Sheikha Salama Bint Butti Road (E45) Al Dhafra Region",
+				"lane_impact" : {
+					"total_closed_lanes" : 2,
+					"roadside" : "RIGHT",
+				},
+				"startTime" : "2025-10-23T00:01:00+04:00",
+				"endTime" : "2025-10-24T06:00:00+04:00",
+				"name" : "PARTIAL CLOSURE OF INTERSECTIONS IN MADINAT ZAYED - AL DHAFRA REGION"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 53.6930776068, 23.6800877512 ],
+					[ 53.6921813371, 23.67973762 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00165",
+				"creationtime" : "2025-10-23T06:51:38+04:00",
+				"updatetime" : "2025-10-23T10:52:45+04:00",
+				"street" : "At Taʹleem Street",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Road Closure of Intersections on At Taʹleem Street - Al Dhafra Region",
+				"lanePosition" : null,
+				"startTime" : "2025-10-23T00:01:00+04:00",
+				"endTime" : "2025-10-24T06:00:00+04:00",
+				"name" : "ROAD CLOSURE OF INTERSECTIONS IN MADINAT ZAYED - AL DHAFRA REGION"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 53.692202553, 23.6796630842 ],
+					[ 53.6931106246, 23.6800097647 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00166",
+				"creationtime" : "2025-10-23T06:51:38+04:00",
+				"updatetime" : "2025-10-23T10:52:45+04:00",
+				"street" : "At Taʹleem Street",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Road Closure of Intersections on At Taʹleem Street - Al Dhafra Region",
+				"lanePosition" : null,
+				"startTime" : "2025-10-23T00:01:00+04:00",
+				"endTime" : "2025-10-24T06:00:00+04:00",
+				"name" : "ROAD CLOSURE OF INTERSECTIONS IN MADINAT ZAYED - AL DHAFRA REGION"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 53.6948245714, 23.6806999216 ],
+					[ 53.6940881121, 23.6804664018 ],
+					[ 53.6933183086, 23.68018026 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00167",
+				"creationtime" : "2025-10-23T06:51:38+04:00",
+				"updatetime" : "2025-10-23T10:52:45+04:00",
+				"street" : "At Taʹleem Street",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Road Closure of Intersections on At Taʹleem Street - Al Dhafra Region",
+				"lanePosition" : null,
+				"startTime" : "2025-10-23T00:01:00+04:00",
+				"endTime" : "2025-10-24T06:00:00+04:00",
+				"name" : "ROAD CLOSURE OF INTERSECTIONS IN MADINAT ZAYED - AL DHAFRA REGION"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 53.6933526609, 23.6801021512 ],
+					[ 53.6937836979, 23.6802665095 ],
+					[ 53.6943583979, 23.6804928724 ],
+					[ 53.6948252504, 23.6806935004 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00168",
+				"creationtime" : "2025-10-23T06:51:38+04:00",
+				"updatetime" : "2025-10-23T10:52:45+04:00",
+				"street" : "At Taʹleem Street",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Road Closure of Intersections on At Taʹleem Street - Al Dhafra Region",
+				"lanePosition" : null,
+				"startTime" : "2025-10-23T00:01:00+04:00",
+				"endTime" : "2025-10-24T06:00:00+04:00",
+				"name" : "ROAD CLOSURE OF INTERSECTIONS IN MADINAT ZAYED - AL DHAFRA REGION"
+			}
 		}
 	]
 }
-
