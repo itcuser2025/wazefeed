@@ -448,6 +448,124 @@
 				"endTime" : "2025-10-27T05:00:00+04:00",
 				"name" : "PARTIAL ROAD CLOSURE IN ABU DHABI"
 			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.5307150135, 24.3470420093 ],
+					[ 54.5278244, 24.3469271227 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00171",
+				"creationtime" : "2025-10-24T10:36:04+04:00",
+				"updatetime" : "2025-10-24T14:36:28+04:00",
+				"street" : "Mohammed Bin Khalifa Al Kindi Street",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Road Closure on Right Lane of Mohammed Bin Khalifa Al Kindi Street MBZ City - Abu Dhabi",
+			
+				"lane_impact" : {
+					"total_closed_lanes" : 1,
+					"roadside" : "RIGHT"
+				},
+				"startTime" : "2025-10-24T22:00:00+04:00",
+				"endTime" : "2025-10-25T13:00:00+04:00",
+				"name" : "PARTIAL ROAD CLOSURE IN ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.5244029994, 24.3466393243 ],
+					[ 54.525689449, 24.3466966363 ],
+					[ 54.5276862965, 24.3467652222 ],
+					[ 54.5283658665, 24.3467997445 ],
+					[ 54.5295214, 24.346851246 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00172",
+				"creationtime" : "2025-10-24T10:36:04+04:00",
+				"updatetime" : "2025-10-24T14:36:28+04:00",
+				"street" : "Mohammed Bin Khalifa Al Kindi Street",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Road Closure on Right Lane of Mohammed Bin Khalifa Al Kindi Street MBZ City - Abu Dhabi",
+			
+				"lane_impact" : {
+					"total_closed_lanes" : 1,
+					"roadside" : "RIGHT"
+				},
+				"startTime" : "2025-10-24T22:00:00+04:00",
+				"endTime" : "2025-10-25T13:00:00+04:00",
+				"name" : "PARTIAL ROAD CLOSURE IN ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.5307150135, 24.3470420093 ],
+					[ 54.5278244, 24.3469271227 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00173",
+				"creationtime" : "2025-10-24T10:36:04+04:00",
+				"updatetime" : "2025-10-24T14:36:28+04:00",
+				"street" : "Mohammed Bin Khalifa Al Kindi Street",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Road Closure on Left Lane of Mohammed Bin Khalifa Al Kindi Street MBZ City - Abu Dhabi",
+				 
+				"lane_impact" : {
+					"total_closed_lanes" : 1,
+					"roadside" : "LEFT"
+				},
+				"startTime" : "2025-10-25T22:00:00+04:00",
+				"endTime" : "2025-10-26T14:00:00+04:00",
+				"name" : "PARTIAL ROAD CLOSURE IN ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.5244029994, 24.3466393243 ],
+					[ 54.525689449, 24.3466966363 ],
+					[ 54.5276862965, 24.3467652222 ],
+					[ 54.5283658665, 24.3467997445 ],
+					[ 54.5295214, 24.346851246 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00174",
+				"creationtime" : "2025-10-24T10:36:04+04:00",
+				"updatetime" : "2025-10-24T14:36:28+04:00",
+				"street" : "Mohammed Bin Khalifa Al Kindi Street",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Road Closure on Two Left Lane of Mohammed Bin Khalifa Al Kindi Street MBZ City - Abu Dhabi",
+				
+				"lane_impact" : {
+					"total_closed_lanes" : 2,
+				"roadside" : "LEFT"
+				},
+				"startTime" : "2025-10-25T22:00:00+04:00",
+				"endTime" : "2025-10-26T14:00:00+04:00",
+				"name" : "PARTIAL ROAD CLOSURE IN ABU DHABI"
+			}
 		}
 	]
 }
