@@ -208,6 +208,106 @@
 				"endTime" : "2025-11-20T06:00:00+04:00",
 				"name" : "ROAD CLOSURE OF INTERSECTIONS AL DHAFRA REGION"
 			}
+		},
+			{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.3845738005, 24.4642675309 ],
+					[ 54.3845334579, 24.4644029517 ],
+					[ 54.3840829677, 24.4649626394 ],
+					[ 54.3839424531, 24.4651527237 ],
+					[ 54.3837238054, 24.4654485026 ],
+					[ 54.383313541, 24.4660710511 ],
+					[ 54.3830502312, 24.4664889877 ],
+					[ 54.3829330801, 24.4666493971 ],
+					[ 54.3828101221, 24.4668262523 ],
+					[ 54.3827039337, 24.4669521574 ],
+					[ 54.3825993219, 24.4670576497 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00175",
+				"creationtime" : "2025-10-31T07:17:37+04:00",
+				"updatetime" : "2025-10-31T11:18:01+04:00",
+				"street" : "Sultan Bin Zayed The First Street",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Road Closure on Sultan Bin Zayed The First Street - Abu Dhabi",
+				"lanePosition" : null,
+				"startTime" : "2025-10-31T23:00:00+04:00",
+				"endTime" : "2025-11-03T05:00:00+04:00",
+				"name" : "ROAD CLOSURE ON SULTAN BIN ZAYED THE FIRST STREET ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.3830502312, 24.4664889877 ],
+					[ 54.3830483759, 24.4665876595 ],
+					[ 54.3829203061, 24.4667765117 ],
+					[ 54.3828681877, 24.4668676014 ],
+					[ 54.3828504423, 24.4669716592 ],
+					[ 54.3828565271, 24.4670562009 ],
+					[ 54.3828901033, 24.4671671511 ],
+					[ 54.3829317923, 24.4672427275 ],
+					[ 54.3830555129, 24.4674278637 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00176",
+				"creationtime" : "2025-10-31T07:17:37+04:00",
+				"updatetime" : "2025-10-31T11:18:05+04:00",
+				"street" : "Sultan Bin Zayed The First Street",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Road Closure on Sultan Bin Zayed The First Street - Abu Dhabi",
+				"lanePosition" : null,
+				"startTime" : "2025-10-31T23:00:00+04:00",
+				"endTime" : "2025-11-03T05:00:00+04:00",
+				"name" : "ROAD CLOSURE ON SULTAN BIN ZAYED THE FIRST STREET ABU DHABI"
+			}
+		},
+		
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 52.3047706147, 23.9814631378 ],
+					[ 52.3109326102, 23.9850043892 ],
+					[ 52.3164749727, 23.9881973278 ],
+					[ 52.3239253055, 23.9924930026 ],
+					[ 52.3271355183, 23.9943453991 ],
+					[ 52.3300172024, 23.9959936505 ],
+					[ 52.3344682863, 23.9985599316 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00177",
+				"creationtime" : "2025-10-31T11:23:35+04:00",
+				"updatetime" : "2025-10-31T15:24:58+04:00",
+				"street" : "Sheikh Khalifa Bin Zayed Int'l Road - E11",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Road Closure of Right Lane Towards Ghuweifaton Sheikh Khalifa Bin Zayed Int’l Road (E11) in Al Dhafra Region",
+				
+				"lane_impact" : {
+					"total_closed_lanes" : 1,
+					"roadside" : "RIGHT"
+				},
+				"startTime" : "2025-10-31T23:00:00+04:00",
+				"endTime" : "2025-11-13T05:00:00+04:00",
+				"name" : "PARTIAL ROAD CLOSURE IN AL DHAFRA REGION"
+			}
 		}
+
+
 	]
 }
