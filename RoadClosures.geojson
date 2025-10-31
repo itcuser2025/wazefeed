@@ -32,7 +32,7 @@
 			 
 				"lane_impact" : {
 					"total_closed_lanes" : 2,
-				"roadside" : "RIGHT"
+					"roadside" : "RIGHT"
 				},
 				"startTime" : "2025-10-19T00:01:00+04:00",
 				"endTime" : "2025-11-13T06:00:00+04:00",
@@ -56,12 +56,13 @@
 				"street" : "Sheikha Salama Bint Butti Road",
 				"type" : "HAZARD",
 				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
 				"direction" : "ONE_DIRECTION",
 				"description" : "Partial Closure on Left Lane of Intersections on Sheikha Salama Bint Butti Road (E45) Al Dhafra Region",
 			 
 				"lane_impact" : {
 					"total_closed_lanes" : 1,
-					"roadside" : "LEFT"
+				"roadside" : "LEFT"
 				},
 				"startTime" : "2025-10-21T00:01:00+04:00",
 				"endTime" : "2025-11-20T06:00:00+04:00",
@@ -90,10 +91,10 @@
 				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
 				"direction" : "ONE_DIRECTION",
 				"description" : "Partial Closure on Left Lane of Intersections on Sheikha Salama Bint Butti Road (E45) Al Dhafra Region",
-				 
+			 
 				"lane_impact" : {
 					"total_closed_lanes" : 1,
-				"roadside" : "LEFT"
+					"roadside" : "LEFT"
 				},
 				"startTime" : "2025-10-21T00:01:00+04:00",
 				"endTime" : "2025-11-20T06:00:00+04:00",
@@ -120,7 +121,7 @@
 				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
 				"direction" : "ONE_DIRECTION",
 				"description" : "Partial Closure on Left Lane of Intersections on Sheikha Salama Bint Butti Road (E45) Al Dhafra Region",
-			 
+				 
 				"lane_impact" : {
 					"total_closed_lanes" : 1,
 					"roadside" : "LEFT"
