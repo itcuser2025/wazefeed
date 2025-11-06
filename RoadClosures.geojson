@@ -29,7 +29,7 @@
 				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
 				"direction" : "ONE_DIRECTION",
 				"description" : "Partial Road Closure of Two Right Lanes on Sheikh Khalifa Bin Zayed Int’l Road (E11) in Al Dhafra Region",
-			 
+				"lanePosition" : "Right",
 				"lane_impact" : {
 					"total_closed_lanes" : 2,
 					"roadside" : "RIGHT"
@@ -56,13 +56,12 @@
 				"street" : "Sheikha Salama Bint Butti Road",
 				"type" : "HAZARD",
 				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
-				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
 				"direction" : "ONE_DIRECTION",
 				"description" : "Partial Closure on Left Lane of Intersections on Sheikha Salama Bint Butti Road (E45) Al Dhafra Region",
-			 
+				"lanePosition" : "Left",
 				"lane_impact" : {
 					"total_closed_lanes" : 1,
-				"roadside" : "LEFT"
+					"roadside" : "LEFT"
 				},
 				"startTime" : "2025-10-21T00:01:00+04:00",
 				"endTime" : "2025-11-20T06:00:00+04:00",
@@ -91,7 +90,7 @@
 				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
 				"direction" : "ONE_DIRECTION",
 				"description" : "Partial Closure on Left Lane of Intersections on Sheikha Salama Bint Butti Road (E45) Al Dhafra Region",
-			 
+				"lanePosition" : "Left",
 				"lane_impact" : {
 					"total_closed_lanes" : 1,
 					"roadside" : "LEFT"
@@ -121,7 +120,7 @@
 				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
 				"direction" : "ONE_DIRECTION",
 				"description" : "Partial Closure on Left Lane of Intersections on Sheikha Salama Bint Butti Road (E45) Al Dhafra Region",
-				 
+				"lanePosition" : "Left",
 				"lane_impact" : {
 					"total_closed_lanes" : 1,
 					"roadside" : "LEFT"
@@ -209,37 +208,34 @@
 				"name" : "ROAD CLOSURE OF INTERSECTIONS AL DHAFRA REGION"
 			}
 		},
-			{
+		{
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "LineString",
 				"coordinates" : [
-					[ 54.3845738005, 24.4642675309 ],
-					[ 54.3845334579, 24.4644029517 ],
-					[ 54.3840829677, 24.4649626394 ],
-					[ 54.3839424531, 24.4651527237 ],
-					[ 54.3837238054, 24.4654485026 ],
-					[ 54.383313541, 24.4660710511 ],
-					[ 54.3830502312, 24.4664889877 ],
-					[ 54.3829330801, 24.4666493971 ],
-					[ 54.3828101221, 24.4668262523 ],
-					[ 54.3827039337, 24.4669521574 ],
-					[ 54.3825993219, 24.4670576497 ]
+					[ 53.6977230899, 23.6688180688 ],
+					[ 53.6978637016, 23.6688279254 ],
+					[ 53.6979117947, 23.668829876 ],
+					[ 53.6979596971, 23.6688251788 ],
+					[ 53.698006496, 23.6688139238 ],
+					[ 53.6980512957, 23.6687963259 ],
+					[ 53.6980932428, 23.6687727214 ],
+					[ 53.6981315359, 23.6687435591 ]
 				]
 			},
 			"properties" : {
-				"id" : "AD00175",
-				"creationtime" : "2025-10-31T07:17:37+04:00",
-				"updatetime" : "2025-10-31T11:18:01+04:00",
-				"street" : "Sultan Bin Zayed The First Street",
+				"id" : "AD00189",
+				"creationtime" : "2025-11-06T10:19:44+04:00",
+				"updatetime" : "--T::+04:00",
+				"street" : "Obaid Bin Mariman Al Ameri  Street",
 				"type" : "ROAD_CLOSED",
 				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
 				"direction" : "ONE_DIRECTION",
-				"description" : "Road Closure on Sultan Bin Zayed The First Street - Abu Dhabi",
+				"description" : "Partial Closure of Intersections on Sheikha Salama Bint Butti Road (E45) Al Dhafra Region",
 				"lanePosition" : null,
-				"startTime" : "2025-10-31T23:00:00+04:00",
-				"endTime" : "2025-11-03T05:00:00+04:00",
-				"name" : "ROAD CLOSURE ON SULTAN BIN ZAYED THE FIRST STREET ABU DHABI"
+				"startTime" : "2025-11-06T00:01:00+04:00",
+				"endTime" : "2025-11-07T06:00:00+04:00",
+				"name" : "PARTIAL CLOSURE OF INTERSECTIONS AL DHAFRA REGION"
 			}
 		},
 		{
@@ -247,33 +243,109 @@
 			"geometry" : {
 				"type" : "LineString",
 				"coordinates" : [
-					[ 54.3830502312, 24.4664889877 ],
-					[ 54.3830483759, 24.4665876595 ],
-					[ 54.3829203061, 24.4667765117 ],
-					[ 54.3828681877, 24.4668676014 ],
-					[ 54.3828504423, 24.4669716592 ],
-					[ 54.3828565271, 24.4670562009 ],
-					[ 54.3828901033, 24.4671671511 ],
-					[ 54.3829317923, 24.4672427275 ],
-					[ 54.3830555129, 24.4674278637 ]
+					[ 53.6982040798, 23.6690848158 ],
+					[ 53.6983542459, 23.669167048 ],
+					[ 53.698481178, 23.6692341752 ]
 				]
 			},
 			"properties" : {
-				"id" : "AD00176",
-				"creationtime" : "2025-10-31T07:17:37+04:00",
-				"updatetime" : "2025-10-31T11:18:05+04:00",
-				"street" : "Sultan Bin Zayed The First Street",
+				"id" : "AD00179",
+				"creationtime" : "2025-11-06T10:18:09+04:00",
+				"updatetime" : "2025-09-24T16:12:18+04:00",
+				"street" : "Obaid Bin Mariman Al Ameri  Street",
 				"type" : "ROAD_CLOSED",
 				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
 				"direction" : "ONE_DIRECTION",
-				"description" : "Road Closure on Sultan Bin Zayed The First Street - Abu Dhabi",
+				"description" : "Partial Closure of Intersections on Sheikha Salama Bint Butti Road (E45) Al Dhafra Region",
 				"lanePosition" : null,
-				"startTime" : "2025-10-31T23:00:00+04:00",
-				"endTime" : "2025-11-03T05:00:00+04:00",
-				"name" : "ROAD CLOSURE ON SULTAN BIN ZAYED THE FIRST STREET ABU DHABI"
+				"startTime" : "2025-11-06T00:01:00+04:00",
+				"endTime" : "2025-11-07T06:00:00+04:00",
+				"name" : "PARTIAL CLOSURE OF INTERSECTIONS AL DHAFRA REGION"
 			}
 		},
-		
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 53.6982317474, 23.6691853384 ],
+					[ 53.6981537564, 23.669107048 ],
+					[ 53.6981466787, 23.6690995818 ],
+					[ 53.6981401784, 23.6690922514 ],
+					[ 53.6981338319, 23.6690845811 ],
+					[ 53.6981276644, 23.6690765645 ],
+					[ 53.6981161108, 23.6690597985 ],
+					[ 53.6981057677, 23.6690421709 ],
+					[ 53.6980967178, 23.6690237518 ],
+					[ 53.6980918668, 23.6690121695 ],
+					[ 53.6980895619, 23.6690060478 ],
+					[ 53.69808212, 23.6689822733 ],
+					[ 53.6980769165, 23.6689578163 ],
+					[ 53.6980740432, 23.6689330345 ],
+					[ 53.6980735252, 23.668908117 ],
+					[ 53.6980753868, 23.6688830727 ],
+					[ 53.6980771297, 23.6688710784 ],
+					[ 53.698078225, 23.6688650206 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00184",
+				"creationtime" : "2025-11-06T10:18:54+04:00",
+				"updatetime" : "--T::+04:00",
+				"street" : "Obaid Bin Mariman Al Ameri  Street",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Closure of Intersections on Sheikha Salama Bint Butti Road (E45) Al Dhafra Region",
+				"lanePosition" : null,
+				"startTime" : "2025-11-06T00:01:00+04:00",
+				"endTime" : "2025-11-07T06:00:00+04:00",
+				"name" : "PARTIAL CLOSURE OF INTERSECTIONS AL DHAFRA REGION"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 53.6982203269, 23.6689284183 ],
+					[ 53.6981700746, 23.6689712737 ],
+					[ 53.6981597234, 23.668978989 ],
+					[ 53.6981487058, 23.6689858787 ],
+					[ 53.6981371018, 23.6689918943 ],
+					[ 53.6981249916, 23.6689969934 ],
+					[ 53.6981124595, 23.6690011402 ],
+					[ 53.6980995938, 23.6690043058 ],
+					[ 53.6980894234, 23.6690062537 ],
+					[ 53.6980770514, 23.6690082799 ],
+					[ 53.6980705484, 23.6690091882 ],
+					[ 53.6980572573, 23.6690107279 ],
+					[ 53.6980437198, 23.6690118502 ],
+					[ 53.6980299512, 23.6690125364 ],
+					[ 53.6980157869, 23.6690127711 ],
+					[ 53.6980084098, 23.6690126947 ],
+					[ 53.6979780298, 23.6690110363 ],
+					[ 53.6979476956, 23.6690071297 ],
+					[ 53.6979176079, 23.6690009639 ],
+					[ 53.6979052215, 23.6689977381 ],
+					[ 53.6978989812, 23.6689959538 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00186",
+				"creationtime" : "2025-11-06T10:18:54+04:00",
+				"updatetime" : "--T::+04:00",
+				"street" : "Obaid Bin Mariman Al Ameri  Street",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Closure of Intersections on Sheikha Salama Bint Butti Road (E45) Al Dhafra Region",
+				"lanePosition" : null,
+				"startTime" : "2025-11-06T00:01:00+04:00",
+				"endTime" : "2025-11-07T06:00:00+04:00",
+				"name" : "PARTIAL CLOSURE OF INTERSECTIONS AL DHAFRA REGION"
+			}
+		},
 		{
 			"type" : "Feature",
 			"geometry" : {
@@ -297,17 +369,327 @@
 				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
 				"direction" : "ONE_DIRECTION",
 				"description" : "Partial Road Closure of Right Lane Towards Ghuweifaton Sheikh Khalifa Bin Zayed Int’l Road (E11) in Al Dhafra Region",
-				
+				"lanePosition" : "Right",
 				"lane_impact" : {
 					"total_closed_lanes" : 1,
-					"roadside" : "RIGHT"
+					"roadside" : null
 				},
 				"startTime" : "2025-10-31T23:00:00+04:00",
 				"endTime" : "2025-11-13T05:00:00+04:00",
 				"name" : "PARTIAL ROAD CLOSURE IN AL DHAFRA REGION"
 			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 53.6983883967, 23.6692670257 ],
+					[ 53.6982584393, 23.6691995792 ],
+					[ 53.6981700998, 23.6691511696 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00180",
+				"creationtime" : "2025-11-06T10:18:09+04:00",
+				"updatetime" : "2025-09-24T16:12:18+04:00",
+				"street" : "Obaid Bin Mariman Al Ameri  Street",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Closure of Intersections on Sheikha Salama Bint Butti Road (E45) Al Dhafra Region",
+				"lanePosition" : null,
+				"startTime" : "2025-11-06T00:01:00+04:00",
+				"endTime" : "2025-11-07T06:00:00+04:00",
+				"name" : "PARTIAL CLOSURE OF INTERSECTIONS AL DHAFRA REGION"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 53.6979420848, 23.6691750457 ],
+					[ 53.698059502, 23.6690967975 ],
+					[ 53.6980686221, 23.6690916498 ],
+					[ 53.6980783545, 23.6690871451 ],
+					[ 53.6980886518, 23.6690833301 ],
+					[ 53.698099458, 23.669080303 ],
+					[ 53.6981105098, 23.6690781554 ],
+					[ 53.6981217225, 23.6690769036 ],
+					[ 53.6981330108, 23.6690765546 ],
+					[ 53.6981442892, 23.669077114 ],
+					[ 53.6981554714, 23.6690785763 ],
+					[ 53.6981664737, 23.6690809298 ],
+					[ 53.6981772107, 23.6690841584 ],
+					[ 53.6981876024, 23.669088235 ],
+					[ 53.6982662652, 23.6691201124 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00185",
+				"creationtime" : "2025-11-06T10:18:54+04:00",
+				"updatetime" : "--T::+04:00",
+				"street" : "Obaid Bin Mariman Al Ameri  Street",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Closure of Intersections on Sheikha Salama Bint Butti Road (E45) Al Dhafra Region",
+				"lanePosition" : null,
+				"startTime" : "2025-11-06T00:01:00+04:00",
+				"endTime" : "2025-11-07T06:00:00+04:00",
+				"name" : "PARTIAL CLOSURE OF INTERSECTIONS AL DHAFRA REGION"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 53.6983670621, 23.6685955091 ],
+					[ 53.6983284254, 23.6688580374 ],
+					[ 53.6983263291, 23.6689107664 ],
+					[ 53.6983306422, 23.6689633606 ],
+					[ 53.6983413019, 23.6690150428 ],
+					[ 53.6983581507, 23.6690650514 ],
+					[ 53.6983809395, 23.669112648 ],
+					[ 53.6984093329, 23.6691571294 ],
+					[ 53.6984429109, 23.669197839 ],
+					[ 53.698481178, 23.6692341752 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00191",
+				"creationtime" : "2025-11-06T10:19:44+04:00",
+				"updatetime" : "--T::+04:00",
+				"street" : "Obaid Bin Mariman Al Ameri  Street",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Closure of Intersections on Sheikha Salama Bint Butti Road (E45) Al Dhafra Region",
+				"lanePosition" : null,
+				"startTime" : "2025-11-06T00:01:00+04:00",
+				"endTime" : "2025-11-07T06:00:00+04:00",
+				"name" : "PARTIAL CLOSURE OF INTERSECTIONS AL DHAFRA REGION"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 53.6983883967, 23.6692670257 ],
+					[ 53.6983367819, 23.6692618096 ],
+					[ 53.6982849333, 23.6692635453 ],
+					[ 53.6982337826, 23.6692722013 ],
+					[ 53.6981842497, 23.6692876219 ],
+					[ 53.6981372251, 23.6693095321 ],
+					[ 53.698093554, 23.6693375352 ],
+					[ 53.6980540216, 23.6693711285 ],
+					[ 53.6980193392, 23.6694097094 ],
+					[ 53.6979901301, 23.6694525828 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00190",
+				"creationtime" : "2025-11-06T10:19:44+04:00",
+				"updatetime" : "--T::+04:00",
+				"street" : "Obaid Bin Mariman Al Ameri  Street",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Closure of Intersections on Sheikha Salama Bint Butti Road (E45) Al Dhafra Region",
+				"lanePosition" : null,
+				"startTime" : "2025-11-06T00:01:00+04:00",
+				"endTime" : "2025-11-07T06:00:00+04:00",
+				"name" : "PARTIAL CLOSURE OF INTERSECTIONS AL DHAFRA REGION"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 53.6977230899, 23.6688180688 ],
+					[ 53.6978775512, 23.6688985437 ],
+					[ 53.6979847378, 23.6689605106 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00178",
+				"creationtime" : "2025-11-06T10:18:09+04:00",
+				"updatetime" : "2025-09-24T16:12:18+04:00",
+				"street" : "Obaid Bin Mariman Al Ameri  Street",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Closure of Intersections on Sheikha Salama Bint Butti Road (E45) Al Dhafra Region",
+				"lanePosition" : null,
+				"startTime" : "2025-11-06T00:01:00+04:00",
+				"endTime" : "2025-11-07T06:00:00+04:00",
+				"name" : "PARTIAL CLOSURE OF INTERSECTIONS AL DHAFRA REGION"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 53.697957402, 23.6690300921 ],
+					[ 53.6978429363, 23.6689644317 ],
+					[ 53.6977417976, 23.6689145148 ],
+					[ 53.6976444415, 23.6688664658 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00181",
+				"creationtime" : "2025-11-06T10:18:09+04:00",
+				"updatetime" : "2025-09-24T16:12:18+04:00",
+				"street" : "Obaid Bin Mariman Al Ameri  Street",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Closure of Intersections on Sheikha Salama Bint Butti Road (E45) Al Dhafra Region",
+				"lanePosition" : null,
+				"startTime" : "2025-11-06T00:01:00+04:00",
+				"endTime" : "2025-11-07T06:00:00+04:00",
+				"name" : "PARTIAL CLOSURE OF INTERSECTIONS AL DHAFRA REGION"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 53.6983883967, 23.6692670257 ],
+					[ 53.6983483787, 23.6692475643 ],
+					[ 53.6982317474, 23.6691853384 ],
+					[ 53.6981603124, 23.6691457449 ],
+					[ 53.6981169804, 23.6691214488 ],
+					[ 53.6980663072, 23.6690927676 ],
+					[ 53.6979921122, 23.6690502405 ],
+					[ 53.697940814, 23.669020463 ],
+					[ 53.6978989812, 23.6689959538 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00183",
+				"creationtime" : "2025-11-06T10:18:54+04:00",
+				"updatetime" : "--T::+04:00",
+				"street" : "Obaid Bin Mariman Al Ameri  Street",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Closure of Intersections on Sheikha Salama Bint Butti Road (E45) Al Dhafra Region",
+				"lanePosition" : null,
+				"startTime" : "2025-11-06T00:01:00+04:00",
+				"endTime" : "2025-11-07T06:00:00+04:00",
+				"name" : "PARTIAL CLOSURE OF INTERSECTIONS AL DHAFRA REGION"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 53.6979296615, 23.6689293437 ],
+					[ 53.6979803455, 23.6689652536 ],
+					[ 53.6979928839, 23.668974773 ],
+					[ 53.6980048547, 23.6689848957 ],
+					[ 53.6980163553, 23.6689957245 ],
+					[ 53.69802161, 23.669001079 ],
+					[ 53.6980268387, 23.6690066962 ],
+					[ 53.6980320206, 23.669012585 ],
+					[ 53.6980457316, 23.6690298816 ],
+					[ 53.6980580622, 23.6690482503 ],
+					[ 53.6980688244, 23.6690674391 ],
+					[ 53.6980780191, 23.6690875003 ],
+					[ 53.6980799724, 23.6690924007 ],
+					[ 53.6980837496, 23.6691028157 ],
+					[ 53.6980877659, 23.669115703 ],
+					[ 53.6980911465, 23.6691289294 ],
+					[ 53.6980938283, 23.6691422906 ],
+					[ 53.6980958041, 23.6691557561 ],
+					[ 53.6980900565, 23.6692248888 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00187",
+				"creationtime" : "2025-11-06T10:18:54+04:00",
+				"updatetime" : "--T::+04:00",
+				"street" : "Obaid Bin Mariman Al Ameri  Street",
+				"type" : "ROAD_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Closure of Intersections on Sheikha Salama Bint Butti Road (E45) Al Dhafra Region",
+				"lanePosition" : null,
+				"startTime" : "2025-11-06T00:01:00+04:00",
+				"endTime" : "2025-11-07T06:00:00+04:00",
+				"name" : "PARTIAL CLOSURE OF INTERSECTIONS AL DHAFRA REGION"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 53.6978422141, 23.6694019482 ],
+					[ 53.6978454067, 23.6691995927 ],
+					[ 53.6978396538, 23.6691509493 ],
+					[ 53.6978282081, 23.669103323 ],
+					[ 53.6978112307, 23.6690573775 ],
+					[ 53.6977889572, 23.6690137523 ],
+					[ 53.6977616978, 23.6689730562 ],
+					[ 53.6977298331, 23.6689358557 ],
+					[ 53.6976938071, 23.668902668 ],
+					[ 53.6976525804, 23.66887545 ],
+					[ 53.6976113294, 23.6688501233 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00188",
+				"creationtime" : "2025-11-06T10:19:44+04:00",
+				"updatetime" : "--T::+04:00",
+				"street" : "Obaid Bin Mariman Al Ameri  Street",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Closure of Intersections on Sheikha Salama Bint Butti Road (E45) Al Dhafra Region",
+				"lanePosition" : null,
+				"startTime" : "2025-11-06T00:01:00+04:00",
+				"endTime" : "2025-11-07T06:00:00+04:00",
+				"name" : "PARTIAL CLOSURE OF INTERSECTIONS AL DHAFRA REGION"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 53.69748607, 23.6687070034 ],
+					[ 53.6974902591, 23.6687089415 ],
+					[ 53.6976949583, 23.6688036644 ],
+					[ 53.6977163576, 23.6688146226 ],
+					[ 53.6977230899, 23.6688180688 ],
+					[ 53.6978600387, 23.6688881925 ],
+					[ 53.6979296615, 23.6689293437 ],
+					[ 53.698096957, 23.6690240144 ],
+					[ 53.6982662652, 23.6691201124 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00182",
+				"creationtime" : "2025-11-06T10:18:54+04:00",
+				"updatetime" : "--T::+04:00",
+				"street" : "Obaid Bin Mariman Al Ameri  Street",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Closure of Intersections on Sheikha Salama Bint Butti Road (E45) Al Dhafra Region",
+				"lanePosition" : null,
+				"startTime" : "2025-11-06T00:01:00+04:00",
+				"endTime" : "2025-11-07T06:00:00+04:00",
+				"name" : "PARTIAL CLOSURE OF INTERSECTIONS AL DHAFRA REGION"
+			}
 		}
-
-
 	]
 }
