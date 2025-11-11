@@ -210,6 +210,29 @@
 			"geometry" : {
 				"type" : "LineString",
 				"coordinates" : [
+					[ 53.7035800129, 23.6568688181 ],
+					[ 53.704081304, 23.6570519273 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00195",
+				"creationtime" : "2025-11-11T13:39:23+04:00",
+				"updatetime" : "2025-11-11T17:39:51+04:00",
+				"street" : "Sikkat Al Khayl Street",
+				"type" : "ROAD_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Closure of Intersections on Sheikha Salama Bint Butti Road (E45) in Madinat Zayed Al Dhafra Region",
+				"lanePosition" : null,
+				"startTime" : "2025-11-12T00:01:00+04:00",
+				"endTime" : "2025-11-13T06:00:00+04:00",
+				"name" : "PARTIAL CLOSURE OF INTERSECTIONS IN MADINAT ZAYED - AL DHAFRA REGION"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
 					[ 52.3047706147, 23.9814631378 ],
 					[ 52.3109326102, 23.9850043892 ],
 					[ 52.3164749727, 23.9881973278 ],
@@ -257,7 +280,7 @@
 				"type" : "HAZARD",
 				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
 				"direction" : "ONE DIRECTION",
-				"description" : "Partial Road Closure of Left Lane Towards Liwa on Sheikha Salama Bint Butti Road (E45) in Madinat Zayed - Al Dhafra Region",
+				"description" : "Partial Road Closure of Left Lane Towards Madinat Zayed on Sheikha Salama Bint Butti Road (E45) - Al Dhafra Region",
 				"lanePosition" : "Left",
 				"lane_impact" : {
 					"total_closed_lanes" : 1,
@@ -266,6 +289,103 @@
 				"startTime" : "2025-11-08T00:01:00+04:00",
 				"endTime" : "2025-11-18T17:00:00+04:00",
 				"name" : "PARTIAL ROAD CLOSURE IN MADINAT ZAYED - AL DHAFRA REGION"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 53.7033406529, 23.6567884089 ],
+					[ 53.7023056151, 23.6563925938 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00197",
+				"creationtime" : "2025-11-11T13:39:23+04:00",
+				"updatetime" : "2025-11-11T17:39:51+04:00",
+				"street" : "Sikkat Al Khayl Street",
+				"type" : "ROAD_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Closure of Intersections on Sheikha Salama Bint Butti Road (E45) in Madinat Zayed Al Dhafra Region",
+				"lanePosition" : null,
+				"startTime" : "2025-11-12T00:01:00+04:00",
+				"endTime" : "2025-11-13T06:00:00+04:00",
+				"name" : "PARTIAL CLOSURE OF INTERSECTIONS IN MADINAT ZAYED - AL DHAFRA REGION"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 52.2655225845, 23.9661442525 ],
+					[ 52.2444004846, 23.9582034969 ],
+					[ 52.2286954708, 23.9523020089 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00193",
+				"creationtime" : "2025-11-11T13:11:42+04:00",
+				"updatetime" : "2025-11-11T17:12:57+04:00",
+				"street" : "Sheikh Khalifa Bin Zayed Int'l Road - E11",
+				"type" : "HAZARD",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Road Closure of Right Lane Towards Ghuweifaton Sheikh Khalifa Bin Zayed Int’l Road (E11) in Al Dhafra Region",
+				"lanePosition" : "Right",
+				"lane_impact" : {
+					"total_closed_lanes" : 1,
+					"roadside" : "RIGHT"
+				},
+				"startTime" : "2025-11-12T00:01:00+04:00",
+				"endTime" : "2025-11-22T06:00:00+04:00",
+				"name" : "PARTIAL ROAD CLOSURE IN AL DHAFRA REGION"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 53.7033087765, 23.6568804311 ],
+					[ 53.7022505352, 23.6564869939 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00196",
+				"creationtime" : "2025-11-11T13:39:23+04:00",
+				"updatetime" : "2025-11-11T17:39:51+04:00",
+				"street" : "Sikkat Al Khayl Street",
+				"type" : "ROAD_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Closure of Intersections on Sheikha Salama Bint Butti Road (E45) in Madinat Zayed Al Dhafra Region",
+				"lanePosition" : null,
+				"startTime" : "2025-11-12T00:01:00+04:00",
+				"endTime" : "2025-11-13T06:00:00+04:00",
+				"name" : "PARTIAL CLOSURE OF INTERSECTIONS IN MADINAT ZAYED - AL DHAFRA REGION"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 53.7035353742, 23.6569665502 ],
+					[ 53.7042581296, 23.6572406635 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00194",
+				"creationtime" : "2025-11-11T13:39:23+04:00",
+				"updatetime" : "2025-11-11T17:39:51+04:00",
+				"street" : "Sikkat Al Khayl Street",
+				"type" : "ROAD_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Closure of Intersections on Sheikha Salama Bint Butti Road (E45) in Madinat Zayed Al Dhafra Region",
+				"lanePosition" : null,
+				"startTime" : "2025-11-12T00:01:00+04:00",
+				"endTime" : "2025-11-13T06:00:00+04:00",
+				"name" : "PARTIAL CLOSURE OF INTERSECTIONS IN MADINAT ZAYED - AL DHAFRA REGION"
 			}
 		}
 	]
