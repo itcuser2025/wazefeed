@@ -2,44 +2,7 @@
 	"type" : "FeatureCollection",
 	"name" : "Road_Closure",
 	"features" : [
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 53.884200582, 24.0350874433 ],
-					[ 53.8859017225, 24.0355243807 ],
-					[ 53.8942302207, 24.0376621133 ],
-					[ 53.9016931584, 24.0395787116 ],
-					[ 53.905338447, 24.0404991155 ],
-					[ 53.9065043605, 24.0407681342 ],
-					[ 53.9084822566, 24.0411993888 ],
-					[ 53.9098020126, 24.0414618209 ],
-					[ 53.9119558682, 24.0418577951 ],
-					[ 53.9141764031, 24.0422106477 ],
-					[ 53.9179353732, 24.0428113526 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00155",
-				"creationtime" : "2025-10-20T11:07:58+04:00",
-				"updatetime" : "2025-10-20T15:12:52+04:00",
-				"street" : "Sheikh Khalifa Bin Zayed Int'l Road - E11",
-				"type" : "HAZARD",
-				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Partial Road Closure of Two Right Lanes on Sheikh Khalifa Bin Zayed Int’l Road (E11) in Al Dhafra Region",
-				"lanePosition" : "Right",
-				"lane_impact" : {
-					"total_closed_lanes" : 2,
-					"roadside" : "RIGHT"
-				},
-				"startTime" : "2025-10-19T00:01:00+04:00",
-				"endTime" : "2025-11-13T06:00:00+04:00",
-				"name" : "PARTIAL ROAD CLOSURE IN AL DHAFRA REGION"
-			}
-		},
-		{
+				{
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "LineString",
@@ -210,62 +173,6 @@
 			"geometry" : {
 				"type" : "LineString",
 				"coordinates" : [
-					[ 53.7035800129, 23.6568688181 ],
-					[ 53.704081304, 23.6570519273 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00195",
-				"creationtime" : "2025-11-11T13:39:23+04:00",
-				"updatetime" : "2025-11-11T17:39:51+04:00",
-				"street" : "Sikkat Al Khayl Street",
-				"type" : "ROAD_CLOSED",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Partial Closure of Intersections on Sheikha Salama Bint Butti Road (E45) in Madinat Zayed Al Dhafra Region",
-				"lanePosition" : null,
-				"startTime" : "2025-11-12T00:01:00+04:00",
-				"endTime" : "2025-11-13T06:00:00+04:00",
-				"name" : "PARTIAL CLOSURE OF INTERSECTIONS IN MADINAT ZAYED - AL DHAFRA REGION"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 52.3047706147, 23.9814631378 ],
-					[ 52.3109326102, 23.9850043892 ],
-					[ 52.3164749727, 23.9881973278 ],
-					[ 52.3239253055, 23.9924930026 ],
-					[ 52.3271355183, 23.9943453991 ],
-					[ 52.3300172024, 23.9959936505 ],
-					[ 52.3344682863, 23.9985599316 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00177",
-				"creationtime" : "2025-10-31T11:23:35+04:00",
-				"updatetime" : "2025-10-31T15:24:58+04:00",
-				"street" : "Sheikh Khalifa Bin Zayed Int'l Road - E11",
-				"type" : "HAZARD",
-				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Partial Road Closure of Right Lane Towards Ghuweifaton Sheikh Khalifa Bin Zayed Int’l Road (E11) in Al Dhafra Region",
-				"lanePosition" : "Right",
-				"lane_impact" : {
-					"total_closed_lanes" : 1,
-					"roadside" : "RIGHT"
-				},
-				"startTime" : "2025-10-31T23:00:00+04:00",
-				"endTime" : "2025-11-13T05:00:00+04:00",
-				"name" : "PARTIAL ROAD CLOSURE IN AL DHAFRA REGION"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
 					[ 53.7643531454, 23.3885856365 ],
 					[ 53.7665989405, 23.3771503961 ],
 					[ 53.7683451154, 23.368175029 ],
@@ -289,29 +196,6 @@
 				"startTime" : "2025-11-08T00:01:00+04:00",
 				"endTime" : "2025-11-18T17:00:00+04:00",
 				"name" : "PARTIAL ROAD CLOSURE IN MADINAT ZAYED - AL DHAFRA REGION"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 53.7033406529, 23.6567884089 ],
-					[ 53.7023056151, 23.6563925938 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00197",
-				"creationtime" : "2025-11-11T13:39:23+04:00",
-				"updatetime" : "2025-11-11T17:39:51+04:00",
-				"street" : "Sikkat Al Khayl Street",
-				"type" : "ROAD_CLOSED",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Partial Closure of Intersections on Sheikha Salama Bint Butti Road (E45) in Madinat Zayed Al Dhafra Region",
-				"lanePosition" : null,
-				"startTime" : "2025-11-12T00:01:00+04:00",
-				"endTime" : "2025-11-13T06:00:00+04:00",
-				"name" : "PARTIAL CLOSURE OF INTERSECTIONS IN MADINAT ZAYED - AL DHAFRA REGION"
 			}
 		},
 		{
@@ -343,51 +227,6 @@
 			}
 		},
 		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 53.7033087765, 23.6568804311 ],
-					[ 53.7022505352, 23.6564869939 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00196",
-				"creationtime" : "2025-11-11T13:39:23+04:00",
-				"updatetime" : "2025-11-11T17:39:51+04:00",
-				"street" : "Sikkat Al Khayl Street",
-				"type" : "ROAD_CLOSED",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Partial Closure of Intersections on Sheikha Salama Bint Butti Road (E45) in Madinat Zayed Al Dhafra Region",
-				"lanePosition" : null,
-				"startTime" : "2025-11-12T00:01:00+04:00",
-				"endTime" : "2025-11-13T06:00:00+04:00",
-				"name" : "PARTIAL CLOSURE OF INTERSECTIONS IN MADINAT ZAYED - AL DHAFRA REGION"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 53.7035353742, 23.6569665502 ],
-					[ 53.7042581296, 23.6572406635 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00194",
-				"creationtime" : "2025-11-11T13:39:23+04:00",
-				"updatetime" : "2025-11-11T17:39:51+04:00",
-				"street" : "Sikkat Al Khayl Street",
-				"type" : "ROAD_CLOSED",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Partial Closure of Intersections on Sheikha Salama Bint Butti Road (E45) in Madinat Zayed Al Dhafra Region",
-				"lanePosition" : null,
-				"startTime" : "2025-11-12T00:01:00+04:00",
-				"endTime" : "2025-11-13T06:00:00+04:00",
-				"name" : "PARTIAL CLOSURE OF INTERSECTIONS IN MADINAT ZAYED - AL DHAFRA REGION"
-			}
-		},{
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "LineString",
