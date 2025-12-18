@@ -35,69 +35,17 @@
 				]
 			},
 			"properties" : {
-				"id" : "AD00209",
-				"creationtime" : "2025-12-06T01:23:37+04:00",
-				"updatetime" : "2025-12-06T05:30:38+04:00",
-				"street" : "Sheikh Zayed Bin Sultan Street",
-				"type" : "HAZARD",
-				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Partial Road Closure of Three Left Lanes Towards Sheikh Zayed Bridge on Sheikh Zayed Bin Sultan Street (E10) Abu Dhabi.",
-				"lanePosition" : "Left",
-				"lane_impact" : {
-					"total_closed_lanes" : 3,
-					"roadside" : "LEFT"
-				},
-				"startTime" : "2025-12-09T00:01:00+04:00",
-				"endTime" : "2025-12-15T22:00:00+04:00",
-				"name" : "PARTIAL ROAD CLOSURE IN ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.4381308071, 24.4448194282 ],
-					[ 54.4387274029, 24.4446781456 ],
-					[ 54.4392172304, 24.4445410664 ],
-					[ 54.4401484352, 24.4442839484 ],
-					[ 54.4407539245, 24.4441131411 ],
-					[ 54.4414595613, 24.4439156248 ],
-					[ 54.4426771076, 24.4435642336 ],
-					[ 54.44594292, 24.4426335378 ],
-					[ 54.4488103076, 24.4418117967 ],
-					[ 54.4495513328, 24.4415824075 ],
-					[ 54.4505123259, 24.4412661537 ],
-					[ 54.4525638881, 24.4405577514 ],
-					[ 54.4538168074, 24.4400916967 ],
-					[ 54.4554047197, 24.4394110268 ],
-					[ 54.4569097423, 24.4386854313 ],
-					[ 54.4581058334, 24.4380490656 ],
-					[ 54.4585292927, 24.4378001063 ],
-					[ 54.459298901, 24.4373076339 ],
-					[ 54.4603737321, 24.4366130381 ],
-					[ 54.4612742223, 24.4359935068 ],
-					[ 54.462579099, 24.4350112547 ],
-					[ 54.4635205777, 24.4342654073 ],
-					[ 54.4645427049, 24.4334243029 ],
-					[ 54.4658553158, 24.4323379731 ],
-					[ 54.466502396, 24.4318282131 ]
-				]
-			},
-			"properties" : {
 				"id" : "AD00210",
 				"creationtime" : "2025-12-06T01:23:37+04:00",
 				"updatetime" : "2025-12-06T05:30:49+04:00",
 				"street" : "Sheikh Zayed Bin Sultan Street",
 				"type" : "HAZARD",
-				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
 				"direction" : "ONE_DIRECTION",
 				"description" : "Partial Road Closure of Three Left Lanes Towards Sheikh Zayed Bridge on Sheikh Zayed Bin Sultan Street (E10) Abu Dhabi.",
 				"lanePosition" : "Right",
 				"lane_impact" : {
 					"total_closed_lanes" : 2,
-					"roadside" : "RIGHT"
+				"roadside" : "RIGHT"
 				},
 				"startTime" : "2025-12-15T22:01:00+04:00",
 				"endTime" : "2025-12-22T06:00:00+04:00",
@@ -109,72 +57,522 @@
 			"geometry" : {
 				"type" : "LineString",
 				"coordinates" : [
-					[ 54.3536814731, 24.4528096527 ],
-					[ 54.3534093059, 24.4530685037 ],
-					[ 54.3532248397, 24.4532404415 ],
-					[ 54.3530423213, 24.4533867423 ],
-					[ 54.3529026297, 24.4534839914 ],
-					[ 54.3527798443, 24.4535603276 ],
-					[ 54.352625339, 24.453646123 ],
-					[ 54.3526038335, 24.4536567709 ],
-					[ 54.3524046876, 24.453745302 ],
-					[ 54.3521851604, 24.4538269622 ],
-					[ 54.3520367021, 24.4538719517 ],
-					[ 54.3519012355, 24.4539122764 ],
-					[ 54.351370702, 24.4540482135 ],
-					[ 54.3510072212, 24.4541556366 ],
-					[ 54.3508528085, 24.4541947643 ],
-					[ 54.3501127519, 24.4543785407 ],
-					[ 54.3494133779, 24.4545559887 ],
-					[ 54.3489554692, 24.4546736533 ],
-					[ 54.3486408144, 24.4547486702 ],
-					[ 54.3482683764, 24.454842742 ],
-					[ 54.3477582809, 24.4549705114 ],
-					[ 54.3476589337, 24.4549953929 ],
-					[ 54.3471870783, 24.455113241 ],
-					[ 54.3450094302, 24.4556568866 ],
-					[ 54.34459301, 24.455760743 ],
-					[ 54.3438814241, 24.4559396361 ],
-					[ 54.3434225729, 24.4560546729 ],
-					[ 54.3430435006, 24.4561505649 ],
-					[ 54.341898982, 24.4564336292 ],
-					[ 54.3415356262, 24.4565140457 ],
-					[ 54.341078981, 24.4565683126 ],
-					[ 54.3410241772, 24.4565776781 ],
-					[ 54.3407954976, 24.4566205587 ],
-					[ 54.3405552428, 24.4566578095 ],
+					[ 54.3362986068, 24.4573633043 ],
+					[ 54.3371073662, 24.4571773191 ],
+					[ 54.337809922, 24.45701538 ],
+					[ 54.3381500141, 24.456936343 ],
+					[ 54.3383062237, 24.4569003594 ],
+					[ 54.3386056709, 24.4568218845 ],
+					[ 54.3387233463, 24.4567917896 ],
+					[ 54.3388449895, 24.4567597378 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00245",
+				"creationtime" : "2025-12-18T12:59:48+04:00",
+				"updatetime" : "2025-12-18T17:05:25+04:00",
+				"street" : "King Abdullah Bin Abdulaziz Al Saud St",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Closure of Four Left Lanes on Intersections of King Abdullah Bin Abdulaziz Al Saud St. Abu Dhabi",
+				"lanePosition" : "Left",
+				"lane_impact" : {
+					"total_closed_lanes" : 4,
+					"roadside" : "LEFT"
+				},
+				"startTime" : "2025-12-18T23:00:00+04:00",
+				"endTime" : "2025-12-22T05:00:00+04:00",
+				"name" : "PARTIAL CLOSURE OF INTERSECTIONS KING ABDULLAH BIN ABDULAZIZ AL SAUD ST. ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.3263218275, 24.4606341071 ],
+					[ 54.3264311518, 24.4605154406 ],
+					[ 54.3264824419, 24.4604138712 ],
+					[ 54.3265029869, 24.4603445083 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00256",
+				"creationtime" : "2025-12-18T12:59:48+04:00",
+				"updatetime" : "2025-12-18T17:05:25+04:00",
+				"street" : "King Salman Bin Abdulaziz Al Saud St",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Closure of Two Left Lanes on King Salman Bin Abdulaziz Al Saud St. Abu Dhabi",
+				"lanePosition" : "Left",
+				"lane_impact" : {
+					"total_closed_lanes" : 2,
+					"roadside" : "LEFT"
+				},
+				"startTime" : "2025-12-18T23:00:00+04:00",
+				"endTime" : "2025-12-25T23:00:00+04:00",
+				"name" : "PARTIAL CLOSURE OF INTERSECTIONS KING ABDULLAH BIN ABDULAZIZ AL SAUD ST. ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.3385995861, 24.457168584 ],
+					[ 54.338630351, 24.4572267404 ],
+					[ 54.3386964287, 24.457336741 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00248",
+				"creationtime" : "2025-12-18T12:59:48+04:00",
+				"updatetime" : "2025-12-18T17:05:25+04:00",
+				"street" : "Atiq Bin Majid Al Muhairi St",
+				"type" : "ROAD_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Road Closure on Intersections of King Abdullah Bin Abdulaziz Al Saud St. Abu Dhabi",
+				"lanePosition" : null,
+				"startTime" : "2025-12-18T23:00:00+04:00",
+				"endTime" : "2025-12-25T23:00:00+04:00",
+				"name" : "ROAD CLOSURE OF INTERSECTIONS KING ABDULLAH BIN ABDULAZIZ AL SAUD ST. ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.3404436819, 24.4566801936 ],
+					[ 54.3395918063, 24.4568511152 ],
 					[ 54.339438462, 24.4568856177 ],
+					[ 54.3391964634, 24.456940068 ],
 					[ 54.3390010848, 24.456988519 ],
-					[ 54.3381685581, 24.4571963901 ],
-					[ 54.3369792542, 24.4574719568 ],
-					[ 54.3365771223, 24.4575630419 ],
-					[ 54.3357013329, 24.4577666358 ],
-					[ 54.3351503677, 24.4578921767 ],
-					[ 54.3341557913, 24.4581203788 ],
-					[ 54.3336890971, 24.4582264646 ],
-					[ 54.332894037, 24.4584085206 ],
-					[ 54.3326331356, 24.4584687644 ],
-					[ 54.3317291047, 24.4586775016 ],
-					[ 54.3307063759, 24.4589120322 ],
+					[ 54.3386964341, 24.4570651961 ],
+					[ 54.3384971497, 24.457114345 ],
+					[ 54.3382713929, 24.4571721741 ],
+					[ 54.3380340258, 24.4572275543 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00244",
+				"creationtime" : "2025-12-18T12:59:48+04:00",
+				"updatetime" : "2025-12-18T17:05:25+04:00",
+				"street" : "King Abdullah Bin Abdulaziz Al Saud St",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Closure of Four Left Lanes on Intersections of King Abdullah Bin Abdulaziz Al Saud St. Abu Dhabi",
+				"lanePosition" : "Left",
+				"lane_impact" : {
+					"total_closed_lanes" : 4,
+					"roadside" : "LEFT"
+				},
+				"startTime" : "2025-12-18T23:00:00+04:00",
+				"endTime" : "2025-12-22T05:00:00+04:00",
+				"name" : "PARTIAL CLOSURE OF INTERSECTIONS KING ABDULLAH BIN ABDULAZIZ AL SAUD ST. ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.338296698, 24.4565520969 ],
+					[ 54.3383692248, 24.4567331187 ],
+					[ 54.338414788, 24.4568192495 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00250",
+				"creationtime" : "2025-12-18T12:59:48+04:00",
+				"updatetime" : "2025-12-18T17:05:25+04:00",
+				"street" : "Atiq Bin Majid Al Muhairi St",
+				"type" : "ROAD_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Road Closure on Intersections of King Abdullah Bin Abdulaziz Al Saud St. Abu Dhabi",
+				"lanePosition" : null,
+				"startTime" : "2025-12-18T23:00:00+04:00",
+				"endTime" : "2025-12-25T23:00:00+04:00",
+				"name" : "ROAD CLOSURE OF INTERSECTIONS KING ABDULLAH BIN ABDULAZIZ AL SAUD ST. ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.3244970464, 24.4600766218 ],
+					[ 54.3252866709, 24.4598946908 ],
+					[ 54.3255824562, 24.4598266975 ],
+					[ 54.3260751291, 24.4597129918 ],
+					[ 54.3265789356, 24.4595974819 ],
+					[ 54.3268414693, 24.4595374531 ],
+					[ 54.3271187266, 24.4594726947 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00254",
+				"creationtime" : "2025-12-18T12:59:48+04:00",
+				"updatetime" : "2025-12-18T17:05:25+04:00",
+				"street" : "King Abdullah Bin Abdulaziz Al Saud St",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Closure of Two Left Lanes on Intersections of King Abdullah Bin Abdulaziz Al Saud St. Abu Dhabi",
+				"lanePosition" : "Left",
+				"lane_impact" : {
+					"total_closed_lanes" : 2,
+					"roadside" : "LEFT"
+				},
+				"startTime" : "2025-12-18T23:00:00+04:00",
+				"endTime" : "2025-12-22T05:00:00+04:00",
+				"name" : "PARTIAL CLOSURE OF INTERSECTIONS KING ABDULLAH BIN ABDULAZIZ AL SAUD ST. ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.3399148302, 24.4567863028 ],
+					[ 54.3395918063, 24.4568511152 ],
+					[ 54.339438462, 24.4568856177 ],
+					[ 54.3391964634, 24.456940068 ],
+					[ 54.3390010848, 24.456988519 ],
+					[ 54.3386964341, 24.4570651961 ],
+					[ 54.3384971497, 24.457114345 ],
+					[ 54.3382713929, 24.4571721741 ],
+					[ 54.3380656118, 24.4572201853 ],
+					[ 54.3376785211, 24.457309934 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00251",
+				"creationtime" : "2025-12-18T12:59:48+04:00",
+				"updatetime" : "2025-12-18T17:05:25+04:00",
+				"street" : "King Abdullah Bin Abdulaziz Al Saud St",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Closure of Right Lanes on Intersections of King Abdullah Bin Abdulaziz Al Saud St. Abu Dhabi",
+				"lanePosition" : "Right",
+				"lane_impact" : {
+					"total_closed_lanes" : 1,
+				"roadside" : "RIGHT"
+				},
+				"startTime" : "2025-12-22T05:00:00+04:00",
+				"endTime" : "2025-12-25T23:00:00+04:00",
+				"name" : "PARTIAL CLOSURE OF INTERSECTIONS KING ABDULLAH BIN ABDULAZIZ AL SAUD ST. ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.3265264098, 24.4602627159 ],
+					[ 54.3265321951, 24.4602236313 ],
+					[ 54.3265568653, 24.4600569474 ],
+					[ 54.3265602405, 24.4600169932 ],
+					[ 54.3265671868, 24.4599406183 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00257",
+				"creationtime" : "2025-12-18T12:59:48+04:00",
+				"updatetime" : "2025-12-18T17:05:25+04:00",
+				"street" : "King Salman Bin Abdulaziz Al Saud St",
+				"type" : "ROAD_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Road Closure on Intersections of King Abdullah Bin Abdulaziz Al Saud St. Abu Dhabi",
+				"lanePosition" : null,
+				"startTime" : "2025-12-18T23:00:00+04:00",
+				"endTime" : "2025-12-25T23:00:00+04:00",
+				"name" : "ROAD CLOSURE OF INTERSECTIONS KING ABDULLAH BIN ABDULAZIZ AL SAUD ST. ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.33828723, 24.456859665 ],
+					[ 54.3382462353, 24.4567718319 ],
+					[ 54.3382013177, 24.4566671103 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00249",
+				"creationtime" : "2025-12-18T12:59:48+04:00",
+				"updatetime" : "2025-12-18T17:05:25+04:00",
+				"street" : "Atiq Bin Majid Al Muhairi St",
+				"type" : "ROAD_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Road Closure on Intersections of King Abdullah Bin Abdulaziz Al Saud St. Abu Dhabi",
+				"lanePosition" : null,
+				"startTime" : "2025-12-18T23:00:00+04:00",
+				"endTime" : "2025-12-25T23:00:00+04:00",
+				"name" : "ROAD CLOSURE OF INTERSECTIONS KING ABDULLAH BIN ABDULAZIZ AL SAUD ST. ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.3400261096, 24.4594246457 ],
+					[ 54.3397022817, 24.4589837882 ],
+					[ 54.3392855962, 24.45841343 ],
+					[ 54.3391503579, 24.4582282219 ],
+					[ 54.3390060473, 24.4580313324 ],
+					[ 54.3388145385, 24.4577689291 ],
+					[ 54.3386739537, 24.4575554354 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00246",
+				"creationtime" : "2025-12-18T12:59:48+04:00",
+				"updatetime" : "2025-12-18T17:05:25+04:00",
+				"street" : "Atiq Bin Majid Al Muhairi St",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Closure of Left Lanes on Atiq Bin Majid Al Muhairi St. Abu Dhabi",
+				"lanePosition" : "Left",
+				"lane_impact" : {
+					"total_closed_lanes" : 1,
+					"roadside" : "LEFT"
+				},
+				"startTime" : "2025-12-18T23:00:00+04:00",
+				"endTime" : "2025-12-25T23:00:00+04:00",
+				"name" : "PARTIAL CLOSURE OF INTERSECTIONS KING ABDULLAH BIN ABDULAZIZ AL SAUD ST. ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.3257175217, 24.4597955252 ],
+					[ 54.3260751291, 24.4597129918 ],
+					[ 54.3265789356, 24.4595974819 ],
+					[ 54.3268414693, 24.4595374531 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00262",
+				"creationtime" : "2025-12-18T12:59:48+04:00",
+				"updatetime" : "2025-12-18T17:05:25+04:00",
+				"street" : "King Abdullah Bin Abdulaziz Al Saud St",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Closure of Right Lanes on Intersections of King Abdullah Bin Abdulaziz Al Saud St. Abu Dhabi",
+				"lanePosition" : "Right",
+				"lane_impact" : {
+					"total_closed_lanes" : 1,
+					"roadside" : "RIGHT"
+				},
+				"startTime" : "2025-12-22T05:00:00+04:00",
+				"endTime" : "2025-12-25T23:00:00+04:00",
+				"name" : "PARTIAL CLOSURE OF INTERSECTIONS KING ABDULLAH BIN ABDULAZIZ AL SAUD ST. ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.3386342199, 24.4574925018 ],
+					[ 54.3385976714, 24.4574327499 ],
+					[ 54.338489287, 24.4572476344 ],
+					[ 54.3384627785, 24.4571981986 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00247",
+				"creationtime" : "2025-12-18T12:59:48+04:00",
+				"updatetime" : "2025-12-18T17:05:25+04:00",
+				"street" : "Atiq Bin Majid Al Muhairi St",
+				"type" : "ROAD_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Road Closure on Intersections of King Abdullah Bin Abdulaziz Al Saud St. Abu Dhabi",
+				"lanePosition" : null,
+				"startTime" : "2025-12-18T23:00:00+04:00",
+				"endTime" : "2025-12-25T23:00:00+04:00",
+				"name" : "ROAD CLOSURE OF INTERSECTIONS KING ABDULLAH BIN ABDULAZIZ AL SAUD ST. ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.3375876554, 24.4570666125 ],
+					[ 54.337809922, 24.45701538 ],
+					[ 54.3381500141, 24.456936343 ],
+					[ 54.3383062237, 24.4569003594 ],
+					[ 54.3385003252, 24.4568494919 ],
+					[ 54.3386056709, 24.4568218845 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00252",
+				"creationtime" : "2025-12-18T12:59:48+04:00",
+				"updatetime" : "2025-12-18T17:05:25+04:00",
+				"street" : "King Abdullah Bin Abdulaziz Al Saud St",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Closure of Right Lanes on Intersections of King Abdullah Bin Abdulaziz Al Saud St. Abu Dhabi",
+				"lanePosition" : "Right",
+				"lane_impact" : {
+					"total_closed_lanes" : 1,
+					"roadside" : "RIGHT"
+				},
+				"startTime" : "2025-12-22T05:00:00+04:00",
+				"endTime" : "2025-12-25T23:00:00+04:00",
+				"name" : "PARTIAL CLOSURE OF INTERSECTIONS KING ABDULLAH BIN ABDULAZIZ AL SAUD ST. ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.326602836, 24.459548647 ],
+					[ 54.3266130424, 24.4594364304 ],
+					[ 54.3266225572, 24.4593486242 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00258",
+				"creationtime" : "2025-12-18T12:59:48+04:00",
+				"updatetime" : "2025-12-18T17:05:25+04:00",
+				"street" : "King Salman Bin Abdulaziz Al Saud St",
+				"type" : "ROAD_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Road Closure on Intersections of King Abdullah Bin Abdulaziz Al Saud St. Abu Dhabi",
+				"lanePosition" : null,
+				"startTime" : "2025-12-18T23:00:00+04:00",
+				"endTime" : "2025-12-25T23:00:00+04:00",
+				"name" : "ROAD CLOSURE OF INTERSECTIONS KING ABDULLAH BIN ABDULAZIZ AL SAUD ST. ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.3267574663, 24.4590805786 ],
+					[ 54.3267409152, 24.4592068893 ],
+					[ 54.3267175004, 24.4594102485 ],
+					[ 54.3267078048, 24.4595194298 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00259",
+				"creationtime" : "2025-12-18T12:59:48+04:00",
+				"updatetime" : "2025-12-18T17:05:25+04:00",
+				"street" : "King Salman Bin Abdulaziz Al Saud St",
+				"type" : "ROAD_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Road Closure on Intersections of King Abdullah Bin Abdulaziz Al Saud St. Abu Dhabi",
+				"lanePosition" : null,
+				"startTime" : "2025-12-18T23:00:00+04:00",
+				"endTime" : "2025-12-25T23:00:00+04:00",
+				"name" : "ROAD CLOSURE OF INTERSECTIONS KING ABDULLAH BIN ABDULAZIZ AL SAUD ST. ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.3258723769, 24.4609233614 ],
+					[ 54.3260604476, 24.4607947332 ],
+					[ 54.3262067421, 24.4607082094 ],
+					[ 54.3263218275, 24.4606341071 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00255",
+				"creationtime" : "2025-12-18T12:59:48+04:00",
+				"updatetime" : "2025-12-18T17:05:25+04:00",
+				"street" : "King Salman Bin Abdulaziz Al Saud St",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Closure of Left Lanes on King Salman Bin Abdulaziz Al Saud St. Abu Dhabi",
+				"lanePosition" : "Left",
+				"lane_impact" : {
+					"total_closed_lanes" : 1,
+					"roadside" : null
+				},
+				"startTime" : "2025-12-18T23:00:00+04:00",
+				"endTime" : "2025-12-25T23:00:00+04:00",
+				"name" : "PARTIAL CLOSURE OF INTERSECTIONS KING ABDULLAH BIN ABDULAZIZ AL SAUD ST. ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.3266721413, 24.4599210121 ],
+					[ 54.3266671114, 24.4599776452 ],
+					[ 54.3266544471, 24.4601369726 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00260",
+				"creationtime" : "2025-12-18T12:59:48+04:00",
+				"updatetime" : "2025-12-18T17:05:25+04:00",
+				"street" : "King Salman Bin Abdulaziz Al Saud St",
+				"type" : "ROAD_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Road Closure on Intersections of King Abdullah Bin Abdulaziz Al Saud St. Abu Dhabi",
+				"lanePosition" : null,
+				"startTime" : "2025-12-18T23:00:00+04:00",
+				"endTime" : "2025-12-25T23:00:00+04:00",
+				"name" : "ROAD CLOSURE OF INTERSECTIONS KING ABDULLAH BIN ABDULAZIZ AL SAUD ST. ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
 					[ 54.3289899253, 24.4593064388 ],
-					[ 54.3282591839, 24.4594692629 ],
+					[ 54.3284432796, 24.4594330814 ],
+					[ 54.3282973242, 24.4594666009 ],
+					[ 54.3274379374, 24.4596630551 ],
 					[ 54.3270877117, 24.45974353 ],
-					[ 54.3269948199, 24.4597651147 ]
+					[ 54.326684069, 24.4598370631 ],
+					[ 54.3264354694, 24.4598946692 ],
+					[ 54.3261415143, 24.4599633882 ]
 				]
 			},
 			"properties" : {
-				"id" : "AD00215",
-				"creationtime" : "2025-12-12T13:22:38+04:00",
-				"updatetime" : "2025-12-12T17:24:12+04:00",
-				"street" : "King Abdullah Bin Abdulaziz Al Saud St",
-				"type" : "ROAD_CLOSED",
-				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"id" : "AD00253",
+				"creationtime" : "2025-12-18T12:59:48+04:00",
+				"updatetime" : "2025-12-18T17:05:25+04:00",
+				"street" : "King Salman Bin Abdulaziz Al Saud St",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
 				"direction" : "ONE_DIRECTION",
-				"description" : "Road Closures for ADNOC Marathon in Abu Dhabi",
-				"lanePosition" : null,
-				"startTime" : "2025-12-13T05:01:00+04:00",
-				"endTime" : "2025-12-13T08:30:00+04:00",
-				"name" : "ROAD CLOSURES FOR ADNOC MARATHON IN ABU DHABI"
+				"description" : "Partial Closure of Four Left Lanes on Intersections of King Abdullah Bin Abdulaziz Al Saud St. Abu Dhabi",
+				"lanePosition" : "Left",
+				"lane_impact" : {
+					"total_closed_lanes" : 4,
+					"roadside" : null
+				},
+				"startTime" : "2025-12-18T23:00:00+04:00",
+				"endTime" : "2025-12-22T05:00:00+04:00",
+				"name" : "PARTIAL CLOSURE OF INTERSECTIONS KING ABDULLAH BIN ABDULAZIZ AL SAUD ST. ABU DHABI"
 			}
 		},
 		{
@@ -182,1242 +580,30 @@
 			"geometry" : {
 				"type" : "LineString",
 				"coordinates" : [
-					[ 54.3348452799, 24.462718419 ],
-					[ 54.3345946694, 24.4625265747 ],
-					[ 54.3343364372, 24.462299647 ],
-					[ 54.3330239567, 24.4611022474 ],
-					[ 54.331243996, 24.4594781959 ],
-					[ 54.3310970108, 24.4593466394 ],
-					[ 54.3310138631, 24.4592685369 ],
-					[ 54.3309394199, 24.4592459513 ],
-					[ 54.330891227, 24.4592258668 ],
-					[ 54.3308390169, 24.4592108751 ],
-					[ 54.3307882628, 24.4592041167 ],
-					[ 54.3307353278, 24.4592028369 ],
-					[ 54.3306826788, 24.4592080233 ],
-					[ 54.3306312546, 24.4592195823 ],
-					[ 54.330577834, 24.4592394142 ],
-					[ 54.3305357026, 24.4592608846 ],
-					[ 54.3304872867, 24.4592952693 ],
-					[ 54.3303043664, 24.4595015405 ],
-					[ 54.329725765, 24.4601989827 ],
-					[ 54.3294116984, 24.4605845068 ],
-					[ 54.3287414436, 24.4614067003 ],
-					[ 54.3283103949, 24.461936945 ],
-					[ 54.3281902536, 24.4621208699 ]
+					[ 54.327726654, 24.4595981798 ],
+					[ 54.3274379374, 24.4596630551 ],
+					[ 54.3270877117, 24.45974353 ],
+					[ 54.326684069, 24.4598370631 ],
+					[ 54.3264354694, 24.4598946692 ]
 				]
 			},
 			"properties" : {
-				"id" : "AD00219",
-				"creationtime" : "2025-12-12T13:22:38+04:00",
-				"updatetime" : "2025-12-12T17:24:12+04:00",
-				"street" : "Thani Bin Abdullah Al Rumaithi St",
-				"type" : "ROAD_CLOSED",
-				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"id" : "AD00261",
+				"creationtime" : "2025-12-18T12:59:48+04:00",
+				"updatetime" : "2025-12-18T17:05:25+04:00",
+				"street" : "King Salman Bin Abdulaziz Al Saud St",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
 				"direction" : "ONE_DIRECTION",
-				"description" : "Road Closures for ADNOC Marathon in Abu Dhabi",
-				"lanePosition" : null,
-				"startTime" : "2025-12-13T03:01:00+04:00",
-				"endTime" : "2025-12-13T09:30:00+04:00",
-				"name" : "ROAD CLOSURES FOR ADNOC MARATHON IN ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.3277918368, 24.4625891298 ],
-					[ 54.3276420907, 24.4627554873 ],
-					[ 54.3275094425, 24.4629173041 ],
-					[ 54.3269650442, 24.4635880176 ],
-					[ 54.3266933518, 24.4639236338 ],
-					[ 54.3265992045, 24.4640378764 ],
-					[ 54.3265425139, 24.464130923 ],
-					[ 54.3265370577, 24.4641849831 ],
-					[ 54.3265455303, 24.4643059913 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00221",
-				"creationtime" : "2025-12-12T13:22:38+04:00",
-				"updatetime" : "2025-12-12T17:24:12+04:00",
-				"street" : "Thani Bin Abdullah Al Rumaithi St",
-				"type" : "ROAD_CLOSED",
-				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Road Closures for ADNOC Marathon in Abu Dhabi",
-				"lanePosition" : null,
-				"startTime" : "2025-12-13T03:01:00+04:00",
-				"endTime" : "2025-12-13T09:30:00+04:00",
-				"name" : "ROAD CLOSURES FOR ADNOC MARATHON IN ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.3269948199, 24.4597651147 ],
-					[ 54.3313256563, 24.4587772292 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00216",
-				"creationtime" : "2025-12-12T13:22:38+04:00",
-				"updatetime" : "2025-12-12T17:24:12+04:00",
-				"street" : "King Abdullah Bin Abdulaziz Al Saud St",
-				"type" : "ROAD_CLOSED",
-				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Road Closures for ADNOC Marathon in Abu Dhabi",
-				"lanePosition" : null,
-				"startTime" : "2025-12-13T03:01:00+04:00",
-				"endTime" : "2025-12-13T09:30:00+04:00",
-				"name" : "ROAD CLOSURES FOR ADNOC MARATHON IN ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.4718054535, 24.4081265392 ],
-					[ 54.471747476, 24.4081896024 ],
-					[ 54.471713889, 24.4082313579 ],
-					[ 54.4716571247, 24.4082688227 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00233",
-				"creationtime" : "2025-12-12T13:22:38+04:00",
-				"updatetime" : "2025-12-12T17:24:12+04:00",
-				"street" : null,
-				"type" : "ROAD_CLOSED",
-				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Road Closures for ADNOC Marathon in Abu Dhabi",
-				"lanePosition" : null,
-				"startTime" : "2025-12-13T06:30:00+04:00",
-				"endTime" : "2025-12-13T12:30:00+04:00",
-				"name" : "ROAD CLOSURES FOR ADNOC MARATHON IN ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.3768348699, 24.4351418587 ],
-					[ 54.3767240932, 24.4350645386 ],
-					[ 54.3762949413, 24.4347223627 ],
-					[ 54.375614561, 24.4341852319 ],
-					[ 54.3742020903, 24.4330636055 ],
-					[ 54.3738739762, 24.432790163 ],
-					[ 54.373648053, 24.4326131414 ],
-					[ 54.3735774634, 24.4325589204 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00212",
-				"creationtime" : "2025-12-12T13:22:38+04:00",
-				"updatetime" : "2025-12-12T17:24:12+04:00",
-				"street" : "Shakhbout Bin Sultan St",
-				"type" : "ROAD_CLOSED",
-				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Road Closures for ADNOC Marathon in Abu Dhabi",
-				"lanePosition" : null,
-				"startTime" : "2025-12-13T05:01:00+04:00",
-				"endTime" : "2025-12-13T08:30:00+04:00",
-				"name" : "ROAD CLOSURES FOR ADNOC MARATHON IN ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.4760952097, 24.4069199755 ],
-					[ 54.4759439923, 24.4069061664 ],
-					[ 54.4758375306, 24.4069211869 ],
-					[ 54.4744477812, 24.4073027656 ],
-					[ 54.4731743691, 24.4076595357 ],
-					[ 54.4718054535, 24.4081265392 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00232",
-				"creationtime" : "2025-12-12T13:22:38+04:00",
-				"updatetime" : "2025-12-12T17:24:12+04:00",
-				"street" : "Al Majd St",
-				"type" : "ROAD_CLOSED",
-				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Road Closures for ADNOC Marathon in Abu Dhabi",
-				"lanePosition" : null,
-				"startTime" : "2025-12-13T06:30:00+04:00",
-				"endTime" : "2025-12-13T12:30:00+04:00",
-				"name" : "ROAD CLOSURES FOR ADNOC MARATHON IN ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.451542957, 24.4226893969 ],
-					[ 54.4515154423, 24.422742268 ],
-					[ 54.4514620028, 24.4227950537 ],
-					[ 54.4513938117, 24.4228285553 ],
-					[ 54.4513258823, 24.4228415982 ],
-					[ 54.4512398783, 24.4228289942 ],
-					[ 54.4511716674, 24.4227963713 ],
-					[ 54.4511256995, 24.4227548523 ],
-					[ 54.4510901115, 24.4226881244 ],
-					[ 54.4510804735, 24.4226362254 ],
-					[ 54.4510864045, 24.4225724634 ],
-					[ 54.4511096124, 24.4225200159 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00240",
-				"creationtime" : "2025-12-12T13:22:38+04:00",
-				"updatetime" : "2025-12-12T17:24:12+04:00",
-				"street" : null,
-				"type" : "ROAD_CLOSED",
-				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Road Closures for ADNOC Marathon in Abu Dhabi",
-				"lanePosition" : null,
-				"startTime" : "2025-12-13T06:30:00+04:00",
-				"endTime" : "2025-12-13T12:30:00+04:00",
-				"name" : "ROAD CLOSURES FOR ADNOC MARATHON IN ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.3281902536, 24.4621208699 ],
-					[ 54.3282255538, 24.4621682039 ],
-					[ 54.328258504, 24.4622507895 ],
-					[ 54.328263792, 24.4623406147 ],
-					[ 54.3282426481, 24.4624241887 ],
-					[ 54.3281951585, 24.4625006122 ],
-					[ 54.3281258342, 24.4625614702 ],
-					[ 54.3280404319, 24.4626017113 ],
-					[ 54.32794604, 24.462617998 ],
-					[ 54.3278672486, 24.4626116893 ],
-					[ 54.3277918368, 24.4625891298 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00220",
-				"creationtime" : "2025-12-12T13:22:38+04:00",
-				"updatetime" : "2025-12-12T17:24:12+04:00",
-				"street" : null,
-				"type" : "ROAD_CLOSED",
-				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Road Closures for ADNOC Marathon in Abu Dhabi",
-				"lanePosition" : null,
-				"startTime" : "2025-12-13T03:01:00+04:00",
-				"endTime" : "2025-12-13T09:30:00+04:00",
-				"name" : "ROAD CLOSURES FOR ADNOC MARATHON IN ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.3313256563, 24.4587772292 ],
-					[ 54.3314453605, 24.4589044662 ],
-					[ 54.3315974602, 24.4590442721 ],
-					[ 54.332951063, 24.4602790017 ],
-					[ 54.3338421779, 24.4610908763 ],
-					[ 54.334691316, 24.4618644687 ],
-					[ 54.3349897713, 24.4621477075 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00217",
-				"creationtime" : "2025-12-12T13:22:38+04:00",
-				"updatetime" : "2025-12-12T17:24:12+04:00",
-				"street" : "Zayed the First St",
-				"type" : "ROAD_CLOSED",
-				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Road Closures for ADNOC Marathon in Abu Dhabi",
-				"lanePosition" : null,
-				"startTime" : "2025-12-13T03:01:00+04:00",
-				"endTime" : "2025-12-13T09:30:00+04:00",
-				"name" : "ROAD CLOSURES FOR ADNOC MARATHON IN ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.3545243528, 24.4873661878 ],
-					[ 54.3548276887, 24.4870628519 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00225",
-				"creationtime" : "2025-12-12T13:22:38+04:00",
-				"updatetime" : "2025-12-12T17:24:12+04:00",
-				"street" : "Sh Rashid Bin Saeed St",
-				"type" : "ROAD_CLOSED",
-				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Road Closures for ADNOC Marathon in Abu Dhabi",
-				"lanePosition" : null,
-				"startTime" : "2025-12-13T03:01:00+04:00",
-				"endTime" : "2025-12-13T09:30:00+04:00",
-				"name" : "ROAD CLOSURES FOR ADNOC MARATHON IN ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.4765729251, 24.4069526649 ],
-					[ 54.4765457881, 24.406979811 ],
-					[ 54.4764581734, 24.407031683 ],
-					[ 54.4763647024, 24.4070521111 ],
-					[ 54.4762918672, 24.4070491991 ],
-					[ 54.4762303724, 24.4070284229 ],
-					[ 54.4761598728, 24.4069926659 ],
-					[ 54.4760952097, 24.4069199755 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00231",
-				"creationtime" : "2025-12-12T13:22:38+04:00",
-				"updatetime" : "2025-12-12T17:24:12+04:00",
-				"street" : null,
-				"type" : "ROAD_CLOSED",
-				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Road Closures for ADNOC Marathon in Abu Dhabi",
-				"lanePosition" : null,
-				"startTime" : "2025-12-13T06:30:00+04:00",
-				"endTime" : "2025-12-13T12:30:00+04:00",
-				"name" : "ROAD CLOSURES FOR ADNOC MARATHON IN ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.351692037, 24.4898153268 ],
-					[ 54.3519340553, 24.4899875641 ],
-					[ 54.3519651647, 24.4900100795 ],
-					[ 54.3520090453, 24.4900302306 ],
-					[ 54.3520375655, 24.490039088 ],
-					[ 54.3520767462, 24.4900447349 ],
-					[ 54.3521164054, 24.4900441998 ],
-					[ 54.3521644409, 24.4900344089 ],
-					[ 54.3523288703, 24.4899897341 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00223",
-				"creationtime" : "2025-12-12T13:22:38+04:00",
-				"updatetime" : "2025-12-12T17:24:12+04:00",
-				"street" : null,
-				"type" : "ROAD_CLOSED",
-				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Road Closures for ADNOC Marathon in Abu Dhabi",
-				"lanePosition" : null,
-				"startTime" : "2025-12-13T03:01:00+04:00",
-				"endTime" : "2025-12-13T09:30:00+04:00",
-				"name" : "ROAD CLOSURES FOR ADNOC MARATHON IN ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.4646910139, 24.4145640771 ],
-					[ 54.4646690488, 24.4146355012 ],
-					[ 54.4646271413, 24.4146990096 ],
-					[ 54.4645485514, 24.4147676719 ],
-					[ 54.4644066393, 24.4148084723 ],
-					[ 54.4643486114, 24.4147967371 ],
-					[ 54.4643032577, 24.4147865487 ],
-					[ 54.464239869, 24.4147596598 ],
-					[ 54.4642111437, 24.4147413676 ],
-					[ 54.4641787196, 24.4147143538 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00236",
-				"creationtime" : "2025-12-12T13:22:38+04:00",
-				"updatetime" : "2025-12-12T17:24:12+04:00",
-				"street" : null,
-				"type" : "ROAD_CLOSED",
-				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Road Closures for ADNOC Marathon in Abu Dhabi",
-				"lanePosition" : null,
-				"startTime" : "2025-12-13T06:30:00+04:00",
-				"endTime" : "2025-12-13T12:30:00+04:00",
-				"name" : "ROAD CLOSURES FOR ADNOC MARATHON IN ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.3265455303, 24.4643059913 ],
-					[ 54.3266367071, 24.4643608437 ],
-					[ 54.3273850132, 24.4648099327 ],
-					[ 54.3278548316, 24.4650897262 ],
-					[ 54.3283519184, 24.4653825904 ],
-					[ 54.3287056182, 24.465589886 ],
-					[ 54.3292445621, 24.4659128109 ],
-					[ 54.3298395194, 24.4662727448 ],
-					[ 54.3306014151, 24.466734258 ],
-					[ 54.3311766961, 24.4670786929 ],
-					[ 54.3318608752, 24.467493605 ],
-					[ 54.3325259517, 24.4678938321 ],
-					[ 54.3329630051, 24.4681364422 ],
-					[ 54.3336428539, 24.4685484774 ],
-					[ 54.3341643267, 24.4688661297 ],
-					[ 54.3350029544, 24.4693665044 ],
-					[ 54.3359322239, 24.4699219841 ],
-					[ 54.336190395, 24.4700765173 ],
-					[ 54.3367222279, 24.4703953189 ],
-					[ 54.3371887045, 24.4706744424 ],
-					[ 54.3380539701, 24.4711911784 ],
-					[ 54.3399047569, 24.4722914801 ],
-					[ 54.3403767148, 24.4725539391 ],
-					[ 54.3406973618, 24.4727337478 ],
-					[ 54.3410305777, 24.4729458142 ],
-					[ 54.3411797842, 24.4730457505 ],
-					[ 54.3415589636, 24.4733115316 ],
-					[ 54.3417281296, 24.4734370428 ],
-					[ 54.3420684808, 24.4736928046 ],
-					[ 54.34268427, 24.474190127 ],
-					[ 54.34302062, 24.4745031279 ],
-					[ 54.3433218803, 24.4748037389 ],
-					[ 54.3436196153, 24.4751231097 ],
-					[ 54.343895905, 24.4754450041 ],
-					[ 54.3439870243, 24.4755522833 ],
-					[ 54.3442344584, 24.4758680758 ],
-					[ 54.3444713659, 24.4761932238 ],
-					[ 54.3447649091, 24.476634317 ],
-					[ 54.3449754152, 24.4769515034 ],
-					[ 54.3454363204, 24.4778680196 ],
-					[ 54.3456697997, 24.4783322955 ],
-					[ 54.3460130673, 24.4790196752 ],
-					[ 54.346294717, 24.4795870098 ],
-					[ 54.3466698764, 24.4803070008 ],
-					[ 54.3470566227, 24.4810879055 ],
-					[ 54.3470899237, 24.4811490117 ],
-					[ 54.3472844956, 24.4815838591 ],
-					[ 54.3476208043, 24.4822585539 ],
-					[ 54.3476619428, 24.4823415172 ],
-					[ 54.3480863437, 24.4831962374 ],
-					[ 54.3482548101, 24.4835348762 ],
-					[ 54.3487573549, 24.4845474427 ],
-					[ 54.3489878061, 24.485012001 ],
-					[ 54.3491754506, 24.4853727568 ],
-					[ 54.3493290548, 24.485686649 ],
-					[ 54.3495265693, 24.4860984612 ],
-					[ 54.350009105, 24.4870737346 ],
-					[ 54.3501791147, 24.4874130569 ],
-					[ 54.350343419, 24.4877383147 ],
-					[ 54.3505474302, 24.4881125945 ],
-					[ 54.3506324512, 24.488261989 ],
-					[ 54.350769016, 24.488492219 ],
-					[ 54.3510741344, 24.4889754599 ],
-					[ 54.3513624876, 24.4893923307 ],
-					[ 54.351692037, 24.4898153268 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00222",
-				"creationtime" : "2025-12-12T13:22:38+04:00",
-				"updatetime" : "2025-12-12T17:24:12+04:00",
-				"street" : "Corniche St",
-				"type" : "ROAD_CLOSED",
-				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Road Closures for ADNOC Marathon in Abu Dhabi",
-				"lanePosition" : null,
-				"startTime" : "2025-12-13T03:01:00+04:00",
-				"endTime" : "2025-12-13T09:30:00+04:00",
-				"name" : "ROAD CLOSURES FOR ADNOC MARATHON IN ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.4290248395, 24.4283913936 ],
-					[ 54.4293819531, 24.428340439 ],
-					[ 54.4297454996, 24.4282893791 ],
-					[ 54.4305767789, 24.4281779719 ],
-					[ 54.4308772999, 24.4281398146 ],
-					[ 54.4318600575, 24.4280087357 ],
-					[ 54.4338762737, 24.4277223943 ],
-					[ 54.4378166622, 24.4271635061 ],
-					[ 54.4395272168, 24.4269113686 ],
-					[ 54.4405191474, 24.4267837386 ],
-					[ 54.4409402208, 24.4267491713 ],
-					[ 54.442539675, 24.4265231276 ],
-					[ 54.4440778889, 24.4263007757 ],
-					[ 54.4459710193, 24.426034678 ],
-					[ 54.4476716436, 24.4257991239 ],
-					[ 54.4486941476, 24.4256458974 ],
-					[ 54.4494820877, 24.4254748635 ],
-					[ 54.4502227793, 24.4253057298 ],
-					[ 54.4506421169, 24.4252008104 ],
-					[ 54.4509739137, 24.4251200252 ],
-					[ 54.4515186367, 24.4249580681 ],
-					[ 54.4517198636, 24.4248912934 ],
-					[ 54.4523486839, 24.4246737789 ],
-					[ 54.4531605388, 24.4243495661 ],
-					[ 54.4538825344, 24.4240161146 ],
-					[ 54.4545326579, 24.4236867909 ],
-					[ 54.455027338, 24.4234125274 ],
-					[ 54.4553741859, 24.4232063884 ],
-					[ 54.4557128022, 24.4229938741 ],
-					[ 54.4560183289, 24.4227790386 ],
-					[ 54.4570556267, 24.4220293278 ],
-					[ 54.457861118, 24.4214329882 ],
-					[ 54.4583470721, 24.4210528646 ],
-					[ 54.4588009941, 24.4207267048 ],
-					[ 54.4591300839, 24.4205052494 ],
-					[ 54.4593191358, 24.4203926651 ],
-					[ 54.4597609259, 24.4201281511 ],
-					[ 54.4610765783, 24.4191871257 ],
-					[ 54.4626435571, 24.4180710625 ],
-					[ 54.4629802407, 24.4178458885 ],
-					[ 54.4635006748, 24.417526622 ],
-					[ 54.4641617305, 24.4172012373 ],
-					[ 54.4647511129, 24.4169591165 ],
-					[ 54.4654147298, 24.4167306851 ],
-					[ 54.4656691831, 24.416657241 ],
-					[ 54.4662380142, 24.4165150861 ],
-					[ 54.4667682769, 24.4164153612 ],
-					[ 54.4672116427, 24.4163511226 ],
-					[ 54.4674973213, 24.416321025 ],
-					[ 54.4678708664, 24.41629328 ],
-					[ 54.4682721826, 24.4162754851 ],
-					[ 54.4688623447, 24.4162837535 ],
-					[ 54.4694685318, 24.4163149258 ],
-					[ 54.4696708937, 24.4163303573 ],
-					[ 54.4701726812, 24.4164134627 ],
-					[ 54.4705837928, 24.4164889068 ],
-					[ 54.4710413211, 24.4165928532 ],
-					[ 54.4717152712, 24.4167869296 ],
-					[ 54.4722218755, 24.416965642 ],
-					[ 54.4726605792, 24.4171311649 ],
-					[ 54.4732982147, 24.4174133155 ],
-					[ 54.4738588908, 24.4176543644 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00229",
-				"creationtime" : "2025-12-12T13:22:38+04:00",
-				"updatetime" : "2025-12-12T17:24:12+04:00",
-				"street" : "Sh Rashid Bin Saeed St",
-				"type" : "ROAD_CLOSED",
-				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Road Closures for ADNOC Marathon in Abu Dhabi",
-				"lanePosition" : null,
-				"startTime" : "2025-12-13T04:01:00+04:00",
-				"endTime" : "2025-12-13T11:15:00+04:00",
-				"name" : "ROAD CLOSURES FOR ADNOC MARATHON IN ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.4641787196, 24.4147143538 ],
-					[ 54.4641005892, 24.4147404638 ],
-					[ 54.4639827393, 24.4147771058 ],
-					[ 54.463503862, 24.4150005981 ],
-					[ 54.4633760054, 24.4150639131 ],
-					[ 54.4630992768, 24.4151951817 ],
-					[ 54.4625462225, 24.4154832831 ],
-					[ 54.462338275, 24.4155996302 ],
-					[ 54.4618743624, 24.4158748435 ],
-					[ 54.4615685255, 24.4160663559 ],
-					[ 54.4611994329, 24.4163109625 ],
-					[ 54.4605452714, 24.4167727311 ],
-					[ 54.4601404164, 24.4170630952 ],
-					[ 54.4591026519, 24.4177974393 ],
-					[ 54.4584050846, 24.418292722 ],
-					[ 54.4576561805, 24.4188269868 ],
-					[ 54.4570747697, 24.4192178681 ],
-					[ 54.4570038824, 24.4192720936 ],
-					[ 54.4569260245, 24.4193680207 ],
-					[ 54.4568657493, 24.4194671935 ],
-					[ 54.4568053067, 24.4195858167 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00237",
-				"creationtime" : "2025-12-12T13:22:38+04:00",
-				"updatetime" : "2025-12-12T17:24:12+04:00",
-				"street" : "Saif Ghubash St",
-				"type" : "ROAD_CLOSED",
-				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Road Closures for ADNOC Marathon in Abu Dhabi",
-				"lanePosition" : null,
-				"startTime" : "2025-12-13T06:30:00+04:00",
-				"endTime" : "2025-12-13T12:30:00+04:00",
-				"name" : "ROAD CLOSURES FOR ADNOC MARATHON IN ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.4725001582, 24.4133269265 ],
-					[ 54.4723427831, 24.4133416043 ],
-					[ 54.472172983, 24.4133443356 ],
-					[ 54.4718109708, 24.4133573281 ],
-					[ 54.4708595627, 24.4133573667 ],
-					[ 54.4705489819, 24.4133589756 ],
-					[ 54.4699379986, 24.4133822285 ],
-					[ 54.469422483, 24.4134182985 ],
-					[ 54.4688090698, 24.4134800667 ],
-					[ 54.4683966236, 24.4135341798 ],
-					[ 54.4682571244, 24.4135551286 ],
-					[ 54.4678441323, 24.4136238647 ],
-					[ 54.4672150529, 24.4137445744 ],
-					[ 54.4665144595, 24.4139094758 ],
-					[ 54.4655150384, 24.4141989289 ],
-					[ 54.4650130269, 24.4143695987 ],
-					[ 54.464846566, 24.4144270842 ],
-					[ 54.4647735752, 24.4144761701 ],
-					[ 54.4646910139, 24.4145640771 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00235",
-				"creationtime" : "2025-12-12T13:22:38+04:00",
-				"updatetime" : "2025-12-12T17:24:12+04:00",
-				"street" : "Saif Ghubash St",
-				"type" : "ROAD_CLOSED",
-				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Road Closures for ADNOC Marathon in Abu Dhabi",
-				"lanePosition" : null,
-				"startTime" : "2025-12-13T06:30:00+04:00",
-				"endTime" : "2025-12-13T12:30:00+04:00",
-				"name" : "ROAD CLOSURES FOR ADNOC MARATHON IN ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.4568053067, 24.4195858167 ],
-					[ 54.4567948143, 24.4196971582 ],
-					[ 54.4567507116, 24.4197897884 ],
-					[ 54.4566647984, 24.4198844276 ],
-					[ 54.4565812595, 24.4199319541 ],
-					[ 54.4564382988, 24.4199633701 ],
-					[ 54.4563507435, 24.4199576666 ],
-					[ 54.4562743911, 24.4199363266 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00238",
-				"creationtime" : "2025-12-12T13:22:38+04:00",
-				"updatetime" : "2025-12-12T17:24:12+04:00",
-				"street" : null,
-				"type" : "ROAD_CLOSED",
-				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Road Closures for ADNOC Marathon in Abu Dhabi",
-				"lanePosition" : null,
-				"startTime" : "2025-12-13T06:30:00+04:00",
-				"endTime" : "2025-12-13T12:30:00+04:00",
-				"name" : "ROAD CLOSURES FOR ADNOC MARATHON IN ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.4738588908, 24.4176543644 ],
-					[ 54.4744497606, 24.4178342117 ],
-					[ 54.4746662724, 24.4178787272 ],
-					[ 54.4751314018, 24.4179312791 ],
-					[ 54.4753552691, 24.4179390079 ],
-					[ 54.4756850424, 24.4179224037 ],
-					[ 54.4760261661, 24.4178661844 ],
-					[ 54.4762841915, 24.417794173 ],
-					[ 54.4764979603, 24.4177123751 ],
-					[ 54.4767460788, 24.4175699756 ],
-					[ 54.4769235861, 24.4174248862 ],
-					[ 54.4770963746, 24.4172329933 ],
-					[ 54.4772027248, 24.4170707673 ],
-					[ 54.4772939323, 24.4168689253 ],
-					[ 54.4773215433, 24.4167817792 ],
-					[ 54.4773591313, 24.4166125169 ],
-					[ 54.4773965206, 24.4163461422 ],
-					[ 54.4774359136, 24.4160643909 ],
-					[ 54.4775035085, 24.4156711488 ],
-					[ 54.4775901725, 24.4149954405 ],
-					[ 54.4776749552, 24.4142581934 ],
-					[ 54.4777278902, 24.4137874369 ],
-					[ 54.4777757575, 24.4133044183 ],
-					[ 54.4778744851, 24.4123249154 ],
-					[ 54.477912459, 24.4119650472 ],
-					[ 54.4779900192, 24.4111921842 ],
-					[ 54.4780989001, 24.4100959619 ],
-					[ 54.4781069859, 24.409810535 ],
-					[ 54.47809791, 24.4094847844 ],
-					[ 54.478064118, 24.409238952 ],
-					[ 54.4779864903, 24.4088415443 ],
-					[ 54.4778648291, 24.4084426554 ],
-					[ 54.4777228819, 24.4081381009 ],
-					[ 54.4775781099, 24.407914256 ],
-					[ 54.4771775609, 24.4074535397 ],
-					[ 54.4770887717, 24.4073286976 ],
-					[ 54.4769843748, 24.4072118379 ],
-					[ 54.4768680511, 24.4071095418 ],
-					[ 54.4767079556, 24.4070126866 ],
-					[ 54.4765729251, 24.4069526649 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00230",
-				"creationtime" : "2025-12-12T13:22:38+04:00",
-				"updatetime" : "2025-12-12T17:24:12+04:00",
-				"street" : null,
-				"type" : "ROAD_CLOSED",
-				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Road Closures for ADNOC Marathon in Abu Dhabi",
-				"lanePosition" : null,
-				"startTime" : "2025-12-13T06:30:00+04:00",
-				"endTime" : "2025-12-13T12:30:00+04:00",
-				"name" : "ROAD CLOSURES FOR ADNOC MARATHON IN ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.3729866043, 24.4325261679 ],
-					[ 54.3729164968, 24.4325797298 ],
-					[ 54.3725022511, 24.4330134449 ],
-					[ 54.3722740832, 24.4332523327 ],
-					[ 54.3709395873, 24.4346431469 ],
-					[ 54.3694190316, 24.4362196143 ],
-					[ 54.3692348081, 24.4364062246 ],
-					[ 54.3689612443, 24.4366833345 ],
-					[ 54.3686727121, 24.4369756006 ],
-					[ 54.3684986843, 24.4371605678 ],
-					[ 54.3683672888, 24.4373002226 ],
-					[ 54.3681628154, 24.4375143548 ],
-					[ 54.3677050604, 24.437998896 ],
-					[ 54.3675445782, 24.4381674946 ],
-					[ 54.3662449859, 24.4395137276 ],
-					[ 54.3647475446, 24.4410688083 ],
-					[ 54.3642570471, 24.4415779307 ],
-					[ 54.3640584696, 24.4417772726 ],
-					[ 54.3637058347, 24.4421312664 ],
-					[ 54.3634015212, 24.4424501957 ],
-					[ 54.3630844184, 24.4427856608 ],
-					[ 54.3629200556, 24.4429587462 ],
-					[ 54.3622708989, 24.4436392128 ],
-					[ 54.3621044632, 24.443812469 ],
-					[ 54.3611519849, 24.444798125 ],
-					[ 54.360194081, 24.445793974 ],
-					[ 54.3594728517, 24.4465422702 ],
-					[ 54.3593045409, 24.4467189681 ],
-					[ 54.3587456185, 24.4472757977 ],
-					[ 54.3584826684, 24.4475468813 ],
-					[ 54.3582845046, 24.4477624308 ],
-					[ 54.3581758611, 24.447886173 ],
-					[ 54.358011608, 24.4480592709 ],
-					[ 54.3576671803, 24.4484177011 ],
-					[ 54.3574884868, 24.4486036638 ],
-					[ 54.3569709782, 24.4491591867 ],
-					[ 54.3565806518, 24.449563307 ],
-					[ 54.3563443261, 24.4498107725 ],
-					[ 54.3557177721, 24.4504861724 ],
-					[ 54.3553754712, 24.4508874391 ],
-					[ 54.3551067088, 24.4512212683 ],
-					[ 54.3548702582, 24.4515130084 ],
-					[ 54.3546905538, 24.4517287837 ],
-					[ 54.3545586691, 24.4518829113 ],
-					[ 54.3543014361, 24.4521635969 ],
-					[ 54.3539118614, 24.4525705914 ],
-					[ 54.3536814731, 24.4528096527 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00214",
-				"creationtime" : "2025-12-12T13:22:38+04:00",
-				"updatetime" : "2025-12-12T17:24:12+04:00",
-				"street" : "Al Bateen St",
-				"type" : "ROAD_CLOSED",
-				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Road Closures for ADNOC Marathon in Abu Dhabi",
-				"lanePosition" : null,
-				"startTime" : "2025-12-13T05:01:00+04:00",
-				"endTime" : "2025-12-13T08:30:00+04:00",
-				"name" : "ROAD CLOSURES FOR ADNOC MARATHON IN ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.3523288703, 24.4899897341 ],
-					[ 54.3527616267, 24.4894825489 ],
-					[ 54.3531884711, 24.4889759653 ],
-					[ 54.3535895058, 24.4884969917 ],
-					[ 54.3539246912, 24.4880954669 ],
-					[ 54.3542865784, 24.4876789037 ],
-					[ 54.3545243528, 24.4873661878 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00224",
-				"creationtime" : "2025-12-12T13:22:38+04:00",
-				"updatetime" : "2025-12-12T17:24:12+04:00",
-				"street" : "Sh Rashid Bin Saeed St",
-				"type" : "ROAD_CLOSED",
-				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Road Closures for ADNOC Marathon in Abu Dhabi",
-				"lanePosition" : null,
-				"startTime" : "2025-12-13T03:01:00+04:00",
-				"endTime" : "2025-12-13T09:30:00+04:00",
-				"name" : "ROAD CLOSURES FOR ADNOC MARATHON IN ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.3349897713, 24.4621477075 ],
-					[ 54.3349918541, 24.4622357205 ],
-					[ 54.3350461866, 24.4625856476 ],
-					[ 54.3350450031, 24.4626198434 ],
-					[ 54.3350361394, 24.4626507765 ],
-					[ 54.3350123982, 24.4626819497 ],
-					[ 54.3349883683, 24.4627001799 ],
-					[ 54.3349552778, 24.4627151437 ],
-					[ 54.3349330366, 24.4627196628 ],
-					[ 54.3348452799, 24.462718419 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00218",
-				"creationtime" : "2025-12-12T13:22:38+04:00",
-				"updatetime" : "2025-12-12T17:24:12+04:00",
-				"street" : null,
-				"type" : "ROAD_CLOSED",
-				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Road Closures for ADNOC Marathon in Abu Dhabi",
-				"lanePosition" : null,
-				"startTime" : "2025-12-13T03:01:00+04:00",
-				"endTime" : "2025-12-13T09:30:00+04:00",
-				"name" : "ROAD CLOSURES FOR ADNOC MARATHON IN ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.3735774634, 24.4325589204 ],
-					[ 54.3734043403, 24.4324936305 ],
-					[ 54.3733455786, 24.4324524541 ],
-					[ 54.3732999983, 24.4324331232 ],
-					[ 54.3732673997, 24.4324247469 ],
-					[ 54.3731935905, 24.4324222882 ],
-					[ 54.3731315472, 24.4324373707 ],
-					[ 54.3730600016, 24.4324768815 ],
-					[ 54.3729866043, 24.4325261679 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00213",
-				"creationtime" : "2025-12-12T13:22:38+04:00",
-				"updatetime" : "2025-12-12T17:24:12+04:00",
-				"street" : null,
-				"type" : "ROAD_CLOSED",
-				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Road Closures for ADNOC Marathon in Abu Dhabi",
-				"lanePosition" : null,
-				"startTime" : "2025-12-13T05:01:00+04:00",
-				"endTime" : "2025-12-13T08:30:00+04:00",
-				"name" : "ROAD CLOSURES FOR ADNOC MARATHON IN ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.4524939209, 24.4128542563 ],
-					[ 54.4453813869, 24.4148097107 ],
-					[ 54.4434157064, 24.4153461446 ],
-					[ 54.4420448077, 24.4156710787 ],
-					[ 54.4393714012, 24.4162411382 ],
-					[ 54.4383817863, 24.4164767669 ],
-					[ 54.4365453203, 24.4169607281 ],
-					[ 54.4335956249, 24.4178176812 ],
-					[ 54.4301997516, 24.4189840048 ],
-					[ 54.428507884, 24.4195156984 ],
-					[ 54.4247391158, 24.4205787573 ],
-					[ 54.4225706489, 24.4211688628 ],
-					[ 54.4203668935, 24.421782293 ],
-					[ 54.4173794743, 24.4226029253 ],
-					[ 54.4127804493, 24.4238671149 ],
-					[ 54.411289421, 24.4242838157 ],
-					[ 54.407158583, 24.4254147123 ],
-					[ 54.4039325628, 24.4262991578 ],
-					[ 54.4014088565, 24.4270170119 ],
-					[ 54.4001680322, 24.4273418515 ],
-					[ 54.3995879236, 24.4275461622 ],
-					[ 54.397549049, 24.4280804719 ],
-					[ 54.3962672579, 24.4284307579 ],
-					[ 54.3931757646, 24.4292707894 ],
-					[ 54.3924561568, 24.4294792073 ],
-					[ 54.3906074421, 24.4300008671 ],
-					[ 54.3848366472, 24.4314591385 ],
-					[ 54.3819043357, 24.4322083484 ],
-					[ 54.3815393953, 24.432304066 ],
-					[ 54.3813282246, 24.4323616073 ],
-					[ 54.3807690963, 24.4325448235 ],
-					[ 54.3802830757, 24.432738372 ],
-					[ 54.3797199481, 24.4330061289 ],
-					[ 54.3792915048, 24.4332409284 ],
-					[ 54.3787847935, 24.4335576553 ],
-					[ 54.3783540983, 24.4338787222 ],
-					[ 54.3777387632, 24.4343648085 ],
-					[ 54.3775245186, 24.4345324592 ],
-					[ 54.377326934, 24.434708015 ],
-					[ 54.376985679, 24.4350150903 ],
-					[ 54.3768348699, 24.4351418587 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00211",
-				"creationtime" : "2025-12-12T13:22:38+04:00",
-				"updatetime" : "2025-12-12T17:24:12+04:00",
-				"street" : "Al Khaleej Al Arabi St",
-				"type" : "ROAD_CLOSED",
-				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Road Closures for ADNOC Marathon in Abu Dhabi",
-				"lanePosition" : null,
-				"startTime" : "2025-12-13T05:01:00+04:00",
-				"endTime" : "2025-12-13T07:00:00+04:00",
-				"name" : "ROAD CLOSURES FOR ADNOC MARATHON IN ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.3548276887, 24.4870628519 ],
-					[ 54.3551306955, 24.4867771597 ],
-					[ 54.3555160721, 24.486416519 ],
-					[ 54.3562368374, 24.4857125927 ],
-					[ 54.3567478034, 24.485206313 ],
-					[ 54.3569497425, 24.4850073668 ],
-					[ 54.3574247528, 24.484539079 ],
-					[ 54.3580463057, 24.4839010757 ],
-					[ 54.3587297014, 24.4830935483 ],
-					[ 54.3594116654, 24.482272613 ],
-					[ 54.3601539622, 24.4813920832 ],
-					[ 54.3607363434, 24.4807344836 ],
-					[ 54.3616204112, 24.4797358126 ],
-					[ 54.3620692421, 24.4792027727 ],
-					[ 54.3633306429, 24.4777459393 ],
-					[ 54.3642461231, 24.4766545104 ],
-					[ 54.3645068914, 24.4763114622 ],
-					[ 54.3650273884, 24.475675351 ],
-					[ 54.3652681945, 24.4754165945 ],
-					[ 54.3654200288, 24.475259063 ],
-					[ 54.3658188323, 24.4748862436 ],
-					[ 54.366205029, 24.4745789057 ],
-					[ 54.3666597407, 24.4741636284 ],
-					[ 54.3667418452, 24.4740884739 ],
-					[ 54.3670428402, 24.4738129711 ],
-					[ 54.3677897514, 24.4731047316 ],
-					[ 54.3680247757, 24.4728579747 ],
-					[ 54.368947973, 24.471890279 ],
-					[ 54.3695700385, 24.4712266315 ],
-					[ 54.3699995296, 24.4707542932 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00226",
-				"creationtime" : "2025-12-12T13:22:38+04:00",
-				"updatetime" : "2025-12-12T17:24:12+04:00",
-				"street" : "Sh Rashid Bin Saeed St",
-				"type" : "ROAD_CLOSED",
-				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Road Closures for ADNOC Marathon in Abu Dhabi",
-				"lanePosition" : null,
-				"startTime" : "2025-12-13T06:01:00+04:00",
-				"endTime" : "2025-12-13T10:00:00+04:00",
-				"name" : "ROAD CLOSURES FOR ADNOC MARATHON IN ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.4511109038, 24.4225178872 ],
-					[ 54.4511145785, 24.4222477228 ],
-					[ 54.4510770111, 24.4221642054 ],
-					[ 54.4506861999, 24.4214234374 ],
-					[ 54.4502832811, 24.4206559533 ],
-					[ 54.4500556807, 24.4202258382 ],
-					[ 54.4499985261, 24.4201199466 ],
-					[ 54.4496986139, 24.4195430603 ],
-					[ 54.4494370263, 24.4190469529 ],
-					[ 54.4489492358, 24.4181195171 ],
-					[ 54.4488687123, 24.417971548 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00241",
-				"creationtime" : "2025-12-12T13:22:38+04:00",
-				"updatetime" : "2025-12-12T17:24:12+04:00",
-				"street" : "Al Qiyadah St",
-				"type" : "ROAD_CLOSED",
-				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Road Closures for ADNOC Marathon in Abu Dhabi",
-				"lanePosition" : null,
-				"startTime" : "2025-12-13T06:30:00+04:00",
-				"endTime" : "2025-12-13T12:30:00+04:00",
-				"name" : "ROAD CLOSURES FOR ADNOC MARATHON IN ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.392159537, 24.4473386217 ],
-					[ 54.393215887, 24.4462197994 ],
-					[ 54.3949253453, 24.4443863507 ],
-					[ 54.3958240163, 24.4434366189 ],
-					[ 54.3980481692, 24.4410791568 ],
-					[ 54.3987952036, 24.4402839582 ],
-					[ 54.3991905663, 24.4398750671 ],
-					[ 54.399501542, 24.439564783 ],
-					[ 54.4000558031, 24.4390566319 ],
-					[ 54.4006798472, 24.4385367329 ],
-					[ 54.4010618639, 24.4382385321 ],
-					[ 54.4015809517, 24.437858609 ],
-					[ 54.4021289068, 24.4374887151 ],
-					[ 54.402722481, 24.4371222018 ],
-					[ 54.4033959868, 24.4367559907 ],
-					[ 54.4036120993, 24.436642615 ],
-					[ 54.4044925698, 24.4362124072 ],
-					[ 54.4047680033, 24.4360836944 ],
-					[ 54.405469247, 24.4357939868 ],
-					[ 54.4061417088, 24.4355330773 ],
-					[ 54.406705304, 24.4353301992 ],
-					[ 54.4076842799, 24.434937959 ],
-					[ 54.4087739147, 24.4345064598 ],
-					[ 54.4106314311, 24.4337580908 ],
-					[ 54.4122087242, 24.4331271732 ],
-					[ 54.4136013144, 24.4325496717 ],
-					[ 54.413908057, 24.4324263468 ],
-					[ 54.4145354681, 24.43218134 ],
-					[ 54.417072827, 24.4311783882 ],
-					[ 54.4176543134, 24.4309392782 ],
-					[ 54.4183263012, 24.4307000217 ],
-					[ 54.4193474104, 24.4302776587 ],
-					[ 54.4198023333, 24.4300922248 ],
-					[ 54.4201475435, 24.4299691885 ],
-					[ 54.4207743323, 24.429782438 ],
-					[ 54.4215302403, 24.429583195 ],
-					[ 54.4224074525, 24.4293836489 ],
-					[ 54.4233859149, 24.4292120961 ],
-					[ 54.4237453838, 24.4291591197 ],
-					[ 54.4251357708, 24.4289630117 ],
-					[ 54.426711437, 24.428733029 ],
-					[ 54.4274923282, 24.4286275808 ],
-					[ 54.4278348638, 24.4285734659 ],
-					[ 54.4290248395, 24.4283913936 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00228",
-				"creationtime" : "2025-12-12T13:22:38+04:00",
-				"updatetime" : "2025-12-12T17:24:12+04:00",
-				"street" : "Sh Rashid Bin Saeed St",
-				"type" : "ROAD_CLOSED",
-				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Road Closures for ADNOC Marathon in Abu Dhabi",
-				"lanePosition" : null,
-				"startTime" : "2025-12-13T06:01:00+04:00",
-				"endTime" : "2025-12-13T10:45:00+04:00",
-				"name" : "ROAD CLOSURES FOR ADNOC MARATHON IN ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.4716593955, 24.4082688227 ],
-					[ 54.4717110228, 24.4085197552 ],
-					[ 54.4719258484, 24.4091769429 ],
-					[ 54.4721913867, 24.4099532044 ],
-					[ 54.472424384, 24.4106452579 ],
-					[ 54.4725267646, 24.4110203147 ],
-					[ 54.4727043133, 24.4115833821 ],
-					[ 54.4727414624, 24.411818106 ],
-					[ 54.4727644905, 24.4120678837 ],
-					[ 54.4727570729, 24.4123212551 ],
-					[ 54.4727374146, 24.4125087251 ],
-					[ 54.4727152409, 24.4126195935 ],
-					[ 54.4725559773, 24.4131211715 ],
-					[ 54.4725001582, 24.4133269265 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00234",
-				"creationtime" : "2025-12-12T13:22:38+04:00",
-				"updatetime" : "2025-12-12T17:24:12+04:00",
-				"street" : "Al Jami' Al Kabeer St",
-				"type" : "ROAD_CLOSED",
-				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Road Closures for ADNOC Marathon in Abu Dhabi",
-				"lanePosition" : null,
-				"startTime" : "2025-12-13T06:30:00+04:00",
-				"endTime" : "2025-12-13T12:30:00+04:00",
-				"name" : "ROAD CLOSURES FOR ADNOC MARATHON IN ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.4562743911, 24.4199363266 ],
-					[ 54.4561269373, 24.4199751063 ],
-					[ 54.4559910372, 24.4200187423 ],
-					[ 54.4558424763, 24.4201008585 ],
-					[ 54.455677859, 24.4202211994 ],
-					[ 54.4553032563, 24.4204857854 ],
-					[ 54.4551090765, 24.4206219589 ],
-					[ 54.4544449299, 24.4210942415 ],
-					[ 54.4541553464, 24.4212984703 ],
-					[ 54.4539470409, 24.4214356835 ],
-					[ 54.4537083042, 24.421583425 ],
-					[ 54.4534492716, 24.4217339832 ],
-					[ 54.4531771502, 24.4218816834 ],
-					[ 54.4528883896, 24.422026262 ],
-					[ 54.4527125011, 24.4221089124 ],
-					[ 54.4523362211, 24.4222727329 ],
-					[ 54.452064687, 24.4223851679 ],
-					[ 54.4517959309, 24.4225006337 ],
-					[ 54.4516871022, 24.422573316 ],
-					[ 54.4515424498, 24.4226908349 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00239",
-				"creationtime" : "2025-12-12T13:22:38+04:00",
-				"updatetime" : "2025-12-12T17:24:12+04:00",
-				"street" : "Saif Ghubash St",
-				"type" : "ROAD_CLOSED",
-				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Road Closures for ADNOC Marathon in Abu Dhabi",
-				"lanePosition" : null,
-				"startTime" : "2025-12-13T06:30:00+04:00",
-				"endTime" : "2025-12-13T12:30:00+04:00",
-				"name" : "ROAD CLOSURES FOR ADNOC MARATHON IN ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.3699995296, 24.4707542932 ],
-					[ 54.3705013261, 24.4702014889 ],
-					[ 54.370768297, 24.46990738 ],
-					[ 54.371667718, 24.468971318 ],
-					[ 54.3726535341, 24.467964544 ],
-					[ 54.3740696228, 24.466461258 ],
-					[ 54.3750820418, 24.4653918094 ],
-					[ 54.3760667536, 24.4643447179 ],
-					[ 54.3762957497, 24.4640974754 ],
-					[ 54.377266299, 24.4630417514 ],
-					[ 54.3778102324, 24.4624531496 ],
-					[ 54.3779620307, 24.4622901834 ],
-					[ 54.3787985801, 24.461446926 ],
-					[ 54.3796171313, 24.4605776306 ],
-					[ 54.3814088992, 24.4587312756 ],
-					[ 54.382217468, 24.4578324131 ],
-					[ 54.3828921735, 24.4571009163 ],
-					[ 54.3844966027, 24.4554269506 ],
-					[ 54.3852665726, 24.4546109202 ],
-					[ 54.3878680792, 24.4518543029 ],
-					[ 54.3893119318, 24.4503220686 ],
-					[ 54.3895298124, 24.4500981797 ],
-					[ 54.3911515103, 24.4484043651 ],
-					[ 54.392159537, 24.4473386217 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00227",
-				"creationtime" : "2025-12-12T13:22:38+04:00",
-				"updatetime" : "2025-12-12T17:24:12+04:00",
-				"street" : "Sh Rashid Bin Saeed St",
-				"type" : "ROAD_CLOSED",
-				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Road Closures for ADNOC Marathon in Abu Dhabi",
-				"lanePosition" : null,
-				"startTime" : "2025-12-13T06:01:00+04:00",
-				"endTime" : "2025-12-13T10:30:00+04:00",
-				"name" : "ROAD CLOSURES FOR ADNOC MARATHON IN ABU DHABI"
+				"description" : "Partial Closure of Right Lanes on Intersections of King Abdullah Bin Abdulaziz Al Saud St. Abu Dhabi",
+				"lanePosition" : "Right",
+				"lane_impact" : {
+					"total_closed_lanes" : 1,
+					"roadside" : null
+				},
+				"startTime" : "2025-12-22T05:00:00+04:00",
+				"endTime" : "2025-12-25T23:00:00+04:00",
+				"name" : "PARTIAL CLOSURE OF INTERSECTIONS KING ABDULLAH BIN ABDULAZIZ AL SAUD ST. ABU DHABI"
 			}
 		}
 	]
