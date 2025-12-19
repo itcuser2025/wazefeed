@@ -510,7 +510,7 @@
 				"lanePosition" : "Left",
 				"lane_impact" : {
 					"total_closed_lanes" : 1,
-					"roadside" : null
+					"roadside" : "LEFT"
 				},
 				"startTime" : "2025-12-18T23:00:00+04:00",
 				"endTime" : "2025-12-25T23:00:00+04:00",
@@ -568,7 +568,7 @@
 				"lanePosition" : "Left",
 				"lane_impact" : {
 					"total_closed_lanes" : 4,
-					"roadside" : null
+					"roadside" : "LEFT"
 				},
 				"startTime" : "2025-12-18T23:00:00+04:00",
 				"endTime" : "2025-12-22T05:00:00+04:00",
@@ -599,13 +599,151 @@
 				"lanePosition" : "Right",
 				"lane_impact" : {
 					"total_closed_lanes" : 1,
-					"roadside" : null
+					"roadside" : "RIGHT"
 				},
 				"startTime" : "2025-12-22T05:00:00+04:00",
 				"endTime" : "2025-12-25T23:00:00+04:00",
 				"name" : "PARTIAL CLOSURE OF INTERSECTIONS KING ABDULLAH BIN ABDULAZIZ AL SAUD ST. ABU DHABI"
 			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.3824272168, 24.4669523849 ],
+					[ 54.3824547253, 24.4670634036 ],
+					[ 54.3824599899, 24.4671402902 ],
+					[ 54.3824474237, 24.4672165509 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00266",
+				"creationtime" : "2025-12-19T13:50:41+04:00",
+				"updatetime" : "2025-12-19T17:53:22+04:00",
+				"street" : "None",
+				"type" : "ROAD_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Road Closure on Sheikha Fatima Bint Mubarak Street - Abu Dhabi",
+				"lanePosition" : null,
+				"startTime" : "2025-12-19T17:00:00+04:00",
+				"endTime" : "2025-12-22T05:00:00+04:00",
+				"name" : "ROAD CLOSURE IN ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.5185691647, 24.4223897707 ],
+					[ 54.5171368037, 24.4222735998 ],
+					[ 54.5166384831, 24.4222818637 ],
+					[ 54.5158861201, 24.4223142519 ],
+					[ 54.5152405904, 24.422364426 ],
+					[ 54.514289694, 24.422426856 ],
+					[ 54.5136987351, 24.4224543564 ],
+					[ 54.5128258792, 24.4224830699 ],
+					[ 54.5116238121, 24.4225074542 ],
+					[ 54.5094924215, 24.4224980814 ],
+					[ 54.5083308896, 24.4224776362 ],
+					[ 54.5069488042, 24.4224555408 ],
+					[ 54.5064703119, 24.4224478912 ],
+					[ 54.505665862, 24.42243503 ],
+					[ 54.5047801431, 24.4224210266 ],
+					[ 54.5035154301, 24.4224012415 ],
+					[ 54.5023226871, 24.42240406 ],
+					[ 54.4998785016, 24.4224740389 ],
+					[ 54.4986854852, 24.4225424171 ],
+					[ 54.4971892571, 24.4226565716 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00263",
+				"creationtime" : "2025-12-19T13:50:41+04:00",
+				"updatetime" : "2025-12-19T17:53:19+04:00",
+				"street" : "Sheikh Zayed Bin Sultan Street",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Road Closure of Two Right Lanes on Sheikh Zayed Bin Sultan Street (E10) Abu Dhabi",
+				"lanePosition" : "Right ",
+				"lane_impact" : {
+					"total_closed_lanes" : 2,
+					"roadside" : "RIGHT"
+				},
+				"startTime" : "2025-12-20T00:01:00+04:00",
+				"endTime" : "2025-12-22T05:00:00+04:00",
+				"name" : "PARTIAL ROAD CLOSURE IN ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.3808308663, 24.4656178432 ],
+					[ 54.381283451, 24.4659916527 ],
+					[ 54.3814295719, 24.4661123408 ],
+					[ 54.3816995664, 24.466334164 ],
+					[ 54.3819516005, 24.4665485237 ],
+					[ 54.3823767253, 24.4669132572 ],
+					[ 54.3824272168, 24.4669523849 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00265",
+				"creationtime" : "2025-12-19T13:50:41+04:00",
+				"updatetime" : "2025-12-19T17:53:22+04:00",
+				"street" : "Sheikha Fatima Bint Mubarak Sreet",
+				"type" : "ROAD_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Road Closure on Sheikha Fatima Bint Mubarak Street Abu Dhabi",
+				"lanePosition" : null,
+				"startTime" : "2025-12-19T17:00:00+04:00",
+				"endTime" : "2025-12-22T05:00:00+04:00",
+				"name" : "ROAD CLOSURE IN ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.4903131981, 24.4232432453 ],
+					[ 54.4919317494, 24.4229900403 ],
+					[ 54.4931263386, 24.4228077792 ],
+					[ 54.4944401834, 24.4226332774 ],
+					[ 54.49812323, 24.4222680519 ],
+					[ 54.4989883149, 24.4222086985 ],
+					[ 54.4997462131, 24.4221663314 ],
+					[ 54.5011954742, 24.4221138272 ],
+					[ 54.50361896, 24.4220900122 ],
+					[ 54.5048457199, 24.422106156 ],
+					[ 54.5064695663, 24.4221341051 ],
+					[ 54.5074796929, 24.422151516 ],
+					[ 54.5089318687, 24.4221748642 ],
+					[ 54.5094750772, 24.4221788266 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00264",
+				"creationtime" : "2025-12-19T13:50:41+04:00",
+				"updatetime" : "2025-12-19T17:53:22+04:00",
+				"street" : "Sheikh Zayed Bin Sultan Street",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Road Closure of Two Right Lanes on Sheikh Zayed Bin Sultan Street (E10) Abu Dhabi",
+				"lanePosition" : "Right ",
+				"lane_impact" : {
+					"total_closed_lanes" : 2,
+					"roadside" : "RIGHT"
+				},
+				"startTime" : "2025-12-20T00:01:00+04:00",
+				"endTime" : "2025-12-22T05:00:00+04:00",
+				"name" : "PARTIAL ROAD CLOSURE IN ABU DHABI"
+			}
 		}
 	]
 }
-
