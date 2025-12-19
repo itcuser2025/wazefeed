@@ -41,7 +41,7 @@
 				"street" : "Sheikh Zayed Bin Sultan Street",
 				"type" : "HAZARD",
 				"direction" : "ONE_DIRECTION",
-				"description" : "Partial Road Closure of Three Left Lanes Towards Sheikh Zayed Bridge on Sheikh Zayed Bin Sultan Street (E10) Abu Dhabi.",
+				"description" : "Partial Road Closure of Two Right Lanes Towards Sheikh Zayed Bridge on Sheikh Zayed Bin Sultan Street (E10) Abu Dhabi.",
 				"lanePosition" : "Right",
 				"lane_impact" : {
 					"total_closed_lanes" : 2,
@@ -608,3 +608,4 @@
 		}
 	]
 }
+
