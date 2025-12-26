@@ -1023,33 +1023,6 @@
 			"geometry" : {
 				"type" : "LineString",
 				"coordinates" : [
-					[ 54.3228754707, 24.460666515 ],
-					[ 54.3227665098, 24.4606892094 ],
-					[ 54.3226427343, 24.4607316089 ],
-					[ 54.3225225651, 24.460801006 ],
-					[ 54.3223530321, 24.4609149222 ],
-					[ 54.3222160698, 24.461034764 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00286",
-				"creationtime" : "2025-12-24T13:29:04+04:00",
-				"updatetime" : "2025-12-24T17:30:08+04:00",
-				"street" : "King Abdullah Bin Abdulaziz Al Saud St",
-				"type" : "ROAD_CLOSED",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Road Closure on Intersections of King Abdullah Bin Abdulaziz Al Saud St. Abu Dhabi",
-				"lanePosition" : null,
-				"startTime" : "2025-12-25T23:00:00+04:00",
-				"endTime" : "2025-12-29T05:00:00+04:00",
-				"name" : "PARTIAL CLOSURE OF INTERSECTIONS KING ABDULLAH BIN ABDULAZIZ AL SAUD ST. ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
 					[ 54.3244816833, 24.4603357201 ],
 					[ 54.3235642552, 24.4605071471 ],
 					[ 54.3228754707, 24.460666515 ]
@@ -1076,3 +1049,4 @@
 		}
 	]
 }
+
