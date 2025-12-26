@@ -1046,7 +1046,45 @@
 				"endTime" : "2025-12-29T05:00:00+04:00",
 				"name" : "PARTIAL CLOSURE OF INTERSECTIONS KING ABDULLAH BIN ABDULAZIZ AL SAUD ST. ABU DHABI"
 			}
+		},
+{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.5954336912, 24.3026790436 ],
+					[ 54.5961323907, 24.3031257351 ],
+					[ 54.5965720962, 24.3034346639 ],
+					[ 54.5973701609, 24.3040577259 ],
+					[ 54.5979275571, 24.3045298933 ],
+					[ 54.5985073293, 24.3051114975 ],
+					[ 54.5989705548, 24.3056255185 ],
+					[ 54.5996048314, 24.306421271 ],
+					[ 54.6004230904, 24.3075716002 ],
+					[ 54.6009630577, 24.308338738 ],
+					[ 54.6010824076, 24.3084794343 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00289",
+				"creationtime" : "2025-12-26T10:43:51+04:00",
+				"updatetime" : "2025-12-26T14:44:14+04:00",
+				"street" : "Sheikh Khalifa Bin Zayed Intlʹ Road",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Road Closure of Right Lane Towards Dubai on Sheikh Khalifa Bin Zayed Intlʹ Road (E11) Abu Dhabi",
+				"lanePosition" : "Right ",
+				"lane_impact" : {
+					"total_closed_lanes" : 1,
+					"roadside" : "LEFT"
+				},
+				"startTime" : "2025-12-28T00:01:00+04:00",
+				"endTime" : "2025-12-28T15:00:00+04:00",
+				"name" : "PARTIAL ROAD CLOSURE IN ABU DHABI"
+			}
 		}
 	]
 }
+
 
