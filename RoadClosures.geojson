@@ -702,7 +702,7 @@
 				"type" : "ROAD_CLOSED",
 				"direction" : "ONE_DIRECTION",
 				"description" : "Road Closure on Intersections of King Abdullah Bin Abdulaziz Al Saud St. Abu Dhabi",
-				"roadside" : "LEFT"
+				"roadside" : "LEFT",
 				"startTime" : "2025-12-25T23:00:00+04:00",
 				"endTime" : "2025-12-29T05:00:00+04:00",
 				"name" : "PARTIAL CLOSURE OF INTERSECTIONS KING ABDULLAH BIN ABDULAZIZ AL SAUD ST. ABU DHABI"
@@ -1086,5 +1086,6 @@
 		}
 	]
 }
+
 
 
