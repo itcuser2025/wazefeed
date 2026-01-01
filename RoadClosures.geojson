@@ -7,644 +7,6 @@
 			"geometry" : {
 				"type" : "LineString",
 				"coordinates" : [
-					[ 54.3400261096, 24.4594246457 ],
-					[ 54.3397022817, 24.4589837882 ],
-					[ 54.3392855962, 24.45841343 ],
-					[ 54.3391503579, 24.4582282219 ],
-					[ 54.3390060473, 24.4580313324 ],
-					[ 54.3388145385, 24.4577689291 ],
-					[ 54.3386739537, 24.4575554354 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00246",
-				"creationtime" : "2025-12-18T12:59:48+04:00",
-				"updatetime" : "2025-12-18T17:05:25+04:00",
-				"street" : "Atiq Bin Majid Al Muhairi St",
-				"type" : "HAZARD",
-				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Partial Closure of Left Lanes on Atiq Bin Majid Al Muhairi St. Abu Dhabi",
-				"lanePosition" : "Left",
-				"lane_impact" : {
-					"total_closed_lanes" : 1,
-					"roadside" : "LEFT"
-				},
-				"startTime" : "2025-12-18T23:00:00+04:00",
-				"endTime" : "2025-12-25T23:00:00+04:00",
-				"name" : "PARTIAL CLOSURE OF INTERSECTIONS KING ABDULLAH BIN ABDULAZIZ AL SAUD ST. ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.3399148302, 24.4567863028 ],
-					[ 54.3395918063, 24.4568511152 ],
-					[ 54.339438462, 24.4568856177 ],
-					[ 54.3391964634, 24.456940068 ],
-					[ 54.3390010848, 24.456988519 ],
-					[ 54.3386964341, 24.4570651961 ],
-					[ 54.3384971497, 24.457114345 ],
-					[ 54.3382713929, 24.4571721741 ],
-					[ 54.3380656118, 24.4572201853 ],
-					[ 54.3376785211, 24.457309934 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00251",
-				"creationtime" : "2025-12-18T12:59:48+04:00",
-				"updatetime" : "2025-12-18T17:05:25+04:00",
-				"street" : "King Abdullah Bin Abdulaziz Al Saud St",
-				"type" : "HAZARD",
-				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Partial Closure of Right Lanes on Intersections of King Abdullah Bin Abdulaziz Al Saud St. Abu Dhabi",
-				"lanePosition" : "Right",
-				"lane_impact" : {
-					"total_closed_lanes" : 1,
-					"roadside" : "RIGHT"
-				},
-				"startTime" : "2025-12-22T05:00:00+04:00",
-				"endTime" : "2025-12-25T23:00:00+04:00",
-				"name" : "PARTIAL CLOSURE OF INTERSECTIONS KING ABDULLAH BIN ABDULAZIZ AL SAUD ST. ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.3375876554, 24.4570666125 ],
-					[ 54.337809922, 24.45701538 ],
-					[ 54.3381500141, 24.456936343 ],
-					[ 54.3383062237, 24.4569003594 ],
-					[ 54.3385003252, 24.4568494919 ],
-					[ 54.3386056709, 24.4568218845 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00252",
-				"creationtime" : "2025-12-18T12:59:48+04:00",
-				"updatetime" : "2025-12-18T17:05:25+04:00",
-				"street" : "King Abdullah Bin Abdulaziz Al Saud St",
-				"type" : "HAZARD",
-				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Partial Closure of Right Lanes on Intersections of King Abdullah Bin Abdulaziz Al Saud St. Abu Dhabi",
-				"lanePosition" : "Right",
-				"lane_impact" : {
-					"total_closed_lanes" : 1,
-					"roadside" : "RIGHT"
-				},
-				"startTime" : "2025-12-22T05:00:00+04:00",
-				"endTime" : "2025-12-25T23:00:00+04:00",
-				"name" : "PARTIAL CLOSURE OF INTERSECTIONS KING ABDULLAH BIN ABDULAZIZ AL SAUD ST. ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.3258723769, 24.4609233614 ],
-					[ 54.3260604476, 24.4607947332 ],
-					[ 54.3262067421, 24.4607082094 ],
-					[ 54.3263218275, 24.4606341071 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00255",
-				"creationtime" : "2025-12-18T12:59:48+04:00",
-				"updatetime" : "2025-12-18T17:05:25+04:00",
-				"street" : "King Salman Bin Abdulaziz Al Saud St",
-				"type" : "HAZARD",
-				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Partial Closure of Left Lanes on King Salman Bin Abdulaziz Al Saud St. Abu Dhabi",
-				"lanePosition" : "Left",
-				"lane_impact" : {
-					"total_closed_lanes" : 1,
-					"roadside" : "LEFT"
-				},
-				"startTime" : "2025-12-18T23:00:00+04:00",
-				"endTime" : "2025-12-25T23:00:00+04:00",
-				"name" : "PARTIAL CLOSURE OF INTERSECTIONS KING ABDULLAH BIN ABDULAZIZ AL SAUD ST. ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.3263218275, 24.4606341071 ],
-					[ 54.3264311518, 24.4605154406 ],
-					[ 54.3264824419, 24.4604138712 ],
-					[ 54.3265029869, 24.4603445083 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00256",
-				"creationtime" : "2025-12-18T12:59:48+04:00",
-				"updatetime" : "2025-12-18T17:05:25+04:00",
-				"street" : "King Salman Bin Abdulaziz Al Saud St",
-				"type" : "HAZARD",
-				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Partial Closure of Two Left Lanes on King Salman Bin Abdulaziz Al Saud St. Abu Dhabi",
-				"lanePosition" : "Left",
-				"lane_impact" : {
-					"total_closed_lanes" : 2,
-					"roadside" : "LEFT"
-				},
-				"startTime" : "2025-12-18T23:00:00+04:00",
-				"endTime" : "2025-12-25T23:00:00+04:00",
-				"name" : "PARTIAL CLOSURE OF INTERSECTIONS KING ABDULLAH BIN ABDULAZIZ AL SAUD ST. ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.327726654, 24.4595981798 ],
-					[ 54.3274379374, 24.4596630551 ],
-					[ 54.3270877117, 24.45974353 ],
-					[ 54.326684069, 24.4598370631 ],
-					[ 54.3264354694, 24.4598946692 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00261",
-				"creationtime" : "2025-12-18T12:59:48+04:00",
-				"updatetime" : "2025-12-18T17:05:25+04:00",
-				"street" : "King Salman Bin Abdulaziz Al Saud St",
-				"type" : "HAZARD",
-				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Partial Closure of Right Lanes on Intersections of King Abdullah Bin Abdulaziz Al Saud St. Abu Dhabi",
-				"lanePosition" : "Right",
-				"lane_impact" : {
-					"total_closed_lanes" : 1,
-					"roadside" : "RIGHT"
-				},
-				"startTime" : "2025-12-22T05:00:00+04:00",
-				"endTime" : "2025-12-25T23:00:00+04:00",
-				"name" : "PARTIAL CLOSURE OF INTERSECTIONS KING ABDULLAH BIN ABDULAZIZ AL SAUD ST. ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.3257175217, 24.4597955252 ],
-					[ 54.3260751291, 24.4597129918 ],
-					[ 54.3265789356, 24.4595974819 ],
-					[ 54.3268414693, 24.4595374531 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00262",
-				"creationtime" : "2025-12-18T12:59:48+04:00",
-				"updatetime" : "2025-12-18T17:05:25+04:00",
-				"street" : "King Abdullah Bin Abdulaziz Al Saud St",
-				"type" : "HAZARD",
-				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Partial Closure of Right Lanes on Intersections of King Abdullah Bin Abdulaziz Al Saud St. Abu Dhabi",
-				"lanePosition" : "Right",
-				"lane_impact" : {
-					"total_closed_lanes" : 1,
-					"roadside" : "RIGHT"
-				},
-				"startTime" : "2025-12-22T05:00:00+04:00",
-				"endTime" : "2025-12-25T23:00:00+04:00",
-				"name" : "PARTIAL CLOSURE OF INTERSECTIONS KING ABDULLAH BIN ABDULAZIZ AL SAUD ST. ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.3386342199, 24.4574925018 ],
-					[ 54.3385976714, 24.4574327499 ],
-					[ 54.338489287, 24.4572476344 ],
-					[ 54.3384627785, 24.4571981986 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00247",
-				"creationtime" : "2025-12-18T12:59:48+04:00",
-				"updatetime" : "2025-12-18T17:05:25+04:00",
-				"street" : "Atiq Bin Majid Al Muhairi St",
-				"type" : "ROAD_CLOSED",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Road Closure on Intersections of King Abdullah Bin Abdulaziz Al Saud St. Abu Dhabi",
-				"lanePosition" : null,
-				"startTime" : "2025-12-18T23:00:00+04:00",
-				"endTime" : "2025-12-25T23:00:00+04:00",
-				"name" : "ROAD CLOSURE OF INTERSECTIONS KING ABDULLAH BIN ABDULAZIZ AL SAUD ST. ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.3385995861, 24.457168584 ],
-					[ 54.338630351, 24.4572267404 ],
-					[ 54.3386964287, 24.457336741 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00248",
-				"creationtime" : "2025-12-18T12:59:48+04:00",
-				"updatetime" : "2025-12-18T17:05:25+04:00",
-				"street" : "Atiq Bin Majid Al Muhairi St",
-				"type" : "ROAD_CLOSED",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Road Closure on Intersections of King Abdullah Bin Abdulaziz Al Saud St. Abu Dhabi",
-				"lanePosition" : null,
-				"startTime" : "2025-12-18T23:00:00+04:00",
-				"endTime" : "2025-12-25T23:00:00+04:00",
-				"name" : "ROAD CLOSURE OF INTERSECTIONS KING ABDULLAH BIN ABDULAZIZ AL SAUD ST. ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.33828723, 24.456859665 ],
-					[ 54.3382462353, 24.4567718319 ],
-					[ 54.3382013177, 24.4566671103 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00249",
-				"creationtime" : "2025-12-18T12:59:48+04:00",
-				"updatetime" : "2025-12-18T17:05:25+04:00",
-				"street" : "Atiq Bin Majid Al Muhairi St",
-				"type" : "ROAD_CLOSED",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Road Closure on Intersections of King Abdullah Bin Abdulaziz Al Saud St. Abu Dhabi",
-				"lanePosition" : null,
-				"startTime" : "2025-12-18T23:00:00+04:00",
-				"endTime" : "2025-12-25T23:00:00+04:00",
-				"name" : "ROAD CLOSURE OF INTERSECTIONS KING ABDULLAH BIN ABDULAZIZ AL SAUD ST. ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.338296698, 24.4565520969 ],
-					[ 54.3383692248, 24.4567331187 ],
-					[ 54.338414788, 24.4568192495 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00250",
-				"creationtime" : "2025-12-18T12:59:48+04:00",
-				"updatetime" : "2025-12-18T17:05:25+04:00",
-				"street" : "Atiq Bin Majid Al Muhairi St",
-				"type" : "ROAD_CLOSED",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Road Closure on Intersections of King Abdullah Bin Abdulaziz Al Saud St. Abu Dhabi",
-				"lanePosition" : null,
-				"startTime" : "2025-12-18T23:00:00+04:00",
-				"endTime" : "2025-12-25T23:00:00+04:00",
-				"name" : "ROAD CLOSURE OF INTERSECTIONS KING ABDULLAH BIN ABDULAZIZ AL SAUD ST. ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.3265264098, 24.4602627159 ],
-					[ 54.3265321951, 24.4602236313 ],
-					[ 54.3265568653, 24.4600569474 ],
-					[ 54.3265602405, 24.4600169932 ],
-					[ 54.3265671868, 24.4599406183 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00257",
-				"creationtime" : "2025-12-18T12:59:48+04:00",
-				"updatetime" : "2025-12-18T17:05:25+04:00",
-				"street" : "King Salman Bin Abdulaziz Al Saud St",
-				"type" : "ROAD_CLOSED",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Road Closure on Intersections of King Abdullah Bin Abdulaziz Al Saud St. Abu Dhabi",
-				"lanePosition" : null,
-				"startTime" : "2025-12-18T23:00:00+04:00",
-				"endTime" : "2025-12-25T23:00:00+04:00",
-				"name" : "ROAD CLOSURE OF INTERSECTIONS KING ABDULLAH BIN ABDULAZIZ AL SAUD ST. ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.326602836, 24.459548647 ],
-					[ 54.3266130424, 24.4594364304 ],
-					[ 54.3266225572, 24.4593486242 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00258",
-				"creationtime" : "2025-12-18T12:59:48+04:00",
-				"updatetime" : "2025-12-18T17:05:25+04:00",
-				"street" : "King Salman Bin Abdulaziz Al Saud St",
-				"type" : "ROAD_CLOSED",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Road Closure on Intersections of King Abdullah Bin Abdulaziz Al Saud St. Abu Dhabi",
-				"lanePosition" : null,
-				"startTime" : "2025-12-18T23:00:00+04:00",
-				"endTime" : "2025-12-25T23:00:00+04:00",
-				"name" : "ROAD CLOSURE OF INTERSECTIONS KING ABDULLAH BIN ABDULAZIZ AL SAUD ST. ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.3267574663, 24.4590805786 ],
-					[ 54.3267409152, 24.4592068893 ],
-					[ 54.3267175004, 24.4594102485 ],
-					[ 54.3267078048, 24.4595194298 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00259",
-				"creationtime" : "2025-12-18T12:59:48+04:00",
-				"updatetime" : "2025-12-18T17:05:25+04:00",
-				"street" : "King Salman Bin Abdulaziz Al Saud St",
-				"type" : "ROAD_CLOSED",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Road Closure on Intersections of King Abdullah Bin Abdulaziz Al Saud St. Abu Dhabi",
-				"lanePosition" : null,
-				"startTime" : "2025-12-18T23:00:00+04:00",
-				"endTime" : "2025-12-25T23:00:00+04:00",
-				"name" : "ROAD CLOSURE OF INTERSECTIONS KING ABDULLAH BIN ABDULAZIZ AL SAUD ST. ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.3266721413, 24.4599210121 ],
-					[ 54.3266671114, 24.4599776452 ],
-					[ 54.3266544471, 24.4601369726 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00260",
-				"creationtime" : "2025-12-18T12:59:48+04:00",
-				"updatetime" : "2025-12-18T17:05:25+04:00",
-				"street" : "King Salman Bin Abdulaziz Al Saud St",
-				"type" : "ROAD_CLOSED",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Road Closure on Intersections of King Abdullah Bin Abdulaziz Al Saud St. Abu Dhabi",
-				"lanePosition" : null,
-				"startTime" : "2025-12-18T23:00:00+04:00",
-				"endTime" : "2025-12-25T23:00:00+04:00",
-				"name" : "ROAD CLOSURE OF INTERSECTIONS KING ABDULLAH BIN ABDULAZIZ AL SAUD ST. ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.3235404106, 24.4625299517 ],
-					[ 54.3230610692, 24.4621370685 ],
-					[ 54.3227328014, 24.4618626961 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00278",
-				"creationtime" : "2025-12-24T13:26:35+04:00",
-				"updatetime" : "2025-12-24T17:27:21+04:00",
-				"street" : "Corniche St",
-				"type" : "HAZARD",
-				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Partial Closure of Two Left Lanes on Corniche St. Abu Dhabi",
-				"lanePosition" : "Left",
-				"lane_impact" : {
-					"total_closed_lanes" : 2,
-					"roadside" : "LEFT"
-				},
-				"startTime" : "2025-12-25T23:00:00+04:00",
-				"endTime" : "2025-12-29T05:00:00+04:00",
-				"name" : "PARTIAL CLOSURE OF INTERSECTIONS KING ABDULLAH BIN ABDULAZIZ AL SAUD ST. ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.321842022, 24.4611147075 ],
-					[ 54.3216015936, 24.4609070693 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00280",
-				"creationtime" : "2025-12-24T13:26:35+04:00",
-				"updatetime" : "2025-12-24T17:27:21+04:00",
-				"street" : "King Abdullah Bin Abdulaziz Al Saud St",
-				"type" : "HAZARD",
-				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Partial Closure of Left Lanes on Intersections of King Abdullah Bin Abdulaziz Al Saud St. Abu Dhabi",
-				"lanePosition" : "Left",
-				"lane_impact" : {
-					"total_closed_lanes" : 1,
-					"roadside" : "LEFT"
-				},
-				"startTime" : "2025-12-25T23:00:00+04:00",
-				"endTime" : "2025-12-29T05:00:00+04:00",
-				"name" : "PARTIAL CLOSURE OF INTERSECTIONS KING ABDULLAH BIN ABDULAZIZ AL SAUD ST. ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.3227328014, 24.4618626961 ],
-					[ 54.321842022, 24.4611147075 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00279",
-				"creationtime" : "2025-12-24T13:26:35+04:00",
-				"updatetime" : "2025-12-24T17:27:21+04:00",
-				"street" : "Corniche St",
-				"type" : "HAZARD",
-				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Partial Closure of Four Left Lanes on Intersections of King Abdullah Bin Abdulaziz Al Saud St. Abu Dhabi",
-				"lanePosition" : "Left",
-				"lane_impact" : {
-					"total_closed_lanes" : 4,
-					"roadside" : "LEFT"
-				},
-				"startTime" : "2025-12-25T23:00:00+04:00",
-				"endTime" : "2025-12-29T05:00:00+04:00",
-				"name" : "PARTIAL CLOSURE OF INTERSECTIONS KING ABDULLAH BIN ABDULAZIZ AL SAUD ST. ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.3310810452, 24.4588261136 ],
-					[ 54.3305142942, 24.4589560171 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00271",
-				"creationtime" : "2025-12-24T13:26:35+04:00",
-				"updatetime" : "2025-12-24T17:27:21+04:00",
-				"street" : "King Abdullah Bin Abdulaziz Al Saud St",
-				"type" : "HAZARD",
-				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Partial Closure of Two Left Lanes on Intersections of King Abdullah Bin Abdulaziz Al Saud St. Abu Dhabi",
-				"lanePosition" : "Left",
-				"lane_impact" : {
-					"total_closed_lanes" : 2,
-					"roadside" : "LEFT"
-				},
-				"startTime" : "2025-12-25T23:00:00+04:00",
-				"endTime" : "2025-12-29T05:00:00+04:00",
-				"name" : "PARTIAL CLOSURE OF INTERSECTIONS KING ABDULLAH BIN ABDULAZIZ AL SAUD ST. ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.3221185249, 24.4609618398 ],
-					[ 54.3222503367, 24.4608284461 ],
-					[ 54.3223258914, 24.460763399 ],
-					[ 54.3224910204, 24.460648659 ],
-					[ 54.3226469098, 24.4605772465 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00287",
-				"creationtime" : "2025-12-24T13:29:04+04:00",
-				"updatetime" : "2025-12-24T17:30:08+04:00",
-				"street" : "King Abdullah Bin Abdulaziz Al Saud St",
-				"type" : "ROAD_CLOSED",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Road Closure on Intersections of King Abdullah Bin Abdulaziz Al Saud St. Abu Dhabi",
-				"lanePosition" : null,
-				"startTime" : "2025-12-25T23:00:00+04:00",
-				"endTime" : "2025-12-29T05:00:00+04:00",
-				"name" : "PARTIAL CLOSURE OF INTERSECTIONS KING ABDULLAH BIN ABDULAZIZ AL SAUD ST. ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.3342948894, 24.4580894286 ],
-					[ 54.3331509491, 24.4583496915 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00269",
-				"creationtime" : "2025-12-24T13:26:35+04:00",
-				"updatetime" : "2025-12-24T17:27:21+04:00",
-				"street" : "King Abdullah Bin Abdulaziz Al Saud St",
-				"type" : "HAZARD",
-				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Partial Closure of Left Lanes on Intersections of King Abdullah Bin Abdulaziz Al Saud St. Abu Dhabi",
-				"lanePosition" : "Left",
-				"lane_impact" : {
-					"total_closed_lanes" : 1,
-					"roadside" : "LEFT"
-				},
-				"startTime" : "2025-12-25T23:00:00+04:00",
-				"endTime" : "2025-12-29T05:00:00+04:00",
-				"name" : "PARTIAL CLOSURE OF INTERSECTIONS KING ABDULLAH BIN ABDULAZIZ AL SAUD ST. ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.3316239947, 24.459310663 ],
-					[ 54.3312963366, 24.459009623 ],
-					[ 54.3311601369, 24.4588708396 ],
-					[ 54.3311396549, 24.4588428518 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00285",
-				"creationtime" : "2025-12-24T13:29:04+04:00",
-				"updatetime" : "2025-12-24T17:30:08+04:00",
-				"street" : "Zayed the First St",
-				"type" : "ROAD_CLOSED",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Road Closure on Intersections of King Abdullah Bin Abdulaziz Al Saud St. Abu Dhabi",
-				"lanePosition" : null,
-				"startTime" : "2025-12-25T23:00:00+04:00",
-				"endTime" : "2025-12-29T05:00:00+04:00",
-				"name" : "PARTIAL CLOSURE OF INTERSECTIONS KING ABDULLAH BIN ABDULAZIZ AL SAUD ST. ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.3292369988, 24.458987658 ],
-					[ 54.3316923836, 24.4584215545 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00272",
-				"creationtime" : "2025-12-24T13:26:35+04:00",
-				"updatetime" : "2025-12-24T17:27:21+04:00",
-				"street" : "King Abdullah Bin Abdulaziz Al Saud St",
-				"type" : "HAZARD",
-				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Partial Closure of Two Left Lanes on Intersections of King Abdullah Bin Abdulaziz Al Saud St. Abu Dhabi",
-				"lanePosition" : "Left",
-				"lane_impact" : {
-					"total_closed_lanes" : 2,
-					"roadside" : "LEFT"
-				},
-				"startTime" : "2025-12-25T23:00:00+04:00",
-				"endTime" : "2025-12-29T05:00:00+04:00",
-				"name" : "PARTIAL CLOSURE OF INTERSECTIONS KING ABDULLAH BIN ABDULAZIZ AL SAUD ST. ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
 					[ 53.5677989719, 24.030638025 ],
 					[ 53.5543641582, 24.0309016757 ],
 					[ 53.551374514, 24.0309604311 ],
@@ -675,285 +37,11 @@
 				"lanePosition" : "Right ",
 				"lane_impact" : {
 					"total_closed_lanes" : 2,
-					"roadside" : "LEFT"
+					"roadside" : "RIGHT"
 				},
 				"startTime" : "2025-12-21T00:01:00+04:00",
 				"endTime" : "2026-01-10T05:00:00+04:00",
 				"name" : "PARTIAL ROAD CLOSURE IN AL DHAFRA REGION"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.3309195539, 24.4581776197 ],
-					[ 54.3309426116, 24.4582350522 ],
-					[ 54.3309952543, 24.4583343949 ],
-					[ 54.3310564433, 24.4584295468 ],
-					[ 54.3310989318, 24.4584878309 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00284",
-				"creationtime" : "2025-12-24T13:29:04+04:00",
-				"updatetime" : "2025-12-24T17:30:08+04:00",
-				"street" : "Zayed the First St",
-				"type" : "ROAD_CLOSED",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Road Closure on Intersections of King Abdullah Bin Abdulaziz Al Saud St. Abu Dhabi",
-				"roadside" : "LEFT",
-				"startTime" : "2025-12-25T23:00:00+04:00",
-				"endTime" : "2025-12-29T05:00:00+04:00",
-				"name" : "PARTIAL CLOSURE OF INTERSECTIONS KING ABDULLAH BIN ABDULAZIZ AL SAUD ST. ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.3260604674, 24.4599815617 ],
-					[ 54.3244816833, 24.4603357201 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00275",
-				"creationtime" : "2025-12-24T13:26:35+04:00",
-				"updatetime" : "2025-12-24T17:27:21+04:00",
-				"street" : "King Abdullah Bin Abdulaziz Al Saud St",
-				"type" : "HAZARD",
-				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Partial Closure of Left Lanes on Intersections of King Abdullah Bin Abdulaziz Al Saud St. Abu Dhabi",
-				"lanePosition" : "Left",
-				"lane_impact" : {
-					"total_closed_lanes" : 1,
-					"roadside" : "LEFT"
-				},
-				"startTime" : "2025-12-25T23:00:00+04:00",
-				"endTime" : "2025-12-29T05:00:00+04:00",
-				"name" : "PARTIAL CLOSURE OF INTERSECTIONS KING ABDULLAH BIN ABDULAZIZ AL SAUD ST. ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.3195395399, 24.4588532938 ],
-					[ 54.3208649715, 24.4599774383 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00281",
-				"creationtime" : "2025-12-24T13:26:35+04:00",
-				"updatetime" : "2025-12-24T17:27:21+04:00",
-				"street" : "King Abdullah Bin Abdulaziz Al Saud St",
-				"type" : "HAZARD",
-				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Partial Closure of Left Lanes on Intersections of King Abdullah Bin Abdulaziz Al Saud St. Abu Dhabi",
-				"lanePosition" : "Left",
-				"lane_impact" : {
-					"total_closed_lanes" : 1,
-					"roadside" : "LEFT"
-				},
-				"startTime" : "2025-12-25T23:00:00+04:00",
-				"endTime" : "2025-12-29T05:00:00+04:00",
-				"name" : "PARTIAL CLOSURE OF INTERSECTIONS KING ABDULLAH BIN ABDULAZIZ AL SAUD ST. ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.3208649715, 24.4599774383 ],
-					[ 54.3221894733, 24.4611248069 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00282",
-				"creationtime" : "2025-12-24T13:26:35+04:00",
-				"updatetime" : "2025-12-24T17:27:21+04:00",
-				"street" : "King Abdullah Bin Abdulaziz Al Saud St",
-				"type" : "HAZARD",
-				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Partial Closure of Two Left Lanes on Intersections of King Abdullah Bin Abdulaziz Al Saud St. Abu Dhabi",
-				"lanePosition" : "Left",
-				"lane_impact" : {
-					"total_closed_lanes" : 2,
-					"roadside" : "LEFT"
-				},
-				"startTime" : "2025-12-25T23:00:00+04:00",
-				"endTime" : "2025-12-29T05:00:00+04:00",
-				"name" : "PARTIAL CLOSURE OF INTERSECTIONS KING ABDULLAH BIN ABDULAZIZ AL SAUD ST. ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.3331509491, 24.4583496915 ],
-					[ 54.3310810452, 24.4588261136 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00270",
-				"creationtime" : "2025-12-24T13:26:35+04:00",
-				"updatetime" : "2025-12-24T17:27:21+04:00",
-				"street" : "King Abdullah Bin Abdulaziz Al Saud St",
-				"type" : "HAZARD",
-				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Partial Closure of Four Left Lanes on Intersections of King Abdullah Bin Abdulaziz Al Saud St. Abu Dhabi",
-				"lanePosition" : "Left",
-				"lane_impact" : {
-					"total_closed_lanes" : 4,
-					"roadside" : "LEFT"
-				},
-				"startTime" : "2025-12-25T23:00:00+04:00",
-				"endTime" : "2025-12-29T05:00:00+04:00",
-				"name" : "PARTIAL CLOSURE OF INTERSECTIONS KING ABDULLAH BIN ABDULAZIZ AL SAUD ST. ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.3228754707, 24.460666515 ],
-					[ 54.3227665098, 24.4606892094 ],
-					[ 54.3226427343, 24.4607316089 ],
-					[ 54.3225225651, 24.460801006 ],
-					[ 54.3223530321, 24.4609149222 ],
-					[ 54.3222160698, 24.461034764 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00286",
-				"creationtime" : "2025-12-24T13:29:04+04:00",
-				"updatetime" : "2025-12-24T17:30:08+04:00",
-				"street" : "King Abdullah Bin Abdulaziz Al Saud St",
-				"type" : "ROAD_CLOSED",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Road Closure on Intersections of King Abdullah Bin Abdulaziz Al Saud St. Abu Dhabi",
-				"lanePosition" : null,
-				"startTime" : "2025-12-25T23:00:00+04:00",
-				"endTime" : "2025-12-29T05:00:00+04:00",
-				"name" : "PARTIAL CLOSURE OF INTERSECTIONS KING ABDULLAH BIN ABDULAZIZ AL SAUD ST. ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.3321338914, 24.4597998096 ],
-					[ 54.3316239947, 24.459310663 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00274",
-				"creationtime" : "2025-12-24T13:26:35+04:00",
-				"updatetime" : "2025-12-24T17:27:21+04:00",
-				"street" : "Zayed the First St",
-				"type" : "HAZARD",
-				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Partial Closure of Four Left Lanes on Zayed the First St. Abu Dhabi",
-				"lanePosition" : "Left",
-				"lane_impact" : {
-					"total_closed_lanes" : 4,
-					"roadside" : "LEFT"
-				},
-				"startTime" : "2025-12-25T23:00:00+04:00",
-				"endTime" : "2025-12-29T05:00:00+04:00",
-				"name" : "PARTIAL CLOSURE OF INTERSECTIONS KING ABDULLAH BIN ABDULAZIZ AL SAUD ST. ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.330915069, 24.4585359654 ],
-					[ 54.3308669867, 24.4584702636 ],
-					[ 54.3308349385, 24.4584147853 ],
-					[ 54.3307813623, 24.4583196289 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00288",
-				"creationtime" : "2025-12-24T13:29:04+04:00",
-				"updatetime" : "2025-12-24T17:30:08+04:00",
-				"street" : "Zayed the First St",
-				"type" : "ROAD_CLOSED",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Road Closure on Intersections of King Abdullah Bin Abdulaziz Al Saud St. Abu Dhabi",
-				"lanePosition" : null,
-				"startTime" : "2025-12-25T23:00:00+04:00",
-				"endTime" : "2025-12-29T05:00:00+04:00",
-				"name" : "PARTIAL CLOSURE OF INTERSECTIONS KING ABDULLAH BIN ABDULAZIZ AL SAUD ST. ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.3221894733, 24.4611248069 ],
-					[ 54.3226257047, 24.4615053118 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00283",
-				"creationtime" : "2025-12-24T13:26:35+04:00",
-				"updatetime" : "2025-12-24T17:27:21+04:00",
-				"street" : "Corniche St",
-				"type" : "HAZARD",
-				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Partial Closure of Two Left Lanes on Corniche St. Abu Dhabi",
-				"lanePosition" : "Left",
-				"lane_impact" : {
-					"total_closed_lanes" : 2,
-					"roadside" : "LEFT"
-				},
-				"startTime" : "2025-12-25T23:00:00+04:00",
-				"endTime" : "2025-12-29T05:00:00+04:00",
-				"name" : "PARTIAL CLOSURE OF INTERSECTIONS KING ABDULLAH BIN ABDULAZIZ AL SAUD ST. ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.3239686003, 24.4628801684 ],
-					[ 54.3235404106, 24.4625299517 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00277",
-				"creationtime" : "2025-12-24T13:26:35+04:00",
-				"updatetime" : "2025-12-24T17:27:21+04:00",
-				"street" : "King Abdullah Bin Abdulaziz Al Saud St",
-				"type" : "HAZARD",
-				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Partial Closure of Left Lanes on Intersections of King Abdullah Bin Abdulaziz Al Saud St. Abu Dhabi",
-				"lanePosition" : "Left",
-				"lane_impact" : {
-					"total_closed_lanes" : 1,
-					"roadside" : "LEFT"
-				},
-				"startTime" : "2025-12-25T23:00:00+04:00",
-				"endTime" : "2025-12-29T05:00:00+04:00",
-				"name" : "PARTIAL CLOSURE OF INTERSECTIONS KING ABDULLAH BIN ABDULAZIZ AL SAUD ST. ABU DHABI"
 			}
 		},
 		{
@@ -994,27 +82,195 @@
 			"geometry" : {
 				"type" : "LineString",
 				"coordinates" : [
-					[ 54.3329674964, 24.4605124009 ],
-					[ 54.332293664, 24.4599452786 ],
-					[ 54.3321338914, 24.4597998096 ]
+					[ 54.3329671312, 24.4583932735 ],
+					[ 54.3311828025, 24.4588026926 ]
 				]
 			},
 			"properties" : {
-				"id" : "AD00273",
-				"creationtime" : "2025-12-24T13:26:35+04:00",
-				"updatetime" : "2025-12-24T17:27:21+04:00",
-				"street" : "Zayed the First St",
+				"id" : "AD00290",
+				"creationtime" : "2025-12-31T14:53:35+04:00",
+				"updatetime" : "2025-12-31T18:54:56+04:00",
+				"street" : "King Abdullah Bin Abdulaziz Al Saud St",
 				"type" : "HAZARD",
 				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
 				"direction" : "ONE_DIRECTION",
-				"description" : "Partial Closure of Two Left Lanes on Zayed the First St. Abu Dhabi",
+				"description" : "Partial Closure of Two Lanes for Left Turn on Intersections of King Abdullah Bin Abdulaziz Al Saud St. Abu Dhabi",
 				"lanePosition" : "Left",
 				"lane_impact" : {
 					"total_closed_lanes" : 2,
 					"roadside" : "LEFT"
 				},
-				"startTime" : "2025-12-25T23:00:00+04:00",
-				"endTime" : "2025-12-29T05:00:00+04:00",
+				"startTime" : "2026-01-01T23:00:00+04:00",
+				"endTime" : "2026-01-05T05:00:00+04:00",
+				"name" : "PARTIAL CLOSURE OF INTERSECTIONS KING ABDULLAH BIN ABDULAZIZ AL SAUD ST. ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.3318595829, 24.4586469201 ],
+					[ 54.3307063759, 24.4589120322 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00291",
+				"creationtime" : "2025-12-31T14:53:35+04:00",
+				"updatetime" : "2025-12-31T18:54:56+04:00",
+				"street" : "King Abdullah Bin Abdulaziz Al Saud St",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Closure of Two Right  Lanes on Intersections of King Abdullah Bin Abdulaziz Al Saud St. Abu Dhabi",
+				"lanePosition" : "Right ",
+				"lane_impact" : {
+					"total_closed_lanes" : 2,
+					"roadside" : "RIGHT"
+				},
+				"startTime" : "2026-01-01T23:00:00+04:00",
+				"endTime" : "2026-01-05T05:00:00+04:00",
+				"name" : "PARTIAL CLOSURE OF INTERSECTIONS KING ABDULLAH BIN ABDULAZIZ AL SAUD ST. ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.3329674964, 24.4605124009 ],
+					[ 54.332329234, 24.4599752152 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00292",
+				"creationtime" : "2025-12-31T14:53:35+04:00",
+				"updatetime" : "2025-12-31T18:54:56+04:00",
+				"street" : "Zayed the First St",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Closure of Left Lanes on Zayed the First St. Abu Dhabi",
+				"lanePosition" : "Left",
+				"lane_impact" : {
+					"total_closed_lanes" : 1,
+					"roadside" : "LEFT"
+				},
+				"startTime" : "2026-01-01T23:00:00+04:00",
+				"endTime" : "2026-01-05T05:00:00+04:00",
+				"name" : "PARTIAL CLOSURE OF INTERSECTIONS KING ABDULLAH BIN ABDULAZIZ AL SAUD ST. ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.3321905244, 24.4598513722 ],
+					[ 54.3316239947, 24.459310663 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00293",
+				"creationtime" : "2025-12-31T14:53:35+04:00",
+				"updatetime" : "2025-12-31T18:54:56+04:00",
+				"street" : "Zayed the First St",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Closure of Four Left Lanes on Zayed the First St. Abu Dhabi",
+				"lanePosition" : "Left",
+				"lane_impact" : {
+					"total_closed_lanes" : 4,
+					"roadside" : "LEFT"
+				},
+				"startTime" : "2026-01-01T23:00:00+04:00",
+				"endTime" : "2026-01-05T05:00:00+04:00",
+				"name" : "PARTIAL CLOSURE OF INTERSECTIONS KING ABDULLAH BIN ABDULAZIZ AL SAUD ST. ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.3286440101, 24.4591227002 ],
+					[ 54.3308888915, 24.4586063625 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00294",
+				"creationtime" : "2025-12-31T14:53:35+04:00",
+				"updatetime" : "2025-12-31T18:54:56+04:00",
+				"street" : "King Abdullah Bin Abdulaziz Al Saud St",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Closure of Three Lanes for Left Turn on Intersections of King Abdullah Bin Abdulaziz Al Saud St. Abu Dhabi",
+				"lanePosition" : "Left",
+				"lane_impact" : {
+					"total_closed_lanes" : 3,
+					"roadside" : "LEFT"
+				},
+				"startTime" : "2026-01-01T23:00:00+04:00",
+				"endTime" : "2026-01-05T05:00:00+04:00",
+				"name" : "PARTIAL CLOSURE OF INTERSECTIONS KING ABDULLAH BIN ABDULAZIZ AL SAUD ST. ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.3301758056, 24.4587703773 ],
+					[ 54.3315859956, 24.4584462778 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00295",
+				"creationtime" : "2025-12-31T14:53:35+04:00",
+				"updatetime" : "2025-12-31T18:54:56+04:00",
+				"street" : "King Abdullah Bin Abdulaziz Al Saud St",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Closure of Two Right  Lanes on Intersections of King Abdullah Bin Abdulaziz Al Saud St. Abu Dhabi",
+				"lanePosition" : "Right ",
+				"lane_impact" : {
+					"total_closed_lanes" : 2,
+					"roadside" : "RIGHT"
+				},
+				"startTime" : "2026-01-01T23:00:00+04:00",
+				"endTime" : "2026-01-05T05:00:00+04:00",
+				"name" : "PARTIAL CLOSURE OF INTERSECTIONS KING ABDULLAH BIN ABDULAZIZ AL SAUD ST. ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.3264842855, 24.4598833575 ],
+					[ 54.3259330065, 24.4600101538 ],
+					[ 54.3246583542, 24.4602960888 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00300",
+				"creationtime" : "2025-12-31T14:53:35+04:00",
+				"updatetime" : "2025-12-31T18:54:56+04:00",
+				"street" : "King Abdullah Bin Abdulaziz Al Saud St",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Closure of Left Lanes on Intersections of King Abdullah Bin Abdulaziz Al Saud St. Abu Dhabi",
+				"lanePosition" : "Left",
+				"lane_impact" : {
+					"total_closed_lanes" : 1,
+					"roadside" : "LEFT"
+				},
+				"startTime" : "2026-01-01T23:00:00+04:00",
+				"endTime" : "2026-01-05T05:00:00+04:00",
 				"name" : "PARTIAL CLOSURE OF INTERSECTIONS KING ABDULLAH BIN ABDULAZIZ AL SAUD ST. ABU DHABI"
 			}
 		},
@@ -1025,13 +281,13 @@
 				"coordinates" : [
 					[ 54.3244816833, 24.4603357201 ],
 					[ 54.3235642552, 24.4605071471 ],
-					[ 54.3228754707, 24.460666515 ]
+					[ 54.3229462177, 24.4606494207 ]
 				]
 			},
 			"properties" : {
-				"id" : "AD00276",
-				"creationtime" : "2025-12-24T13:26:35+04:00",
-				"updatetime" : "2025-12-24T17:27:21+04:00",
+				"id" : "AD00301",
+				"creationtime" : "2025-12-31T14:53:35+04:00",
+				"updatetime" : "2025-12-31T18:54:56+04:00",
 				"street" : "King Abdullah Bin Abdulaziz Al Saud St",
 				"type" : "HAZARD",
 				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
@@ -1042,50 +298,276 @@
 					"total_closed_lanes" : 2,
 					"roadside" : "LEFT"
 				},
-				"startTime" : "2025-12-25T23:00:00+04:00",
-				"endTime" : "2025-12-29T05:00:00+04:00",
+				"startTime" : "2026-01-01T23:00:00+04:00",
+				"endTime" : "2026-01-05T05:00:00+04:00",
 				"name" : "PARTIAL CLOSURE OF INTERSECTIONS KING ABDULLAH BIN ABDULAZIZ AL SAUD ST. ABU DHABI"
 			}
 		},
-{
+		{
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "LineString",
 				"coordinates" : [
-					[ 54.5954336912, 24.3026790436 ],
-					[ 54.5961323907, 24.3031257351 ],
-					[ 54.5965720962, 24.3034346639 ],
-					[ 54.5973701609, 24.3040577259 ],
-					[ 54.5979275571, 24.3045298933 ],
-					[ 54.5985073293, 24.3051114975 ],
-					[ 54.5989705548, 24.3056255185 ],
-					[ 54.5996048314, 24.306421271 ],
-					[ 54.6004230904, 24.3075716002 ],
-					[ 54.6009630577, 24.308338738 ],
-					[ 54.6010824076, 24.3084794343 ]
+					[ 54.3236753628, 24.4626403291 ],
+					[ 54.3231901741, 24.4622434924 ]
 				]
 			},
 			"properties" : {
-				"id" : "AD00289",
-				"creationtime" : "2025-12-26T10:43:51+04:00",
-				"updatetime" : "2025-12-26T14:44:14+04:00",
-				"street" : "Sheikh Khalifa Bin Zayed Intlʹ Road",
+				"id" : "AD00302",
+				"creationtime" : "2025-12-31T14:53:35+04:00",
+				"updatetime" : "2025-12-31T18:54:56+04:00",
+				"street" : "Corniche St",
 				"type" : "HAZARD",
 				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
 				"direction" : "ONE_DIRECTION",
-				"description" : "Partial Road Closure of Right Lane Towards Dubai on Sheikh Khalifa Bin Zayed Intlʹ Road (E11) Abu Dhabi",
+				"description" : "Partial Closure of Right Lanes on Corniche St. Abu Dhabi",
 				"lanePosition" : "Right ",
 				"lane_impact" : {
 					"total_closed_lanes" : 1,
+					"roadside" : "RIGHT"
+				},
+				"startTime" : "2026-01-01T23:00:00+04:00",
+				"endTime" : "2026-01-05T05:00:00+04:00",
+				"name" : "PARTIAL CLOSURE OF INTERSECTIONS KING ABDULLAH BIN ABDULAZIZ AL SAUD ST. ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.3226829061, 24.4618193272 ],
+					[ 54.3219080655, 24.4611701642 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00303",
+				"creationtime" : "2025-12-31T14:53:35+04:00",
+				"updatetime" : "2025-12-31T18:54:56+04:00",
+				"street" : "Corniche St",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Closure of Two Lanes for Left Turn on Intersections of Emirates Palace at Corniche St.",
+				"lanePosition" : "Left",
+				"lane_impact" : {
+					"total_closed_lanes" : 2,
 					"roadside" : "LEFT"
 				},
-				"startTime" : "2025-12-28T00:01:00+04:00",
-				"endTime" : "2025-12-28T15:00:00+04:00",
-				"name" : "PARTIAL ROAD CLOSURE IN ABU DHABI"
+				"startTime" : "2026-01-01T23:00:00+04:00",
+				"endTime" : "2026-01-05T05:00:00+04:00",
+				"name" : "PARTIAL CLOSURE OF INTERSECTIONS KING ABDULLAH BIN ABDULAZIZ AL SAUD ST. ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.3229805844, 24.462069444 ],
+					[ 54.3217603914, 24.4610442096 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00304",
+				"creationtime" : "2025-12-31T14:53:35+04:00",
+				"updatetime" : "2025-12-31T18:54:56+04:00",
+				"street" : "Corniche St",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Closure of Two Right  Lanes on Corniche St. Abu Dhabi",
+				"lanePosition" : "Right ",
+				"lane_impact" : {
+					"total_closed_lanes" : 2,
+					"roadside" : "RIGHT"
+				},
+				"startTime" : "2026-01-01T23:00:00+04:00",
+				"endTime" : "2026-01-05T05:00:00+04:00",
+				"name" : "PARTIAL CLOSURE OF INTERSECTIONS KING ABDULLAH BIN ABDULAZIZ AL SAUD ST. ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.3213246132, 24.4603756095 ],
+					[ 54.3223478106, 24.4612629176 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00305",
+				"creationtime" : "2025-12-31T14:53:35+04:00",
+				"updatetime" : "2025-12-31T18:54:56+04:00",
+				"street" : "King Abdullah Bin Abdulaziz Al Saud St",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Closure of Two Right Lanes on Intersections of of Emirates Palace at Corniche St.",
+				"lanePosition" : "Right ",
+				"lane_impact" : {
+					"total_closed_lanes" : 2,
+					"roadside" : "RIGHT"
+				},
+				"startTime" : "2026-01-01T23:00:00+04:00",
+				"endTime" : "2026-01-05T05:00:00+04:00",
+				"name" : "PARTIAL CLOSURE OF INTERSECTIONS KING ABDULLAH BIN ABDULAZIZ AL SAUD ST. ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.3309195539, 24.4581776197 ],
+					[ 54.3309426116, 24.4582350522 ],
+					[ 54.3309952543, 24.4583343949 ],
+					[ 54.3310564433, 24.4584295468 ],
+					[ 54.3310989318, 24.4584878309 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00296",
+				"creationtime" : "2025-12-31T15:20:11+04:00",
+				"updatetime" : "2025-12-31T19:20:56+04:00",
+				"street" : "Zayed the First St",
+				"type" : "ROAD_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Road Closure on Intersections of King Abdullah Bin Abdulaziz Al Saud St. Abu Dhabi",
+				"lanePosition" : null,
+				"startTime" : "2026-01-01T23:00:00+04:00",
+				"endTime" : "2026-01-05T05:00:00+04:00",
+				"name" : "PARTIAL CLOSURE OF INTERSECTIONS KING ABDULLAH BIN ABDULAZIZ AL SAUD ST. ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.3316239947, 24.459310663 ],
+					[ 54.3312963366, 24.459009623 ],
+					[ 54.3311601369, 24.4588708396 ],
+					[ 54.3311396549, 24.4588428518 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00297",
+				"creationtime" : "2025-12-31T15:20:11+04:00",
+				"updatetime" : "2025-12-31T19:20:56+04:00",
+				"street" : "Zayed the First St",
+				"type" : "ROAD_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Road Closure on Intersections of King Abdullah Bin Abdulaziz Al Saud St. Abu Dhabi",
+				"lanePosition" : null,
+				"startTime" : "2026-01-01T23:00:00+04:00",
+				"endTime" : "2026-01-05T05:00:00+04:00",
+				"name" : "PARTIAL CLOSURE OF INTERSECTIONS KING ABDULLAH BIN ABDULAZIZ AL SAUD ST. ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.330915069, 24.4585359654 ],
+					[ 54.3308669867, 24.4584702636 ],
+					[ 54.3308349385, 24.4584147853 ],
+					[ 54.3307813623, 24.4583196289 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00298",
+				"creationtime" : "2025-12-31T15:20:11+04:00",
+				"updatetime" : "2025-12-31T19:20:56+04:00",
+				"street" : "Zayed the First St",
+				"type" : "ROAD_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Road Closure on Intersections of King Abdullah Bin Abdulaziz Al Saud St. Abu Dhabi",
+				"lanePosition" : null,
+				"startTime" : "2026-01-01T23:00:00+04:00",
+				"endTime" : "2026-01-05T05:00:00+04:00",
+				"name" : "PARTIAL CLOSURE OF INTERSECTIONS KING ABDULLAH BIN ABDULAZIZ AL SAUD ST. ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.331809996, 24.4592450403 ],
+					[ 54.3314823379, 24.4589440004 ],
+					[ 54.3313461383, 24.458805217 ],
+					[ 54.3313256563, 24.4587772292 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00299",
+				"creationtime" : "2025-12-31T15:20:11+04:00",
+				"updatetime" : "2025-12-31T19:20:56+04:00",
+				"street" : "Zayed the First St",
+				"type" : "ROAD_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Road Closure on Intersections of King Abdullah Bin Abdulaziz Al Saud St. Abu Dhabi",
+				"lanePosition" : null,
+				"startTime" : "2026-01-01T23:00:00+04:00",
+				"endTime" : "2026-01-05T05:00:00+04:00",
+				"name" : "PARTIAL CLOSURE OF INTERSECTIONS KING ABDULLAH BIN ABDULAZIZ AL SAUD ST. ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.3228754707, 24.460666515 ],
+					[ 54.3227665098, 24.4606892094 ],
+					[ 54.3226427343, 24.4607316089 ],
+					[ 54.3225225651, 24.460801006 ],
+					[ 54.3223530321, 24.4609149222 ],
+					[ 54.3222160698, 24.461034764 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00306",
+				"creationtime" : "2025-12-31T15:20:11+04:00",
+				"updatetime" : "2025-12-31T19:20:56+04:00",
+				"street" : "King Abdullah Bin Abdulaziz Al Saud St",
+				"type" : "ROAD_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Road Closure on Intersections of King Abdullah Bin Abdulaziz Al Saud St. Abu Dhabi",
+				"lanePosition" : null,
+				"startTime" : "2026-01-01T23:00:00+04:00",
+				"endTime" : "2026-01-05T05:00:00+04:00",
+				"name" : "PARTIAL CLOSURE OF INTERSECTIONS KING ABDULLAH BIN ABDULAZIZ AL SAUD ST. ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.3221185249, 24.4609618398 ],
+					[ 54.3222503367, 24.4608284461 ],
+					[ 54.3223258914, 24.460763399 ],
+					[ 54.3224910204, 24.460648659 ],
+					[ 54.3226469098, 24.4605772465 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00307",
+				"creationtime" : "2025-12-31T15:20:11+04:00",
+				"updatetime" : "2025-12-31T19:20:56+04:00",
+				"street" : "King Abdullah Bin Abdulaziz Al Saud St",
+				"type" : "ROAD_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Road Closure on Intersections of King Abdullah Bin Abdulaziz Al Saud St. Abu Dhabi",
+				"lanePosition" : null,
+				"startTime" : "2026-01-01T23:00:00+04:00",
+				"endTime" : "2026-01-05T05:00:00+04:00",
+				"name" : "PARTIAL CLOSURE OF INTERSECTIONS KING ABDULLAH BIN ABDULAZIZ AL SAUD ST. ABU DHABI"
 			}
 		}
 	]
 }
-
-
-
