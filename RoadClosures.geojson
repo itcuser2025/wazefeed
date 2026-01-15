@@ -7,81 +7,6 @@
 			"geometry" : {
 				"type" : "LineString",
 				"coordinates" : [
-					[ 53.5677989719, 24.030638025 ],
-					[ 53.5543641582, 24.0309016757 ],
-					[ 53.551374514, 24.0309604311 ],
-					[ 53.5504917539, 24.031007364 ],
-					[ 53.5493047234, 24.0311073794 ],
-					[ 53.5478548014, 24.0312686836 ],
-					[ 53.5467626611, 24.0314396402 ],
-					[ 53.5458226591, 24.0316049878 ],
-					[ 53.5447360397, 24.0318207774 ],
-					[ 53.543520115, 24.0321198344 ],
-					[ 53.5416341026, 24.0326557269 ],
-					[ 53.5399136555, 24.0331800748 ],
-					[ 53.531838311, 24.0356506698 ],
-					[ 53.5229170282, 24.0383704625 ],
-					[ 53.5144423352, 24.0409613023 ],
-					[ 53.5057814997, 24.0436055987 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00267",
-				"creationtime" : "2025-12-22T07:27:50+04:00",
-				"updatetime" : "2025-12-22T11:28:29+04:00",
-				"street" : "Sheikh Khalifa Bin Zayed Int'l Road - E11",
-				"type" : "HAZARD",
-				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Partial Road Closure of Two Right Lanes on Sheikh Khalifa Bin Zayed Int’l Road (E11) Near Al Mirfa in Al Dhafra Region",
-				"lanePosition" : "Right ",
-				"lane_impact" : {
-					"total_closed_lanes" : 2,
-					"roadside" : "Right "
-				},
-				"startTime" : "2025-12-21T00:01:00+04:00",
-				"endTime" : "2026-01-10T05:00:00+04:00",
-				"name" : "PARTIAL ROAD CLOSURE IN AL DHAFRA REGION"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 53.4935355726, 24.0470125067 ],
-					[ 53.4979862913, 24.0456557571 ],
-					[ 53.5139667288, 24.040776837 ],
-					[ 53.5191894103, 24.0391811456 ],
-					[ 53.5221525667, 24.0382754716 ],
-					[ 53.529169661, 24.0361355303 ],
-					[ 53.5326540527, 24.0350706962 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00268",
-				"creationtime" : "2025-12-22T07:27:50+04:00",
-				"updatetime" : "2025-12-22T11:28:32+04:00",
-				"street" : "Sheikh Khalifa Bin Zayed Int'l Road - E11",
-				"type" : "HAZARD",
-				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Partial Road Closure of Two Right Lanes on Sheikh Khalifa Bin Zayed Int’l Road (E11) Near Al Mirfa in Al Dhafra Region",
-				"lanePosition" : "Right ",
-				"lane_impact" : {
-					"total_closed_lanes" : 2,
-					"roadside" : "Right "
-				},
-				"startTime" : "2025-12-21T00:01:00+04:00",
-				"endTime" : "2026-01-10T05:00:00+04:00",
-				"name" : "PARTIAL ROAD CLOSURE IN AL DHAFRA REGION"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
 					[ 53.5734607528, 24.0305291009 ],
 					[ 53.5676087851, 24.0306417572 ],
 					[ 53.5543641582, 24.0309016757 ],
@@ -172,6 +97,35 @@
 				"startTime" : "2026-01-09T00:01:00+04:00",
 				"endTime" : "2026-01-30T23:59:00+04:00",
 				"name" : "ROAD CLOSURE IN AL AIN"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.3823012335, 24.4580408877 ],
+					[ 54.3818979397, 24.45846741 ],
+					[ 54.3799740902, 24.4604746042 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00311",
+				"creationtime" : "2026-01-15T13:10:04+04:00",
+				"updatetime" : "2026-01-15T17:10:24+04:00",
+				"street" : "Shk. Rashid Bin Saeed Street",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Road Closure of Right Lane Towards Cornicheon Sheikh Rashid Bin Saeed Street - Abu Dhabi",
+				"lanePosition" : "Right ",
+				"lane_impact" : {
+					"total_closed_lanes" : 1,
+					"roadside" : "Right"
+				},
+				"startTime" : "2026-01-16T00:01:00+04:00",
+				"endTime" : "2026-01-19T05:00:00+04:00",
+				"name" : "PARTIAL ROAD CLOSURE IN ABU DHABI"
 			}
 		}
 	]
