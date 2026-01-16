@@ -118,12 +118,197 @@
 				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
 				"direction" : "ONE_DIRECTION",
 				"description" : "Partial Road Closure of Right Lane Towards Cornicheon Sheikh Rashid Bin Saeed Street - Abu Dhabi",
-				"lanePosition" : "Right ",
+				"lanePosition" : "Right",
 				"lane_impact" : {
 					"total_closed_lanes" : 1,
-					"roadside" : "Right"
+					"roadside" : "Right "
 				},
 				"startTime" : "2026-01-16T00:01:00+04:00",
+				"endTime" : "2026-01-19T05:00:00+04:00",
+				"name" : "PARTIAL ROAD CLOSURE IN ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.5302178107, 24.3356286997 ],
+					[ 54.530214262, 24.3357089939 ],
+					[ 54.5301435492, 24.3373090551 ],
+					[ 54.530124614, 24.3376786539 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00312",
+				"creationtime" : "2026-01-16T11:20:50+04:00",
+				"updatetime" : "2026-01-16T15:25:12+04:00",
+				"street" : "Al Mihad Street",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Road Closures in Mohammed Bin Zayed City & Musaffah Al Sha’biyya",
+				"lanePosition" : null,
+				"startTime" : "2026-01-16T00:01:00+04:00",
+				"endTime" : "2026-01-16T23:59:00+04:00",
+				"name" : "ROAD CLOSURES IN MOHAMED BIN ZAYED CITY & MUSAFFAH AL SHA’BIYYA"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.5303157217, 24.3321793662 ],
+					[ 54.5303076674, 24.3326109904 ],
+					[ 54.5303448543, 24.3331467201 ],
+					[ 54.5303108132, 24.3338500718 ],
+					[ 54.5302476286, 24.3351572022 ],
+					[ 54.5302251384, 24.3353174407 ],
+					[ 54.5301397756, 24.3356332053 ],
+					[ 54.5300271131, 24.3360005082 ],
+					[ 54.5299045346, 24.3362094783 ],
+					[ 54.529649485, 24.3365064722 ],
+					[ 54.5295510893, 24.3366535905 ],
+					[ 54.52944189, 24.3368733587 ],
+					[ 54.5294178745, 24.3373581509 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00314",
+				"creationtime" : "2026-01-16T11:20:50+04:00",
+				"updatetime" : "2026-01-16T15:25:12+04:00",
+				"street" : "Al Mihad Street",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Road Closures in Mohammed Bin Zayed City & Musaffah Al Sha’biyya",
+				"lanePosition" : null,
+				"startTime" : "2026-01-16T00:01:00+04:00",
+				"endTime" : "2026-01-16T23:59:00+04:00",
+				"name" : "ROAD CLOSURES IN MOHAMED BIN ZAYED CITY & MUSAFFAH AL SHA’BIYYA"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.5305420748, 24.3288303799 ],
+					[ 54.5305248455, 24.3291979095 ],
+					[ 54.5304741517, 24.3302788919 ],
+					[ 54.530443795, 24.3309262679 ],
+					[ 54.5303980384, 24.3319018984 ],
+					[ 54.530387377, 24.3321207448 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00313",
+				"creationtime" : "2026-01-16T11:20:50+04:00",
+				"updatetime" : "2026-01-16T15:25:12+04:00",
+				"street" : "Al Mihad Street",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Road Closures in Mohammed Bin Zayed City & Musaffah Al Sha’biyya",
+				"lanePosition" : null,
+				"startTime" : "2026-01-16T00:01:00+04:00",
+				"endTime" : "2026-01-16T23:59:00+04:00",
+				"name" : "ROAD CLOSURES IN MOHAMED BIN ZAYED CITY & MUSAFFAH AL SHA’BIYYA"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.5292752861, 24.3372838803 ],
+					[ 54.5292906996, 24.3369734982 ],
+					[ 54.529345632, 24.3367575233 ],
+					[ 54.5295815988, 24.3363162512 ],
+					[ 54.5298367041, 24.3359806791 ],
+					[ 54.5299236182, 24.3358570349 ],
+					[ 54.5299772717, 24.3357499391 ],
+					[ 54.5300128498, 24.3356396247 ],
+					[ 54.5300258333, 24.3354016317 ],
+					[ 54.5301202819, 24.3333881117 ],
+					[ 54.5301720586, 24.3322641048 ],
+					[ 54.5301585373, 24.331953416 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00315",
+				"creationtime" : "2026-01-16T11:20:50+04:00",
+				"updatetime" : "2026-01-16T15:25:12+04:00",
+				"street" : "Al Mihad Street",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Road Closures in Mohammed Bin Zayed City & Musaffah Al Sha’biyya",
+				"lanePosition" : null,
+				"startTime" : "2026-01-16T00:01:00+04:00",
+				"endTime" : "2026-01-16T23:59:00+04:00",
+				"name" : "ROAD CLOSURES IN MOHAMED BIN ZAYED CITY & MUSAFFAH AL SHA’BIYYA"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.5252089026, 24.369576222 ],
+					[ 54.5251286983, 24.3711201691 ],
+					[ 54.5250621476, 24.3724308941 ],
+					[ 54.5249825729, 24.3741695219 ],
+					[ 54.5249075883, 24.375705108 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00316",
+				"creationtime" : "2026-01-16T11:20:50+04:00",
+				"updatetime" : "2026-01-16T15:25:12+04:00",
+				"street" : "Ar Rawdah Road",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Road Closure of Two Left Lanes Towards Abu Dhabi on Al Rawdah Road (E30)",
+				"lanePosition" : "Left",
+				"lane_impact" : {
+					"total_closed_lanes" : 2,
+					"roadside" : "Left"
+				},
+				"startTime" : "2026-01-16T21:00:00+04:00",
+				"endTime" : "2026-01-17T11:59:00+04:00",
+				"name" : "PARTIAL ROAD CLOSURE IN ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.5109274814, 24.4114798494 ],
+					[ 54.5075776156, 24.4129737052 ],
+					[ 54.5044307412, 24.4143789462 ],
+					[ 54.5036536271, 24.414724839 ],
+					[ 54.501091866, 24.4158695204 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00317",
+				"creationtime" : "2026-01-16T11:20:50+04:00",
+				"updatetime" : "2026-01-16T15:25:12+04:00",
+				"street" : "Al Ain Road",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Road Closure of Two Right Lanes Towards Abu Dhabi Al Ain Road (E22) Abu Dhabi",
+				"lanePosition" : "Right ",
+				"lane_impact" : {
+					"total_closed_lanes" : 2,
+					"roadside" : "Right"
+				},
+				"startTime" : "2026-01-17T12:01:00+04:00",
 				"endTime" : "2026-01-19T05:00:00+04:00",
 				"name" : "PARTIAL ROAD CLOSURE IN ABU DHABI"
 			}
