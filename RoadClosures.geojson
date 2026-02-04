@@ -173,6 +173,354 @@
 				"endTime" : "2026-07-31T23:59:00+04:00",
 				"name" : "ROAD CLOSURE & TRAFFIC DIVERSION TO TEMPORARY ROAD"
 			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 53.6996753958, 23.66562833 ],
+					[ 53.7005620275, 23.6636168424 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00324",
+				"creationtime" : "2026-02-04T07:30:14+04:00",
+				"updatetime" : "2026-02-04T11:37:30+04:00",
+				"street" : "Sheikha Salama Bint Butti Road",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Road Closure of One Right  Lane on Sheikha Salama Bint Butti Road (E45) in Madinat Zayed - Al Dhafra Region",
+				"lanePosition" : "Right ",
+				"lane_impact" : {
+					"total_closed_lanes" : 1,
+					"roadside" : "Right "
+				},
+				"startTime" : "2026-02-04T20:00:00+04:00",
+				"endTime" : "2026-02-05T06:00:00+04:00",
+				"name" : "ROAD CLOSURE FOR UAE TOUR WOMEN’S EVENT IN MADINAT ZAYED - AL DHAFRA REGION"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 53.6996753958, 23.66562833 ],
+					[ 53.7008397418, 23.6629867531 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00325",
+				"creationtime" : "2026-02-04T07:30:14+04:00",
+				"updatetime" : "2026-02-04T11:37:30+04:00",
+				"street" : "Sheikha Salama Bint Butti Road",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Road Closure of One Left Lane on Sheikha Salama Bint Butti Road (E45) in Madinat Zayed - Al Dhafra Region",
+				"lanePosition" : "Left",
+				"lane_impact" : {
+					"total_closed_lanes" : 1,
+					"roadside" : "Left"
+				},
+				"startTime" : "2026-02-04T20:00:00+04:00",
+				"endTime" : "2026-02-05T06:00:00+04:00",
+				"name" : "ROAD CLOSURE FOR UAE TOUR WOMEN’S EVENT IN MADINAT ZAYED - AL DHAFRA REGION"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 53.7034949433, 23.6569576541 ],
+					[ 53.7031816537, 23.65766162 ],
+					[ 53.7025100283, 23.6591930009 ],
+					[ 53.702012732, 23.6603171633 ],
+					[ 53.7018511211, 23.6606841667 ],
+					[ 53.7000237779, 23.6648373322 ],
+					[ 53.6993019352, 23.6664744688 ],
+					[ 53.6988350918, 23.6675335347 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00326",
+				"creationtime" : "2026-02-04T07:30:14+04:00",
+				"updatetime" : "2026-02-04T11:37:30+04:00",
+				"street" : "Sheikha Salama Bint Butti Road",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Road Closure on Sheikha Salama Bint Butti Road (E45) in Madinat Zayed - Al Dhafra Region",
+				"lanePosition" : null,
+				"startTime" : "2026-02-05T06:00:00+04:00",
+				"endTime" : "2026-02-05T20:00:00+04:00",
+				"name" : "ROAD CLOSURE FOR UAE TOUR WOMEN’S EVENT IN MADINAT ZAYED - AL DHAFRA REGION"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 53.7035405659, 23.6568555657 ],
+					[ 53.7039591833, 23.6558987968 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00327",
+				"creationtime" : "2026-02-04T07:30:14+04:00",
+				"updatetime" : "2026-02-04T11:37:30+04:00",
+				"street" : "Sheikha Salama Bint Butti Road",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Road Closure of Strieght Lanes on Intersection of Sheikha Salama Bint Butti Road (E45) in Madinat Zayed - Al Dhafra Region",
+				"lanePosition" : "Right ",
+				"lane_impact" : {
+					"total_closed_lanes" : 3,
+					"roadside" : "Right "
+				},
+				"startTime" : "2026-02-05T06:00:00+04:00",
+				"endTime" : "2026-02-05T20:00:00+04:00",
+				"name" : "ROAD CLOSURE FOR UAE TOUR WOMEN’S EVENT IN MADINAT ZAYED - AL DHAFRA REGION"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 53.7049573102, 23.6536349226 ],
+					[ 53.7041735097, 23.6554124218 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00328",
+				"creationtime" : "2026-02-04T07:30:14+04:00",
+				"updatetime" : "2026-02-04T11:37:30+04:00",
+				"street" : "Sheikha Salama Bint Butti Road",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Road Closure of Two Left Lanes on Sheikha Salama Bint Butti Road (E45) in Madinat Zayed - Al Dhafra Region",
+				"lanePosition" : "Left",
+				"lane_impact" : {
+					"total_closed_lanes" : 2,
+					"roadside" : "Left"
+				},
+				"startTime" : "2026-02-05T06:00:00+04:00",
+				"endTime" : "2026-02-05T20:00:00+04:00",
+				"name" : "ROAD CLOSURE FOR UAE TOUR WOMEN’S EVENT IN MADINAT ZAYED - AL DHAFRA REGION"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 53.7033406529, 23.6567884089 ],
+					[ 53.702841897, 23.656600893 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00329",
+				"creationtime" : "2026-02-04T07:30:14+04:00",
+				"updatetime" : "2026-02-04T11:37:30+04:00",
+				"street" : "Sikkat Al Khayl Street",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Road Closure of One Left Lane on Sheikha Salama Bint Butti Road (E45) in Madinat Zayed - Al Dhafra Region",
+				"lanePosition" : "Left",
+				"lane_impact" : {
+					"total_closed_lanes" : 1,
+					"roadside" : "Left"
+				},
+				"startTime" : "2026-02-05T06:00:00+04:00",
+				"endTime" : "2026-02-05T20:00:00+04:00",
+				"name" : "ROAD CLOSURE FOR UAE TOUR WOMEN’S EVENT IN MADINAT ZAYED - AL DHAFRA REGION"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 55.8076318691, 24.2060015351 ],
+					[ 55.8074389106, 24.2058938557 ],
+					[ 55.8073833819, 24.2058687907 ],
+					[ 55.8072751413, 24.2058384035 ],
+					[ 55.8071837864, 24.2058227148 ],
+					[ 55.806309872, 24.2056887006 ],
+					[ 55.8040398447, 24.2053430758 ],
+					[ 55.8037423229, 24.2053036262 ],
+					[ 55.8033963231, 24.2052689447 ],
+					[ 55.8030882594, 24.2052516714 ],
+					[ 55.8028415214, 24.2052446666 ],
+					[ 55.8025820796, 24.2052456505 ],
+					[ 55.8021630936, 24.205260465 ],
+					[ 55.8008647729, 24.2053365854 ],
+					[ 55.8002221255, 24.205373124 ],
+					[ 55.7984531365, 24.2054800237 ],
+					[ 55.7963430059, 24.2056035501 ],
+					[ 55.7915878559, 24.2058834667 ],
+					[ 55.7911567056, 24.2059071846 ],
+					[ 55.7902299704, 24.2059406852 ],
+					[ 55.7890811522, 24.2059866154 ],
+					[ 55.7887197857, 24.2060146482 ],
+					[ 55.7885761424, 24.2060357121 ],
+					[ 55.7884478442, 24.2060816162 ],
+					[ 55.7883149289, 24.2061453826 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00330",
+				"creationtime" : "2026-02-04T08:05:22+04:00",
+				"updatetime" : "--T::+04:00",
+				"street" : "Khalid Bin Sultan Street",
+				"type" : "ROAD_CLOSED",
+				"subtype" : null,
+				"direction" : "ONE_DIRECTION",
+				"description" : "Road Closure on Khalid Bin Sultan Street for Al Ain Flower Festival Carnival - Al Ain",
+				"lanePosition" : null,
+				"startTime" : "2026-02-06T19:00:00+04:00",
+				"endTime" : "2026-02-06T20:00:00+04:00",
+				"name" : "ROAD CLOSURE FOR AL AIN FLOWER FESTIVAL CARNIVAL AL AIN"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 55.788225298, 24.20569336 ],
+					[ 55.7884253809, 24.2057655584 ],
+					[ 55.7885402091, 24.2057980707 ],
+					[ 55.7887431123, 24.2058298249 ],
+					[ 55.7888890786, 24.2058400016 ],
+					[ 55.7893317114, 24.2058322603 ],
+					[ 55.7911666521, 24.2057607812 ],
+					[ 55.7930957177, 24.2056519507 ],
+					[ 55.7983618517, 24.2053392177 ],
+					[ 55.8024050103, 24.2051057501 ],
+					[ 55.802718022, 24.205097078 ],
+					[ 55.8030260299, 24.2051035576 ],
+					[ 55.8033041363, 24.205116703 ],
+					[ 55.8036222777, 24.2051438418 ],
+					[ 55.8039491211, 24.2051811943 ],
+					[ 55.8046671991, 24.2052888134 ],
+					[ 55.8071952501, 24.2056803162 ],
+					[ 55.8073881043, 24.2057005608 ],
+					[ 55.8074980698, 24.2056892995 ],
+					[ 55.807675202, 24.2056445583 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00331",
+				"creationtime" : "2026-02-04T08:05:22+04:00",
+				"updatetime" : "--T::+04:00",
+				"street" : "Khalid Bin Sultan Street",
+				"type" : "ROAD_CLOSED",
+				"subtype" : null,
+				"direction" : "ONE_DIRECTION",
+				"description" : "Road Closure on Khalid Bin Sultan Street for Al Ain Flower Festival Carnival - Al Ain",
+				"lanePosition" : null,
+				"startTime" : "2026-02-06T19:00:00+04:00",
+				"endTime" : "2026-02-06T20:00:00+04:00",
+				"name" : "ROAD CLOSURE FOR AL AIN FLOWER FESTIVAL CARNIVAL AL AIN"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 55.8076318691, 24.2060015351 ],
+					[ 55.8074389106, 24.2058938557 ],
+					[ 55.8073833819, 24.2058687907 ],
+					[ 55.8072751413, 24.2058384035 ],
+					[ 55.8071837864, 24.2058227148 ],
+					[ 55.806309872, 24.2056887006 ],
+					[ 55.8040398447, 24.2053430758 ],
+					[ 55.8037423229, 24.2053036262 ],
+					[ 55.8033963231, 24.2052689447 ],
+					[ 55.8030882594, 24.2052516714 ],
+					[ 55.8028415214, 24.2052446666 ],
+					[ 55.8025820796, 24.2052456505 ],
+					[ 55.8021630936, 24.205260465 ],
+					[ 55.8008647729, 24.2053365854 ],
+					[ 55.8002221255, 24.205373124 ],
+					[ 55.7984531365, 24.2054800237 ],
+					[ 55.7963430059, 24.2056035501 ],
+					[ 55.7915878559, 24.2058834667 ],
+					[ 55.7911567056, 24.2059071846 ],
+					[ 55.7902299704, 24.2059406852 ],
+					[ 55.7890811522, 24.2059866154 ],
+					[ 55.7887197857, 24.2060146482 ],
+					[ 55.7885761424, 24.2060357121 ],
+					[ 55.7884478442, 24.2060816162 ],
+					[ 55.7883149289, 24.2061453826 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00332",
+				"creationtime" : "2026-02-04T08:08:26+04:00",
+				"updatetime" : "--T::+04:00",
+				"street" : "Khalid Bin Sultan Street",
+				"type" : "ROAD_CLOSED",
+				"subtype" : null,
+				"direction" : "ONE_DIRECTION",
+				"description" : "Road Closure on Khalid Bin Sultan Street for Al Ain Flower Festival Carnival - Al Ain",
+				"lanePosition" : null,
+				"startTime" : "2026-02-13T19:00:00+04:00",
+				"endTime" : "2026-02-13T20:00:00+04:00",
+				"name" : "ROAD CLOSURE FOR AL AIN FLOWER FESTIVAL CARNIVAL AL AIN"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 55.788225298, 24.20569336 ],
+					[ 55.7884253809, 24.2057655584 ],
+					[ 55.7885402091, 24.2057980707 ],
+					[ 55.7887431123, 24.2058298249 ],
+					[ 55.7888890786, 24.2058400016 ],
+					[ 55.7893317114, 24.2058322603 ],
+					[ 55.7911666521, 24.2057607812 ],
+					[ 55.7930957177, 24.2056519507 ],
+					[ 55.7983618517, 24.2053392177 ],
+					[ 55.8024050103, 24.2051057501 ],
+					[ 55.802718022, 24.205097078 ],
+					[ 55.8030260299, 24.2051035576 ],
+					[ 55.8033041363, 24.205116703 ],
+					[ 55.8036222777, 24.2051438418 ],
+					[ 55.8039491211, 24.2051811943 ],
+					[ 55.8046671991, 24.2052888134 ],
+					[ 55.8071952501, 24.2056803162 ],
+					[ 55.8073881043, 24.2057005608 ],
+					[ 55.8074980698, 24.2056892995 ],
+					[ 55.807675202, 24.2056445583 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00333",
+				"creationtime" : "2026-02-04T08:08:26+04:00",
+				"updatetime" : "--T::+04:00",
+				"street" : "Khalid Bin Sultan Street",
+				"type" : "ROAD_CLOSED",
+				"subtype" : null,
+				"direction" : "ONE_DIRECTION",
+				"description" : "Road Closure on Khalid Bin Sultan Street for Al Ain Flower Festival Carnival - Al Ain",
+				"lanePosition" : null,
+				"startTime" : "2026-02-13T19:00:00+04:00",
+				"endTime" : "2026-02-13T20:00:00+04:00",
+				"name" : "ROAD CLOSURE FOR AL AIN FLOWER FESTIVAL CARNIVAL AL AIN"
+			}
 		}
 	]
 }
