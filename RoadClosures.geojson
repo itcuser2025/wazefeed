@@ -179,265 +179,6 @@
 			"geometry" : {
 				"type" : "LineString",
 				"coordinates" : [
-					[ 53.6996753958, 23.66562833 ],
-					[ 53.7005620275, 23.6636168424 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00324",
-				"creationtime" : "2026-02-04T07:30:14+04:00",
-				"updatetime" : "2026-02-04T11:37:30+04:00",
-				"street" : "Sheikha Salama Bint Butti Road",
-				"type" : "HAZARD",
-				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Partial Road Closure of One Right  Lane on Sheikha Salama Bint Butti Road (E45) in Madinat Zayed - Al Dhafra Region",
-				"lanePosition" : "Right ",
-				"lane_impact" : {
-					"total_closed_lanes" : 1,
-					"roadside" : "Right "
-				},
-				"startTime" : "2026-02-04T20:00:00+04:00",
-				"endTime" : "2026-02-05T06:00:00+04:00",
-				"name" : "ROAD CLOSURE FOR UAE TOUR WOMEN’S EVENT IN MADINAT ZAYED - AL DHAFRA REGION"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 53.6996753958, 23.66562833 ],
-					[ 53.7008397418, 23.6629867531 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00325",
-				"creationtime" : "2026-02-04T07:30:14+04:00",
-				"updatetime" : "2026-02-04T11:37:30+04:00",
-				"street" : "Sheikha Salama Bint Butti Road",
-				"type" : "HAZARD",
-				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Partial Road Closure of One Left Lane on Sheikha Salama Bint Butti Road (E45) in Madinat Zayed - Al Dhafra Region",
-				"lanePosition" : "Left",
-				"lane_impact" : {
-					"total_closed_lanes" : 1,
-					"roadside" : "Left"
-				},
-				"startTime" : "2026-02-04T20:00:00+04:00",
-				"endTime" : "2026-02-05T06:00:00+04:00",
-				"name" : "ROAD CLOSURE FOR UAE TOUR WOMEN’S EVENT IN MADINAT ZAYED - AL DHAFRA REGION"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 53.7034949433, 23.6569576541 ],
-					[ 53.7031816537, 23.65766162 ],
-					[ 53.7025100283, 23.6591930009 ],
-					[ 53.702012732, 23.6603171633 ],
-					[ 53.7018511211, 23.6606841667 ],
-					[ 53.7000237779, 23.6648373322 ],
-					[ 53.6993019352, 23.6664744688 ],
-					[ 53.6988350918, 23.6675335347 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00326",
-				"creationtime" : "2026-02-04T07:30:14+04:00",
-				"updatetime" : "2026-02-04T11:37:30+04:00",
-				"street" : "Sheikha Salama Bint Butti Road",
-				"type" : "ROAD_CLOSED",
-				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Road Closure on Sheikha Salama Bint Butti Road (E45) in Madinat Zayed - Al Dhafra Region",
-				"lanePosition" : null,
-				"startTime" : "2026-02-05T06:00:00+04:00",
-				"endTime" : "2026-02-05T20:00:00+04:00",
-				"name" : "ROAD CLOSURE FOR UAE TOUR WOMEN’S EVENT IN MADINAT ZAYED - AL DHAFRA REGION"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 53.7035405659, 23.6568555657 ],
-					[ 53.7039591833, 23.6558987968 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00327",
-				"creationtime" : "2026-02-04T07:30:14+04:00",
-				"updatetime" : "2026-02-04T11:37:30+04:00",
-				"street" : "Sheikha Salama Bint Butti Road",
-				"type" : "HAZARD",
-				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Partial Road Closure of Strieght Lanes on Intersection of Sheikha Salama Bint Butti Road (E45) in Madinat Zayed - Al Dhafra Region",
-				"lanePosition" : "Right ",
-				"lane_impact" : {
-					"total_closed_lanes" : 3,
-					"roadside" : "Right "
-				},
-				"startTime" : "2026-02-05T06:00:00+04:00",
-				"endTime" : "2026-02-05T20:00:00+04:00",
-				"name" : "ROAD CLOSURE FOR UAE TOUR WOMEN’S EVENT IN MADINAT ZAYED - AL DHAFRA REGION"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 53.7049573102, 23.6536349226 ],
-					[ 53.7041735097, 23.6554124218 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00328",
-				"creationtime" : "2026-02-04T07:30:14+04:00",
-				"updatetime" : "2026-02-04T11:37:30+04:00",
-				"street" : "Sheikha Salama Bint Butti Road",
-				"type" : "HAZARD",
-				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Partial Road Closure of Two Left Lanes on Sheikha Salama Bint Butti Road (E45) in Madinat Zayed - Al Dhafra Region",
-				"lanePosition" : "Left",
-				"lane_impact" : {
-					"total_closed_lanes" : 2,
-					"roadside" : "Left"
-				},
-				"startTime" : "2026-02-05T06:00:00+04:00",
-				"endTime" : "2026-02-05T20:00:00+04:00",
-				"name" : "ROAD CLOSURE FOR UAE TOUR WOMEN’S EVENT IN MADINAT ZAYED - AL DHAFRA REGION"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 53.7033406529, 23.6567884089 ],
-					[ 53.702841897, 23.656600893 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00329",
-				"creationtime" : "2026-02-04T07:30:14+04:00",
-				"updatetime" : "2026-02-04T11:37:30+04:00",
-				"street" : "Sikkat Al Khayl Street",
-				"type" : "HAZARD",
-				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Partial Road Closure of One Left Lane on Sheikha Salama Bint Butti Road (E45) in Madinat Zayed - Al Dhafra Region",
-				"lanePosition" : "Left",
-				"lane_impact" : {
-					"total_closed_lanes" : 1,
-					"roadside" : "Left"
-				},
-				"startTime" : "2026-02-05T06:00:00+04:00",
-				"endTime" : "2026-02-05T20:00:00+04:00",
-				"name" : "ROAD CLOSURE FOR UAE TOUR WOMEN’S EVENT IN MADINAT ZAYED - AL DHAFRA REGION"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 55.8076318691, 24.2060015351 ],
-					[ 55.8074389106, 24.2058938557 ],
-					[ 55.8073833819, 24.2058687907 ],
-					[ 55.8072751413, 24.2058384035 ],
-					[ 55.8071837864, 24.2058227148 ],
-					[ 55.806309872, 24.2056887006 ],
-					[ 55.8040398447, 24.2053430758 ],
-					[ 55.8037423229, 24.2053036262 ],
-					[ 55.8033963231, 24.2052689447 ],
-					[ 55.8030882594, 24.2052516714 ],
-					[ 55.8028415214, 24.2052446666 ],
-					[ 55.8025820796, 24.2052456505 ],
-					[ 55.8021630936, 24.205260465 ],
-					[ 55.8008647729, 24.2053365854 ],
-					[ 55.8002221255, 24.205373124 ],
-					[ 55.7984531365, 24.2054800237 ],
-					[ 55.7963430059, 24.2056035501 ],
-					[ 55.7915878559, 24.2058834667 ],
-					[ 55.7911567056, 24.2059071846 ],
-					[ 55.7902299704, 24.2059406852 ],
-					[ 55.7890811522, 24.2059866154 ],
-					[ 55.7887197857, 24.2060146482 ],
-					[ 55.7885761424, 24.2060357121 ],
-					[ 55.7884478442, 24.2060816162 ],
-					[ 55.7883149289, 24.2061453826 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00330",
-				"creationtime" : "2026-02-04T08:05:22+04:00",
-				"updatetime" : "--T::+04:00",
-				"street" : "Khalid Bin Sultan Street",
-				"type" : "ROAD_CLOSED",
-				"subtype" : null,
-				"direction" : "ONE_DIRECTION",
-				"description" : "Road Closure on Khalid Bin Sultan Street for Al Ain Flower Festival Carnival - Al Ain",
-				"lanePosition" : null,
-				"startTime" : "2026-02-06T19:00:00+04:00",
-				"endTime" : "2026-02-06T20:00:00+04:00",
-				"name" : "ROAD CLOSURE FOR AL AIN FLOWER FESTIVAL CARNIVAL AL AIN"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 55.788225298, 24.20569336 ],
-					[ 55.7884253809, 24.2057655584 ],
-					[ 55.7885402091, 24.2057980707 ],
-					[ 55.7887431123, 24.2058298249 ],
-					[ 55.7888890786, 24.2058400016 ],
-					[ 55.7893317114, 24.2058322603 ],
-					[ 55.7911666521, 24.2057607812 ],
-					[ 55.7930957177, 24.2056519507 ],
-					[ 55.7983618517, 24.2053392177 ],
-					[ 55.8024050103, 24.2051057501 ],
-					[ 55.802718022, 24.205097078 ],
-					[ 55.8030260299, 24.2051035576 ],
-					[ 55.8033041363, 24.205116703 ],
-					[ 55.8036222777, 24.2051438418 ],
-					[ 55.8039491211, 24.2051811943 ],
-					[ 55.8046671991, 24.2052888134 ],
-					[ 55.8071952501, 24.2056803162 ],
-					[ 55.8073881043, 24.2057005608 ],
-					[ 55.8074980698, 24.2056892995 ],
-					[ 55.807675202, 24.2056445583 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00331",
-				"creationtime" : "2026-02-04T08:05:22+04:00",
-				"updatetime" : "--T::+04:00",
-				"street" : "Khalid Bin Sultan Street",
-				"type" : "ROAD_CLOSED",
-				"subtype" : null,
-				"direction" : "ONE_DIRECTION",
-				"description" : "Road Closure on Khalid Bin Sultan Street for Al Ain Flower Festival Carnival - Al Ain",
-				"lanePosition" : null,
-				"startTime" : "2026-02-06T19:00:00+04:00",
-				"endTime" : "2026-02-06T20:00:00+04:00",
-				"name" : "ROAD CLOSURE FOR AL AIN FLOWER FESTIVAL CARNIVAL AL AIN"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
 					[ 55.8076318691, 24.2060015351 ],
 					[ 55.8074389106, 24.2058938557 ],
 					[ 55.8073833819, 24.2058687907 ],
@@ -468,10 +209,10 @@
 			"properties" : {
 				"id" : "AD00332",
 				"creationtime" : "2026-02-04T08:08:26+04:00",
-				"updatetime" : "--T::+04:00",
+				"updatetime" : "2026-02-06T14:20:27+04:00",
 				"street" : "Khalid Bin Sultan Street",
 				"type" : "ROAD_CLOSED",
-				"subtype" : null,
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
 				"direction" : "ONE_DIRECTION",
 				"description" : "Road Closure on Khalid Bin Sultan Street for Al Ain Flower Festival Carnival - Al Ain",
 				"lanePosition" : null,
@@ -510,16 +251,819 @@
 			"properties" : {
 				"id" : "AD00333",
 				"creationtime" : "2026-02-04T08:08:26+04:00",
-				"updatetime" : "--T::+04:00",
+				"updatetime" : "2026-02-06T14:20:27+04:00",
 				"street" : "Khalid Bin Sultan Street",
 				"type" : "ROAD_CLOSED",
-				"subtype" : null,
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
 				"direction" : "ONE_DIRECTION",
 				"description" : "Road Closure on Khalid Bin Sultan Street for Al Ain Flower Festival Carnival - Al Ain",
 				"lanePosition" : null,
 				"startTime" : "2026-02-13T19:00:00+04:00",
 				"endTime" : "2026-02-13T20:00:00+04:00",
 				"name" : "ROAD CLOSURE FOR AL AIN FLOWER FESTIVAL CARNIVAL AL AIN"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.3224278674, 24.4715620103 ],
+					[ 54.3224431738, 24.4716463802 ],
+					[ 54.3224735394, 24.4717708437 ],
+					[ 54.3225018636, 24.4718672384 ],
+					[ 54.3225481256, 24.4719940491 ],
+					[ 54.3225787817, 24.4720664013 ],
+					[ 54.3226517257, 24.4722581863 ],
+					[ 54.3227342898, 24.4723982602 ],
+					[ 54.3228386282, 24.4725448883 ],
+					[ 54.3231679348, 24.472998492 ],
+					[ 54.3232745728, 24.4731626659 ],
+					[ 54.3233260023, 24.4732534291 ],
+					[ 54.3233734047, 24.473346008 ],
+					[ 54.3234598466, 24.4735345743 ],
+					[ 54.3235146926, 24.4736952588 ],
+					[ 54.3235641077, 24.4738887588 ],
+					[ 54.3236090243, 24.4741419089 ],
+					[ 54.3236230843, 24.4743327154 ],
+					[ 54.3236262194, 24.4745788472 ],
+					[ 54.3236384439, 24.4747608304 ],
+					[ 54.3236540453, 24.4748824008 ],
+					[ 54.3237072762, 24.475138141 ],
+					[ 54.3237444227, 24.4752719107 ],
+					[ 54.3237999603, 24.4754245454 ],
+					[ 54.3238300426, 24.4754959453 ],
+					[ 54.3239485661, 24.4757378971 ],
+					[ 54.324033624, 24.4758780726 ],
+					[ 54.3241162869, 24.4759976033 ],
+					[ 54.3242284675, 24.4761420893 ],
+					[ 54.3244514472, 24.4763710693 ],
+					[ 54.3246585538, 24.4766048642 ],
+					[ 54.3247875508, 24.4767281361 ],
+					[ 54.324886782, 24.4768289681 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00334",
+				"creationtime" : "2026-02-06T09:46:17+04:00",
+				"updatetime" : "2026-02-06T14:17:20+04:00",
+				"street" : "King Salman Bin Abdulaziz Al Saud Street",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Road Closure on King Salman Bin Abdulaziz Al Saud Street.",
+				"lanePosition" : null,
+				"startTime" : "2026-02-07T04:00:00+04:00",
+				"endTime" : "2026-02-07T21:00:00+04:00",
+				"name" : "ROAD CLOSURE FOR UAE TOUR WOMEN’S EVENT IN ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.322158363, 24.47207598 ],
+					[ 54.3221898645, 24.4720514447 ],
+					[ 54.3222445172, 24.4720223858 ],
+					[ 54.3223059085, 24.4720086262 ],
+					[ 54.3223447682, 24.4720088097 ],
+					[ 54.322402314, 24.4720213876 ],
+					[ 54.3224319062, 24.4720353972 ],
+					[ 54.32248135, 24.4720759503 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00335",
+				"creationtime" : "2026-02-06T09:46:17+04:00",
+				"updatetime" : "2026-02-06T14:17:20+04:00",
+				"street" : "King Salman Bin Abdulaziz Al Saud Street",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Road Closure on King Salman Bin Abdulaziz Al Saud Street.",
+				"lanePosition" : null,
+				"startTime" : "2026-02-07T04:00:00+04:00",
+				"endTime" : "2026-02-07T21:00:00+04:00",
+				"name" : "ROAD CLOSURE FOR UAE TOUR WOMEN’S EVENT IN ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.3229124437, 24.4718002083 ],
+					[ 54.3228387109, 24.4717880135 ],
+					[ 54.322791975, 24.4717883436 ],
+					[ 54.3227342007, 24.4718049792 ],
+					[ 54.3227078722, 24.4718188171 ],
+					[ 54.3226783762, 24.4718395851 ],
+					[ 54.3226532554, 24.4718647158 ],
+					[ 54.3226332734, 24.4718934509 ],
+					[ 54.3226190344, 24.4719249209 ],
+					[ 54.322600825, 24.4719888699 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00336",
+				"creationtime" : "2026-02-06T09:46:17+04:00",
+				"updatetime" : "2026-02-06T14:17:20+04:00",
+				"street" : "King Salman Bin Abdulaziz Al Saud Street",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Road Closure on King Salman Bin Abdulaziz Al Saud Street.",
+				"lanePosition" : null,
+				"startTime" : "2026-02-07T04:00:00+04:00",
+				"endTime" : "2026-02-07T21:00:00+04:00",
+				"name" : "ROAD CLOSURE FOR UAE TOUR WOMEN’S EVENT IN ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.322394945, 24.4713348029 ],
+					[ 54.3225285051, 24.4713702883 ],
+					[ 54.3227166118, 24.4714498414 ],
+					[ 54.3229033569, 24.4715630076 ],
+					[ 54.3230218938, 24.4716359346 ],
+					[ 54.3232762788, 24.4718154212 ],
+					[ 54.3237728727, 24.4721676776 ],
+					[ 54.3243223144, 24.4725580014 ],
+					[ 54.3248704449, 24.4729452944 ],
+					[ 54.3255950853, 24.4734415457 ],
+					[ 54.3264736043, 24.474052314 ],
+					[ 54.3279450192, 24.4750684714 ],
+					[ 54.3286752975, 24.4755716871 ],
+					[ 54.3298763079, 24.4764007226 ],
+					[ 54.3302747472, 24.476678596 ],
+					[ 54.3305591578, 24.4769022943 ],
+					[ 54.3312359021, 24.4774536363 ],
+					[ 54.3316762839, 24.4778156979 ],
+					[ 54.3317953686, 24.477931429 ],
+					[ 54.3320135081, 24.4781805538 ],
+					[ 54.3322246509, 24.4784255192 ],
+					[ 54.3323516478, 24.478568283 ],
+					[ 54.3323966778, 24.478618368 ],
+					[ 54.332424304, 24.4786344776 ],
+					[ 54.3324561319, 24.4786415742 ],
+					[ 54.3324849201, 24.4786329326 ],
+					[ 54.3325143927, 24.4786240868 ],
+					[ 54.3325312829, 24.4785087524 ],
+					[ 54.3325345528, 24.4784906301 ],
+					[ 54.3325405387, 24.4784831199 ],
+					[ 54.3325534458, 24.4784758462 ],
+					[ 54.3327401837, 24.4783995099 ],
+					[ 54.3329306044, 24.478316364 ],
+					[ 54.3329775679, 24.4783040253 ],
+					[ 54.33301428, 24.4783051809 ],
+					[ 54.3330365904, 24.4783147183 ],
+					[ 54.3330611212, 24.4783397428 ],
+					[ 54.3330701378, 24.4783719574 ],
+					[ 54.333061962, 24.4784043591 ],
+					[ 54.3330384241, 24.4784296921 ],
+					[ 54.3329538222, 24.4784649644 ],
+					[ 54.3328429402, 24.4785101014 ],
+					[ 54.3327099224, 24.4785692857 ],
+					[ 54.3326050309, 24.4786326646 ],
+					[ 54.3325476595, 24.4786602756 ],
+					[ 54.3324570313, 24.4787038657 ],
+					[ 54.3324147209, 24.4787112006 ],
+					[ 54.3323806464, 24.4787052426 ],
+					[ 54.3323506298, 24.4786893264 ],
+					[ 54.3323382236, 24.4786781514 ],
+					[ 54.3322839109, 24.4786145576 ],
+					[ 54.3321769869, 24.4784872568 ],
+					[ 54.3317695131, 24.4780067607 ],
+					[ 54.3316715949, 24.4779072129 ],
+					[ 54.3314426769, 24.4777136087 ],
+					[ 54.3311540944, 24.477477453 ],
+					[ 54.3307361578, 24.4771375938 ],
+					[ 54.3306805114, 24.4770924892 ],
+					[ 54.3302899673, 24.4767763838 ],
+					[ 54.3298368601, 24.4764590311 ],
+					[ 54.3286038689, 24.4756080548 ],
+					[ 54.3262681047, 24.4739958563 ],
+					[ 54.3260934465, 24.4738766899 ],
+					[ 54.325989653, 24.4738153588 ],
+					[ 54.3258523742, 24.4737529656 ],
+					[ 54.3257254924, 24.4737072108 ],
+					[ 54.3255707263, 24.4736347776 ],
+					[ 54.3254564827, 24.4735667826 ],
+					[ 54.3253399324, 24.473469574 ],
+					[ 54.3253235809, 24.4734548224 ],
+					[ 54.3247170458, 24.4730207286 ],
+					[ 54.323460013, 24.4721178543 ],
+					[ 54.3230914033, 24.4718421932 ],
+					[ 54.3227466509, 24.4715941242 ],
+					[ 54.3225800156, 24.4715081139 ],
+					[ 54.3224107901, 24.4714600685 ],
+					[ 54.3222699086, 24.4714338389 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00339",
+				"creationtime" : "2026-02-06T09:46:17+04:00",
+				"updatetime" : "2026-02-06T14:17:20+04:00",
+				"street" : "Khamis Bin Zaal Al Rumaithi Street",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Road Closure on Khamis Bin Zaal Al Rumaithi Street.",
+				"lanePosition" : null,
+				"startTime" : "2026-02-07T10:00:00+04:00",
+				"endTime" : "2026-02-07T18:00:00+04:00",
+				"name" : "ROAD CLOSURE FOR UAE TOUR WOMEN’S EVENT IN ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.3245958549, 24.4626232438 ],
+					[ 54.3243762495, 24.4629004976 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00341",
+				"creationtime" : "2026-02-06T09:46:17+04:00",
+				"updatetime" : "2026-02-06T14:17:20+04:00",
+				"street" : "King Salman Bin Abdulaziz Al Saud Street",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Road Closure of Strieght Lanes on Intersection of King Salman Bin Abdulaziz Al Saud Street.",
+				"lanePosition" : null,
+				"startTime" : "2026-02-07T10:00:00+04:00",
+				"endTime" : "2026-02-07T18:00:00+04:00",
+				"name" : "ROAD CLOSURE FOR UAE TOUR WOMEN’S EVENT IN ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.3221095271, 24.4719795313 ],
+					[ 54.3221347684, 24.4718755175 ],
+					[ 54.3221461493, 24.4718160607 ],
+					[ 54.3221572353, 24.4717446068 ],
+					[ 54.3221663922, 24.4716486123 ],
+					[ 54.3221541569, 24.4714758166 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00340",
+				"creationtime" : "2026-02-06T09:46:17+04:00",
+				"updatetime" : "2026-02-06T14:17:20+04:00",
+				"street" : "King Salman Bin Abdulaziz Al Saud Street",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Road Closure of Strieght Lanes on Intersection of King Salman Bin Abdulaziz Al Saud Street.",
+				"lanePosition" : null,
+				"startTime" : "2026-02-07T10:00:00+04:00",
+				"endTime" : "2026-02-07T18:00:00+04:00",
+				"name" : "ROAD CLOSURE FOR UAE TOUR WOMEN’S EVENT IN ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.3223651792, 24.4706477271 ],
+					[ 54.3223576294, 24.4707659889 ],
+					[ 54.3223633068, 24.4709192765 ],
+					[ 54.3223810316, 24.4711533188 ],
+					[ 54.3223878817, 24.4712651099 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00337",
+				"creationtime" : "2026-02-06T09:56:50+04:00",
+				"updatetime" : "2026-02-06T14:17:20+04:00",
+				"street" : "King Salman Bin Abdulaziz Al Saud Street",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Road Closure of Strieght Lanes on Intersection of King Salman Bin Abdulaziz Al Saud Street.",
+				"lanePosition" : null,
+				"lane_impact" : {
+					"total_closed_lanes" : 4,
+					"roadside" : ""
+				},
+				"startTime" : "2026-02-07T04:00:00+04:00",
+				"endTime" : "2026-02-07T21:00:00+04:00",
+				"name" : "ROAD CLOSURE FOR UAE TOUR WOMEN’S EVENT IN ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.3241765865, 24.4631417587 ],
+					[ 54.3238210764, 24.4635713172 ],
+					[ 54.3236579681, 24.4638144786 ],
+					[ 54.32352506, 24.4640169186 ],
+					[ 54.3234466742, 24.4641506496 ],
+					[ 54.3233271219, 24.4644158075 ],
+					[ 54.3232236918, 24.4647355003 ],
+					[ 54.3232043249, 24.4648921182 ],
+					[ 54.3231014515, 24.4655701306 ],
+					[ 54.3228838974, 24.4670116817 ],
+					[ 54.3226233125, 24.468757407 ],
+					[ 54.3224658772, 24.4699863729 ],
+					[ 54.3224115986, 24.4703396464 ],
+					[ 54.3223715518, 24.4705897289 ],
+					[ 54.3223591493, 24.4707344649 ],
+					[ 54.3223654616, 24.4709502285 ],
+					[ 54.322394945, 24.4713348029 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00338",
+				"creationtime" : "2026-02-06T09:56:50+04:00",
+				"updatetime" : "2026-02-06T14:17:20+04:00",
+				"street" : "King Salman Bin Abdulaziz Al Saud Street",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Road Closure on King Salman Bin Abdulaziz Al Saud Street.",
+				"lanePosition" : null,
+				"startTime" : "2026-02-07T10:00:00+04:00",
+				"endTime" : "2026-02-07T18:00:00+04:00",
+				"name" : "ROAD CLOSURE FOR UAE TOUR WOMEN’S EVENT IN ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.3252470297, 24.4637167636 ],
+					[ 54.3250565416, 24.4636029814 ],
+					[ 54.3248788626, 24.4634844121 ],
+					[ 54.3246200557, 24.4633117045 ],
+					[ 54.3244652086, 24.4632117664 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00343",
+				"creationtime" : "2026-02-06T09:56:50+04:00",
+				"updatetime" : "2026-02-06T14:17:20+04:00",
+				"street" : "Corniche Street",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Road Closure of Two Right Turn Lanes on Sheikha Salama Bint Butti Road (E45) in Madinat Zayed - Al Dhafra Region",
+				"lanePosition" : "Right ",
+				"lane_impact" : {
+					"total_closed_lanes" : 2,
+					"roadside" : "Right "
+				},
+				"startTime" : "2026-02-07T10:00:00+04:00",
+				"endTime" : "2026-02-07T18:00:00+04:00",
+				"name" : "ROAD CLOSURE FOR UAE TOUR WOMEN’S EVENT IN ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.3234474953, 24.4622537492 ],
+					[ 54.3236011697, 24.4623944508 ],
+					[ 54.323841991, 24.4625976248 ],
+					[ 54.3240499655, 24.462762457 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00342",
+				"creationtime" : "2026-02-06T09:56:50+04:00",
+				"updatetime" : "2026-02-06T14:17:20+04:00",
+				"street" : "Corniche Street",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Road Closure of Left Turn Lanes on Sheikha Salama Bint Butti Road (E45) in Madinat Zayed - Al Dhafra Region",
+				"lanePosition" : "Left",
+				"lane_impact" : {
+					"total_closed_lanes" : 1,
+					"roadside" : "Left"
+				},
+				"startTime" : "2026-02-07T10:00:00+04:00",
+				"endTime" : "2026-02-07T18:00:00+04:00",
+				"name" : "ROAD CLOSURE FOR UAE TOUR WOMEN’S EVENT IN ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.3782802351, 24.4362843269 ],
+					[ 54.3777193523, 24.4358101422 ],
+					[ 54.3774008673, 24.4355570091 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00344",
+				"creationtime" : "2026-02-06T11:52:42+04:00",
+				"updatetime" : "2026-02-06T15:53:52+04:00",
+				"street" : "Shakhbout Bin Sultan Street",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Road Closure of Right Lane on Shakhbout Bin Sultan St. Abu Dhabi",
+				"lanePosition" : "Right ",
+				"lane_impact" : {
+					"total_closed_lanes" : 1,
+					"roadside" : "Right "
+				},
+				"startTime" : "2026-02-08T00:01:00+04:00",
+				"endTime" : "2026-02-09T06:00:00+04:00",
+				"name" : "PARTIAL ROAD CLOSURE IN ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.3771995882, 24.4353973849 ],
+					[ 54.3768980257, 24.4351863095 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00345",
+				"creationtime" : "2026-02-06T11:52:42+04:00",
+				"updatetime" : "2026-02-06T15:53:52+04:00",
+				"street" : "Shakhbout Bin Sultan Street",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Road Closure of Right Lane on Shakhbout Bin Sultan St. Abu Dhabi",
+				"lanePosition" : "Right ",
+				"lane_impact" : {
+					"total_closed_lanes" : 1,
+					"roadside" : "Right "
+				},
+				"startTime" : "2026-02-08T00:01:00+04:00",
+				"endTime" : "2026-02-09T06:00:00+04:00",
+				"name" : "PARTIAL ROAD CLOSURE IN ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.37674515, 24.4350792803 ],
+					[ 54.3761988055, 24.4346464672 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00346",
+				"creationtime" : "2026-02-06T11:52:42+04:00",
+				"updatetime" : "2026-02-06T15:53:52+04:00",
+				"street" : "Shakhbout Bin Sultan Street",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Road Closure of Right Lane on Shakhbout Bin Sultan St. Abu Dhabi",
+				"lanePosition" : "Right ",
+				"lane_impact" : {
+					"total_closed_lanes" : 1,
+					"roadside" : "Right "
+				},
+				"startTime" : "2026-02-08T00:01:00+04:00",
+				"endTime" : "2026-02-09T06:00:00+04:00",
+				"name" : "PARTIAL ROAD CLOSURE IN ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.3760760265, 24.4345500365 ],
+					[ 54.3757432342, 24.4342868139 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00347",
+				"creationtime" : "2026-02-06T11:52:42+04:00",
+				"updatetime" : "2026-02-06T15:53:52+04:00",
+				"street" : "Shakhbout Bin Sultan Street",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Road Closure of Right Lane on Shakhbout Bin Sultan St. Abu Dhabi",
+				"lanePosition" : "Right ",
+				"lane_impact" : {
+					"total_closed_lanes" : 1,
+					"roadside" : "Right "
+				},
+				"startTime" : "2026-02-08T00:01:00+04:00",
+				"endTime" : "2026-02-09T06:00:00+04:00",
+				"name" : "PARTIAL ROAD CLOSURE IN ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.3755948622, 24.4341698714 ],
+					[ 54.3748413895, 24.4335704157 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00348",
+				"creationtime" : "2026-02-06T11:52:42+04:00",
+				"updatetime" : "2026-02-06T15:53:52+04:00",
+				"street" : "Shakhbout Bin Sultan Street",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Road Closure of Right Lane on Shakhbout Bin Sultan St. Abu Dhabi",
+				"lanePosition" : "Right ",
+				"lane_impact" : {
+					"total_closed_lanes" : 1,
+					"roadside" : "Right "
+				},
+				"startTime" : "2026-02-08T00:01:00+04:00",
+				"endTime" : "2026-02-09T06:00:00+04:00",
+				"name" : "PARTIAL ROAD CLOSURE IN ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.3746987642, 24.4334580086 ],
+					[ 54.3739844354, 24.4328813885 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00349",
+				"creationtime" : "2026-02-06T11:52:42+04:00",
+				"updatetime" : "2026-02-06T15:53:52+04:00",
+				"street" : "Shakhbout Bin Sultan Street",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Road Closure of Right Lane on Shakhbout Bin Sultan St. Abu Dhabi",
+				"lanePosition" : "Right ",
+				"lane_impact" : {
+					"total_closed_lanes" : 1,
+					"roadside" : "Right "
+				},
+				"startTime" : "2026-02-08T00:01:00+04:00",
+				"endTime" : "2026-02-09T06:00:00+04:00",
+				"name" : "PARTIAL ROAD CLOSURE IN ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.3733952914, 24.4314784299 ],
+					[ 54.3738163818, 24.4317995337 ],
+					[ 54.3741228258, 24.432039873 ],
+					[ 54.3749115205, 24.4327119733 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00350",
+				"creationtime" : "2026-02-06T11:52:42+04:00",
+				"updatetime" : "2026-02-06T15:53:52+04:00",
+				"street" : "Shakhbout Bin Sultan Street",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Road Closure of Right Lane on Shakhbout Bin Sultan St. Abu Dhabi",
+				"lanePosition" : "Right ",
+				"lane_impact" : {
+					"total_closed_lanes" : 2,
+					"roadside" : "Right "
+				},
+				"startTime" : "2026-02-08T00:01:00+04:00",
+				"endTime" : "2026-02-09T06:00:00+04:00",
+				"name" : "PARTIAL ROAD CLOSURE IN ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.3717520528, 24.4335828453 ],
+					[ 54.372215487, 24.4331151286 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00351",
+				"creationtime" : "2026-02-06T11:52:42+04:00",
+				"updatetime" : "2026-02-06T15:53:52+04:00",
+				"street" : "Al Bateen Street",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Road Closureof Right Lane on Al Bateen Street Abu Dhabi",
+				"lanePosition" : "Right ",
+				"lane_impact" : {
+					"total_closed_lanes" : 1,
+					"roadside" : "Right "
+				},
+				"startTime" : "2026-02-08T00:01:00+04:00",
+				"endTime" : "2026-02-09T06:00:00+04:00",
+				"name" : "PARTIAL ROAD CLOSURE IN ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.372326939, 24.4330034903 ],
+					[ 54.3724687918, 24.4328613974 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00352",
+				"creationtime" : "2026-02-06T11:52:42+04:00",
+				"updatetime" : "2026-02-06T15:53:52+04:00",
+				"street" : "Al Bateen Street",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Road Closureof Right Lane on Al Bateen Street Abu Dhabi",
+				"lanePosition" : "Right ",
+				"lane_impact" : {
+					"total_closed_lanes" : 1,
+					"roadside" : "Right "
+				},
+				"startTime" : "2026-02-08T00:01:00+04:00",
+				"endTime" : "2026-02-09T06:00:00+04:00",
+				"name" : "PARTIAL ROAD CLOSURE IN ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.3725515483, 24.4327785015 ],
+					[ 54.3729314939, 24.4323979138 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00353",
+				"creationtime" : "2026-02-06T11:52:42+04:00",
+				"updatetime" : "2026-02-06T15:53:52+04:00",
+				"street" : "Al Bateen Street",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Road Closureof Right Lane on Al Bateen Street Abu Dhabi",
+				"lanePosition" : "Right ",
+				"lane_impact" : {
+					"total_closed_lanes" : 1,
+					"roadside" : "Right "
+				},
+				"startTime" : "2026-02-08T00:01:00+04:00",
+				"endTime" : "2026-02-09T06:00:00+04:00",
+				"name" : "PARTIAL ROAD CLOSURE IN ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.3731746202, 24.4321488142 ],
+					[ 54.3734436587, 24.4318684811 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00354",
+				"creationtime" : "2026-02-06T11:52:42+04:00",
+				"updatetime" : "2026-02-06T15:53:52+04:00",
+				"street" : "Al Bateen Street",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Road Closureof Right Lane on Al Bateen Street Abu Dhabi",
+				"lanePosition" : "Right ",
+				"lane_impact" : {
+					"total_closed_lanes" : 1,
+					"roadside" : "Right "
+				},
+				"startTime" : "2026-02-08T00:01:00+04:00",
+				"endTime" : "2026-02-09T06:00:00+04:00",
+				"name" : "PARTIAL ROAD CLOSURE IN ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.6292866174, 24.4098026705 ],
+					[ 54.6289584278, 24.4097003042 ],
+					[ 54.6287885171, 24.4096441982 ],
+					[ 54.6286587692, 24.4096110816 ],
+					[ 54.6284102065, 24.4095720627 ],
+					[ 54.6281205088, 24.4095614048 ],
+					[ 54.6277508892, 24.4096044347 ],
+					[ 54.6273599026, 24.4097224329 ],
+					[ 54.6269450679, 24.4099567351 ],
+					[ 54.626638417, 24.4102294491 ],
+					[ 54.6263945182, 24.4105732483 ],
+					[ 54.62623894, 24.4109511614 ],
+					[ 54.6261755468, 24.4114318913 ],
+					[ 54.6262325179, 24.4118202266 ],
+					[ 54.6263846463, 24.4122182387 ],
+					[ 54.6266614352, 24.4126010756 ],
+					[ 54.6270047891, 24.4128895259 ],
+					[ 54.6273685541, 24.413085276 ],
+					[ 54.6277124944, 24.4131915758 ],
+					[ 54.6280641482, 24.4132394584 ],
+					[ 54.6284152984, 24.4132334177 ],
+					[ 54.6286674288, 24.4131915695 ],
+					[ 54.6302902743, 24.4127430884 ],
+					[ 54.6322677081, 24.4121517716 ],
+					[ 54.634000047, 24.4116172748 ],
+					[ 54.63534744, 24.4112176853 ],
+					[ 54.6361983759, 24.4109944224 ],
+					[ 54.6369172669, 24.4108297538 ],
+					[ 54.6376443796, 24.410698352 ],
+					[ 54.6387718381, 24.4105574625 ],
+					[ 54.640461049, 24.4104434248 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00355",
+				"creationtime" : "2026-02-06T12:22:58+04:00",
+				"updatetime" : "2026-02-06T16:24:45+04:00",
+				"street" : "Sweihan Road",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Road Closure of Ramp from Old Airport Terminal Towards Sweihan Road (E20) - Abu Dhabi",
+				"lanePosition" : null,
+				"startTime" : "2026-02-07T00:01:00+04:00",
+				"endTime" : "2026-02-16T05:00:00+04:00",
+				"name" : "PARTIAL ROAD CLOSURE IN ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.6351943466, 24.4095619067 ],
+					[ 54.6371354101, 24.4099571227 ],
+					[ 54.6388200381, 24.4101970816 ],
+					[ 54.6400162048, 24.4103036018 ],
+					[ 54.6419978798, 24.4103355835 ],
+					[ 54.6450983942, 24.410219607 ],
+					[ 54.6461155994, 24.4101736642 ],
+					[ 54.6477551759, 24.4101058454 ],
+					[ 54.6493340274, 24.4100357226 ],
+					[ 54.6511823762, 24.4099574717 ],
+					[ 54.6524520201, 24.4099050826 ],
+					[ 54.6557126786, 24.4097636543 ],
+					[ 54.6582955189, 24.4096534963 ],
+					[ 54.6618567101, 24.4095035883 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00356",
+				"creationtime" : "2026-02-06T12:22:58+04:00",
+				"updatetime" : "2026-02-06T16:24:50+04:00",
+				"street" : "Sweihan Road",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Road Closure of Right Lane on Sweihan Road (E20) - Abu Dhabi",
+				"lanePosition" : "Right ",
+				"lane_impact" : {
+					"total_closed_lanes" : 1,
+					"roadside" : "Right "
+				},
+				"startTime" : "2026-02-07T00:01:00+04:00",
+				"endTime" : "2026-02-16T05:00:00+04:00",
+				"name" : "PARTIAL ROAD CLOSURE IN ABU DHABI"
 			}
 		}
 	]
