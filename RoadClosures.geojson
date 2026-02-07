@@ -1065,6 +1065,114 @@
 				"endTime" : "2026-02-16T05:00:00+04:00",
 				"name" : "PARTIAL ROAD CLOSURE IN ABU DHABI"
 			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.3974365052, 24.4964872847 ],
+					[ 54.3975321328, 24.4969968792 ],
+					[ 54.3975825371, 24.4972602304 ],
+					[ 54.3976181655, 24.4977555851 ],
+					[ 54.3976332076, 24.4979647386 ],
+					[ 54.3976439707, 24.4982813845 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00357",
+				"creationtime" : "2026-02-06T21:26:41+04:00",
+				"updatetime" : "2026-02-07T01:28:06+04:00",
+				"street" : "Hazzaʹ Bin Zayed The First Street",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Road Closure on Hazzaʹ Bin Zayed The First Street in Al Reem Island - Abu Dhabi",
+				"lanePosition" : null,
+				"startTime" : "2026-02-08T00:01:00+04:00",
+				"endTime" : "2026-02-28T23:59:00+04:00",
+				"name" : "ROAD CLOSURE IN AL REEM ISLAND - ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.3973809235, 24.4981681095 ],
+					[ 54.3973846197, 24.4981002772 ],
+					[ 54.3973734097, 24.4979818068 ],
+					[ 54.3972484489, 24.4971156041 ],
+					[ 54.3972020196, 24.4967626769 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00358",
+				"creationtime" : "2026-02-06T21:26:41+04:00",
+				"updatetime" : "2026-02-07T01:28:06+04:00",
+				"street" : "Hazzaʹ Bin Zayed The First Street",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Road Closure on Hazzaʹ Bin Zayed The First Street in Al Reem Island - Abu Dhabi",
+				"lanePosition" : null,
+				"startTime" : "2026-02-08T00:01:00+04:00",
+				"endTime" : "2026-02-28T23:59:00+04:00",
+				"name" : "ROAD CLOSURE IN AL REEM ISLAND - ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.3976439707, 24.4982813845 ],
+					[ 54.3972256834, 24.4982962979 ],
+					[ 54.3960050408, 24.498326374 ],
+					[ 54.3957593145, 24.4983360651 ],
+					[ 54.3956252517, 24.498339701 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00359",
+				"creationtime" : "2026-02-06T21:26:41+04:00",
+				"updatetime" : "2026-02-07T01:28:06+04:00",
+				"street" : "Al Maryah Street",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Road Closure on Al Maryah Street in Al Reem Island - Abu Dhabi",
+				"lanePosition" : null,
+				"startTime" : "2026-02-08T00:01:00+04:00",
+				"endTime" : "2026-02-28T23:59:00+04:00",
+				"name" : "ROAD CLOSURE IN AL REEM ISLAND - ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.3956032642, 24.4981844538 ],
+					[ 54.3958651333, 24.4981808682 ],
+					[ 54.3972124877, 24.4981728948 ],
+					[ 54.3973809235, 24.4981681095 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00360",
+				"creationtime" : "2026-02-06T21:26:41+04:00",
+				"updatetime" : "2026-02-07T01:28:06+04:00",
+				"street" : "Al Maryah Street",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Road Closure on Al Maryah Street in Al Reem Island - Abu Dhabi",
+				"lanePosition" : null,
+				"startTime" : "2026-02-08T00:01:00+04:00",
+				"endTime" : "2026-02-28T23:59:00+04:00",
+				"name" : "ROAD CLOSURE IN AL REEM ISLAND - ABU DHABI"
+			}
 		}
 	]
 }
