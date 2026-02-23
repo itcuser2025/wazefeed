@@ -215,7 +215,7 @@
 			"properties" : {
 				"id" : "AD00355",
 				"creationtime" : "2026-02-06T12:22:58+04:00",
-				"updatetime" : "2026-02-06T16:24:45+04:00",
+				"updatetime" : "2026-02-23T12:50:12+04:00",
 				"street" : "Sweihan Road",
 				"type" : "ROAD_CLOSED",
 				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
@@ -223,7 +223,7 @@
 				"description" : "Road Closure of Ramp from Old Airport Terminal Towards Sweihan Road (E20) - Abu Dhabi",
 				"lanePosition" : null,
 				"startTime" : "2026-02-16T00:01:00+04:00",
-				"endTime" : "2026-02-23T05:00:00+04:00",
+				"endTime" : "2026-02-26T06:00:00+04:00",
 				"name" : "PARTIAL ROAD CLOSURE IN ABU DHABI"
 			}
 		},
@@ -251,19 +251,19 @@
 			"properties" : {
 				"id" : "AD00356",
 				"creationtime" : "2026-02-06T12:22:58+04:00",
-				"updatetime" : "2026-02-06T16:24:50+04:00",
+				"updatetime" : "2026-02-23T12:50:12+04:00",
 				"street" : "Sweihan Road",
 				"type" : "HAZARD",
 				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
 				"direction" : "ONE_DIRECTION",
-				"description" : "Partial Road Closure of Right Lane on Sweihan Road (E20) - Abu Dhabi",
-				"lanePosition" : "Right ",
+				"description" : "Partial Road Closure of Left Lane on Sweihan Road (E20) - Abu Dhabi",
+				"lanePosition" : "Left",
 				"lane_impact" : {
 					"total_closed_lanes" : 1,
-					"roadside" : "Right "
+					"roadside" : "Left"
 				},
 				"startTime" : "2026-02-16T00:01:00+04:00",
-				"endTime" : "2026-02-23T05:00:00+04:00",
+				"endTime" : "2026-02-26T06:00:00+04:00",
 				"name" : "PARTIAL ROAD CLOSURE IN ABU DHABI"
 			}
 		},
@@ -373,374 +373,6 @@
 				"startTime" : "2026-02-08T00:01:00+04:00",
 				"endTime" : "2026-02-28T23:59:00+04:00",
 				"name" : "ROAD CLOSURE IN AL REEM ISLAND - ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.3224278674, 24.4715620103 ],
-					[ 54.3224431738, 24.4716463802 ],
-					[ 54.3224735394, 24.4717708437 ],
-					[ 54.3225018636, 24.4718672384 ],
-					[ 54.3225481256, 24.4719940491 ],
-					[ 54.3225787817, 24.4720664013 ],
-					[ 54.3226517257, 24.4722581863 ],
-					[ 54.3227342898, 24.4723982602 ],
-					[ 54.3228386282, 24.4725448883 ],
-					[ 54.3231679348, 24.472998492 ],
-					[ 54.3232745728, 24.4731626659 ],
-					[ 54.3233260023, 24.4732534291 ],
-					[ 54.3233734047, 24.473346008 ],
-					[ 54.3234598466, 24.4735345743 ],
-					[ 54.3235146926, 24.4736952588 ],
-					[ 54.3235641077, 24.4738887588 ],
-					[ 54.3236090243, 24.4741419089 ],
-					[ 54.3236230843, 24.4743327154 ],
-					[ 54.3236262194, 24.4745788472 ],
-					[ 54.3236384439, 24.4747608304 ],
-					[ 54.3236540453, 24.4748824008 ],
-					[ 54.3237072762, 24.475138141 ],
-					[ 54.3237444227, 24.4752719107 ],
-					[ 54.3237999603, 24.4754245454 ],
-					[ 54.3238300426, 24.4754959453 ],
-					[ 54.3239485661, 24.4757378971 ],
-					[ 54.324033624, 24.4758780726 ],
-					[ 54.3241162869, 24.4759976033 ],
-					[ 54.3242284675, 24.4761420893 ],
-					[ 54.3244514472, 24.4763710693 ],
-					[ 54.3246585538, 24.4766048642 ],
-					[ 54.3247875508, 24.4767281361 ],
-					[ 54.324886782, 24.4768289681 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00396",
-				"creationtime" : "2026-02-20T11:47:22+04:00",
-				"updatetime" : "2026-02-06T14:17:20+04:00",
-				"street" : "King Salman Bin Abdulaziz Al Saud Street",
-				"type" : "ROAD_CLOSED",
-				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Road Closure on King Salman Bin Abdulaziz Al Saud Street.",
-				"lanePosition" : null,
-				"startTime" : "2026-02-22T04:00:00+04:00",
-				"endTime" : "2026-02-22T21:00:00+04:00",
-				"name" : "ROAD CLOSURE FOR UAE TOUR MEN’S EVENT IN ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.322158363, 24.47207598 ],
-					[ 54.3221898645, 24.4720514447 ],
-					[ 54.3222445172, 24.4720223858 ],
-					[ 54.3223059085, 24.4720086262 ],
-					[ 54.3223447682, 24.4720088097 ],
-					[ 54.322402314, 24.4720213876 ],
-					[ 54.3224319062, 24.4720353972 ],
-					[ 54.32248135, 24.4720759503 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00397",
-				"creationtime" : "2026-02-20T11:47:22+04:00",
-				"updatetime" : "2026-02-06T14:17:20+04:00",
-				"street" : "King Salman Bin Abdulaziz Al Saud Street",
-				"type" : "ROAD_CLOSED",
-				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Road Closure on King Salman Bin Abdulaziz Al Saud Street.",
-				"lanePosition" : null,
-				"startTime" : "2026-02-22T04:00:00+04:00",
-				"endTime" : "2026-02-22T21:00:00+04:00",
-				"name" : "ROAD CLOSURE FOR UAE TOUR MEN’S EVENT IN ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.3229124437, 24.4718002083 ],
-					[ 54.3228387109, 24.4717880135 ],
-					[ 54.322791975, 24.4717883436 ],
-					[ 54.3227342007, 24.4718049792 ],
-					[ 54.3227078722, 24.4718188171 ],
-					[ 54.3226783762, 24.4718395851 ],
-					[ 54.3226532554, 24.4718647158 ],
-					[ 54.3226332734, 24.4718934509 ],
-					[ 54.3226190344, 24.4719249209 ],
-					[ 54.322600825, 24.4719888699 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00398",
-				"creationtime" : "2026-02-20T11:47:22+04:00",
-				"updatetime" : "2026-02-06T14:17:20+04:00",
-				"street" : "King Salman Bin Abdulaziz Al Saud Street",
-				"type" : "ROAD_CLOSED",
-				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Road Closure on King Salman Bin Abdulaziz Al Saud Street.",
-				"lanePosition" : null,
-				"startTime" : "2026-02-22T04:00:00+04:00",
-				"endTime" : "2026-02-22T21:00:00+04:00",
-				"name" : "ROAD CLOSURE FOR UAE TOUR MEN’S EVENT IN ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.322394945, 24.4713348029 ],
-					[ 54.3225285051, 24.4713702883 ],
-					[ 54.3227166118, 24.4714498414 ],
-					[ 54.3229033569, 24.4715630076 ],
-					[ 54.3230218938, 24.4716359346 ],
-					[ 54.3232762788, 24.4718154212 ],
-					[ 54.3237728727, 24.4721676776 ],
-					[ 54.3243223144, 24.4725580014 ],
-					[ 54.3248704449, 24.4729452944 ],
-					[ 54.3255950853, 24.4734415457 ],
-					[ 54.3264736043, 24.474052314 ],
-					[ 54.3279450192, 24.4750684714 ],
-					[ 54.3286752975, 24.4755716871 ],
-					[ 54.3298763079, 24.4764007226 ],
-					[ 54.3302747472, 24.476678596 ],
-					[ 54.3305591578, 24.4769022943 ],
-					[ 54.3312359021, 24.4774536363 ],
-					[ 54.3316762839, 24.4778156979 ],
-					[ 54.3317953686, 24.477931429 ],
-					[ 54.3320135081, 24.4781805538 ],
-					[ 54.3322246509, 24.4784255192 ],
-					[ 54.3323516478, 24.478568283 ],
-					[ 54.3323966778, 24.478618368 ],
-					[ 54.332424304, 24.4786344776 ],
-					[ 54.3324561319, 24.4786415742 ],
-					[ 54.3324849201, 24.4786329326 ],
-					[ 54.3325143927, 24.4786240868 ],
-					[ 54.3325312829, 24.4785087524 ],
-					[ 54.3325345528, 24.4784906301 ],
-					[ 54.3325405387, 24.4784831199 ],
-					[ 54.3325534458, 24.4784758462 ],
-					[ 54.3327401837, 24.4783995099 ],
-					[ 54.3329306044, 24.478316364 ],
-					[ 54.3329775679, 24.4783040253 ],
-					[ 54.33301428, 24.4783051809 ],
-					[ 54.3330365904, 24.4783147183 ],
-					[ 54.3330611212, 24.4783397428 ],
-					[ 54.3330701378, 24.4783719574 ],
-					[ 54.333061962, 24.4784043591 ],
-					[ 54.3330384241, 24.4784296921 ],
-					[ 54.3329538222, 24.4784649644 ],
-					[ 54.3328429402, 24.4785101014 ],
-					[ 54.3327099224, 24.4785692857 ],
-					[ 54.3326050309, 24.4786326646 ],
-					[ 54.3325476595, 24.4786602756 ],
-					[ 54.3324570313, 24.4787038657 ],
-					[ 54.3324147209, 24.4787112006 ],
-					[ 54.3323806464, 24.4787052426 ],
-					[ 54.3323506298, 24.4786893264 ],
-					[ 54.3323382236, 24.4786781514 ],
-					[ 54.3322839109, 24.4786145576 ],
-					[ 54.3321769869, 24.4784872568 ],
-					[ 54.3317695131, 24.4780067607 ],
-					[ 54.3316715949, 24.4779072129 ],
-					[ 54.3314426769, 24.4777136087 ],
-					[ 54.3311540944, 24.477477453 ],
-					[ 54.3307361578, 24.4771375938 ],
-					[ 54.3306805114, 24.4770924892 ],
-					[ 54.3302899673, 24.4767763838 ],
-					[ 54.3298368601, 24.4764590311 ],
-					[ 54.3286038689, 24.4756080548 ],
-					[ 54.3262681047, 24.4739958563 ],
-					[ 54.3260934465, 24.4738766899 ],
-					[ 54.325989653, 24.4738153588 ],
-					[ 54.3258523742, 24.4737529656 ],
-					[ 54.3257254924, 24.4737072108 ],
-					[ 54.3255707263, 24.4736347776 ],
-					[ 54.3254564827, 24.4735667826 ],
-					[ 54.3253399324, 24.473469574 ],
-					[ 54.3253235809, 24.4734548224 ],
-					[ 54.3247170458, 24.4730207286 ],
-					[ 54.323460013, 24.4721178543 ],
-					[ 54.3230914033, 24.4718421932 ],
-					[ 54.3227466509, 24.4715941242 ],
-					[ 54.3225800156, 24.4715081139 ],
-					[ 54.3224107901, 24.4714600685 ],
-					[ 54.3222699086, 24.4714338389 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00399",
-				"creationtime" : "2026-02-20T11:58:29+04:00",
-				"updatetime" : "2026-02-06T14:17:20+04:00",
-				"street" : "Khamis Bin Zaal Al Rumaithi Street",
-				"type" : "ROAD_CLOSED",
-				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Road Closure on Khamis Bin Zaal Al Rumaithi Street.",
-				"lanePosition" : null,
-				"startTime" : "2026-02-22T10:00:00+04:00",
-				"endTime" : "2026-02-22T18:00:00+04:00",
-				"name" : "ROAD CLOSURE FOR UAE TOUR MEN’S EVENT IN ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.3245958549, 24.4626232438 ],
-					[ 54.3243762495, 24.4629004976 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00400",
-				"creationtime" : "2026-02-20T11:58:29+04:00",
-				"updatetime" : "2026-02-06T14:17:20+04:00",
-				"street" : "King Salman Bin Abdulaziz Al Saud Street",
-				"type" : "ROAD_CLOSED",
-				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Road Closure of Strieght Lanes on Intersection of King Salman Bin Abdulaziz Al Saud Street.",
-				"lanePosition" : null,
-				"startTime" : "2026-02-22T10:00:00+04:00",
-				"endTime" : "2026-02-22T18:00:00+04:00",
-				"name" : "ROAD CLOSURE FOR UAE TOUR MEN’S EVENT IN ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.3221095271, 24.4719795313 ],
-					[ 54.3221347684, 24.4718755175 ],
-					[ 54.3221461493, 24.4718160607 ],
-					[ 54.3221572353, 24.4717446068 ],
-					[ 54.3221663922, 24.4716486123 ],
-					[ 54.3221541569, 24.4714758166 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00401",
-				"creationtime" : "2026-02-20T11:58:29+04:00",
-				"updatetime" : "2026-02-06T14:17:20+04:00",
-				"street" : "King Salman Bin Abdulaziz Al Saud Street",
-				"type" : "ROAD_CLOSED",
-				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Road Closure of Strieght Lanes on Intersection of King Salman Bin Abdulaziz Al Saud Street.",
-				"lanePosition" : null,
-				"startTime" : "2026-02-22T10:00:00+04:00",
-				"endTime" : "2026-02-22T18:00:00+04:00",
-				"name" : "ROAD CLOSURE FOR UAE TOUR MEN’S EVENT IN ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.3241765865, 24.4631417587 ],
-					[ 54.3238210764, 24.4635713172 ],
-					[ 54.3236579681, 24.4638144786 ],
-					[ 54.32352506, 24.4640169186 ],
-					[ 54.3234466742, 24.4641506496 ],
-					[ 54.3233271219, 24.4644158075 ],
-					[ 54.3232236918, 24.4647355003 ],
-					[ 54.3232043249, 24.4648921182 ],
-					[ 54.3231014515, 24.4655701306 ],
-					[ 54.3228838974, 24.4670116817 ],
-					[ 54.3226233125, 24.468757407 ],
-					[ 54.3224658772, 24.4699863729 ],
-					[ 54.3224115986, 24.4703396464 ],
-					[ 54.3223715518, 24.4705897289 ],
-					[ 54.3223591493, 24.4707344649 ],
-					[ 54.3223654616, 24.4709502285 ],
-					[ 54.322394945, 24.4713348029 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00402",
-				"creationtime" : "2026-02-20T11:58:29+04:00",
-				"updatetime" : "2026-02-06T14:17:20+04:00",
-				"street" : "King Salman Bin Abdulaziz Al Saud Street",
-				"type" : "ROAD_CLOSED",
-				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Road Closure on King Salman Bin Abdulaziz Al Saud Street.",
-				"lanePosition" : null,
-				"startTime" : "2026-02-22T10:00:00+04:00",
-				"endTime" : "2026-02-22T18:00:00+04:00",
-				"name" : "ROAD CLOSURE FOR UAE TOUR MEN’S EVENT IN ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.3252470297, 24.4637167636 ],
-					[ 54.3250565416, 24.4636029814 ],
-					[ 54.3248788626, 24.4634844121 ],
-					[ 54.3246200557, 24.4633117045 ],
-					[ 54.3244652086, 24.4632117664 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00403",
-				"creationtime" : "2026-02-20T11:58:29+04:00",
-				"updatetime" : "2026-02-06T14:17:20+04:00",
-				"street" : "Corniche Street",
-				"type" : "HAZARD",
-				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Partial Road Closure of Left Turn Lanes on Coniche Street",
-				"lanePosition" : "Right ",
-				"lane_impact" : {
-					"total_closed_lanes" : 2,
-					"roadside" : "Right "
-				},
-				"startTime" : "2026-02-22T10:00:00+04:00",
-				"endTime" : "2026-02-22T18:00:00+04:00",
-				"name" : "ROAD CLOSURE FOR UAE TOUR MEN’S EVENT IN ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.3234474953, 24.4622537492 ],
-					[ 54.3236011697, 24.4623944508 ],
-					[ 54.323841991, 24.4625976248 ],
-					[ 54.3240499655, 24.462762457 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00404",
-				"creationtime" : "2026-02-20T11:58:29+04:00",
-				"updatetime" : "2026-02-06T14:17:20+04:00",
-				"street" : "Corniche Street",
-				"type" : "HAZARD",
-				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Partial Road Closure of Left Turn Lanes on Coniche Street",
-				"lanePosition" : "Left",
-				"lane_impact" : {
-					"total_closed_lanes" : 1,
-					"roadside" : "Left"
-				},
-				"startTime" : "2026-02-22T10:00:00+04:00",
-				"endTime" : "2026-02-22T18:00:00+04:00",
-				"name" : "ROAD CLOSURE FOR UAE TOUR MEN’S EVENT IN ABU DHABI"
 			}
 		}
 	]
