@@ -179,99 +179,6 @@
 			"geometry" : {
 				"type" : "LineString",
 				"coordinates" : [
-					[ 54.6292866174, 24.4098026705 ],
-					[ 54.6289584278, 24.4097003042 ],
-					[ 54.6287885171, 24.4096441982 ],
-					[ 54.6286587692, 24.4096110816 ],
-					[ 54.6284102065, 24.4095720627 ],
-					[ 54.6281205088, 24.4095614048 ],
-					[ 54.6277508892, 24.4096044347 ],
-					[ 54.6273599026, 24.4097224329 ],
-					[ 54.6269450679, 24.4099567351 ],
-					[ 54.626638417, 24.4102294491 ],
-					[ 54.6263945182, 24.4105732483 ],
-					[ 54.62623894, 24.4109511614 ],
-					[ 54.6261755468, 24.4114318913 ],
-					[ 54.6262325179, 24.4118202266 ],
-					[ 54.6263846463, 24.4122182387 ],
-					[ 54.6266614352, 24.4126010756 ],
-					[ 54.6270047891, 24.4128895259 ],
-					[ 54.6273685541, 24.413085276 ],
-					[ 54.6277124944, 24.4131915758 ],
-					[ 54.6280641482, 24.4132394584 ],
-					[ 54.6284152984, 24.4132334177 ],
-					[ 54.6286674288, 24.4131915695 ],
-					[ 54.6302902743, 24.4127430884 ],
-					[ 54.6322677081, 24.4121517716 ],
-					[ 54.634000047, 24.4116172748 ],
-					[ 54.63534744, 24.4112176853 ],
-					[ 54.6361983759, 24.4109944224 ],
-					[ 54.6369172669, 24.4108297538 ],
-					[ 54.6376443796, 24.410698352 ],
-					[ 54.6387718381, 24.4105574625 ],
-					[ 54.640461049, 24.4104434248 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00355",
-				"creationtime" : "2026-02-06T12:22:58+04:00",
-				"updatetime" : "2026-02-23T12:50:12+04:00",
-				"street" : "Sweihan Road",
-				"type" : "ROAD_CLOSED",
-				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Road Closure of Ramp from Old Airport Terminal Towards Sweihan Road (E20) - Abu Dhabi",
-				"lanePosition" : null,
-				"startTime" : "2026-02-16T00:01:00+04:00",
-				"endTime" : "2026-02-26T06:00:00+04:00",
-				"name" : "PARTIAL ROAD CLOSURE IN ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.6351943466, 24.4095619067 ],
-					[ 54.6371354101, 24.4099571227 ],
-					[ 54.6388200381, 24.4101970816 ],
-					[ 54.6400162048, 24.4103036018 ],
-					[ 54.6419978798, 24.4103355835 ],
-					[ 54.6450983942, 24.410219607 ],
-					[ 54.6461155994, 24.4101736642 ],
-					[ 54.6477551759, 24.4101058454 ],
-					[ 54.6493340274, 24.4100357226 ],
-					[ 54.6511823762, 24.4099574717 ],
-					[ 54.6524520201, 24.4099050826 ],
-					[ 54.6557126786, 24.4097636543 ],
-					[ 54.6582955189, 24.4096534963 ],
-					[ 54.6618567101, 24.4095035883 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00356",
-				"creationtime" : "2026-02-06T12:22:58+04:00",
-				"updatetime" : "2026-02-23T12:50:12+04:00",
-				"street" : "Sweihan Road",
-				"type" : "HAZARD",
-				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Partial Road Closure of Left Lane on Sweihan Road (E20) - Abu Dhabi",
-				"lanePosition" : "Left",
-				"lane_impact" : {
-					"total_closed_lanes" : 1,
-					"roadside" : "Left"
-				},
-				"startTime" : "2026-02-16T00:01:00+04:00",
-				"endTime" : "2026-02-26T06:00:00+04:00",
-				"name" : "PARTIAL ROAD CLOSURE IN ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
 					[ 54.3974365052, 24.4964872847 ],
 					[ 54.3975321328, 24.4969968792 ],
 					[ 54.3975825371, 24.4972602304 ],
@@ -373,6 +280,99 @@
 				"startTime" : "2026-02-08T00:01:00+04:00",
 				"endTime" : "2026-02-28T23:59:00+04:00",
 				"name" : "ROAD CLOSURE IN AL REEM ISLAND - ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.3318155709, 24.4586570384 ],
+					[ 54.331726485, 24.4586944277 ],
+					[ 54.3316580385, 24.4587535186 ],
+					[ 54.3316255172, 24.4587885993 ],
+					[ 54.3316063212, 24.4588184532 ],
+					[ 54.3315926182, 24.4588512677 ],
+					[ 54.331584491, 24.458885602 ],
+					[ 54.33158333, 24.4589328713 ],
+					[ 54.3315974602, 24.4590442721 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00405",
+				"creationtime" : "2026-02-27T07:47:34+04:00",
+				"updatetime" : "2026-02-27T11:48:15+04:00",
+				"street" : "None",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Road Closure of Free Right Turn on Intersections of  King Abdullah Bin Abdulaziz Al Saud St. Abu Dhabi",
+				"lanePosition" : null,
+				"startTime" : "2026-02-28T00:01:00+04:00",
+				"endTime" : "2026-02-28T23:30:00+04:00",
+				"name" : "PARTIAL ROAD CLOSURE ON KING ABDULLAH BIN ABDULAZIZ AL SAUD ST. ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.3314998136, 24.4591965705 ],
+					[ 54.3313886007, 24.4591237614 ],
+					[ 54.3313170785, 24.4590872156 ],
+					[ 54.3311733776, 24.4590248036 ],
+					[ 54.3308278671, 24.4589410587 ],
+					[ 54.3307029864, 24.458938322 ],
+					[ 54.3304928714, 24.458960958 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00406",
+				"creationtime" : "2026-02-27T07:47:34+04:00",
+				"updatetime" : "2026-02-27T11:48:15+04:00",
+				"street" : "None",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Road Closure of Free Right Turn on Intersections of  King Abdullah Bin Abdulaziz Al Saud St. Abu Dhabi",
+				"lanePosition" : null,
+				"startTime" : "2026-02-28T00:01:00+04:00",
+				"endTime" : "2026-02-28T23:30:00+04:00",
+				"name" : "PARTIAL ROAD CLOSURE ON KING ABDULLAH BIN ABDULAZIZ AL SAUD ST. ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.3224625821, 24.4608383296 ],
+					[ 54.3224124827, 24.4609126001 ],
+					[ 54.3223789874, 24.4609702206 ],
+					[ 54.3223565988, 24.4610139187 ],
+					[ 54.3223449391, 24.4610513017 ],
+					[ 54.3223404622, 24.4610869859 ],
+					[ 54.3223436171, 24.461131952 ],
+					[ 54.3223549377, 24.4611745358 ],
+					[ 54.3223736337, 24.4612342921 ],
+					[ 54.3223991799, 24.4612862918 ],
+					[ 54.322474963, 24.4613736601 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00407",
+				"creationtime" : "2026-02-27T07:47:34+04:00",
+				"updatetime" : "2026-02-27T11:48:15+04:00",
+				"street" : "None",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Road Closure of Free Right Turn on Intersections of  King Abdullah Bin Abdulaziz Al Saud St. Abu Dhabi",
+				"lanePosition" : null,
+				"startTime" : "2026-03-01T00:01:00+04:00",
+				"endTime" : "2026-03-02T05:00:00+04:00",
+				"name" : "PARTIAL ROAD CLOSURE ON KING ABDULLAH BIN ABDULAZIZ AL SAUD ST. ABU DHABI"
 			}
 		}
 	]
