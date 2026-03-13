@@ -244,6 +244,265 @@
 				"endTime" : "2026-03-17T23:00:00+04:00",
 				"name" : "PARTIAL ROAD CLOSURE IN ABU DHABI"
 			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.4079441723, 24.5299151256 ],
+					[ 54.4086620192, 24.5303500494 ],
+					[ 54.4094474035, 24.5308516013 ],
+					[ 54.40971244, 24.531023031 ],
+					[ 54.4104960804, 24.531531415 ],
+					[ 54.4106809577, 24.5316711229 ],
+					[ 54.4108342525, 24.531783388 ],
+					[ 54.4111195894, 24.5319697158 ],
+					[ 54.4113766004, 24.5321383702 ],
+					[ 54.4114217949, 24.5321860199 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00410",
+				"creationtime" : "2026-03-13T06:55:43+04:00",
+				"updatetime" : "2026-03-13T10:56:30+04:00",
+				"street" : "None",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Road Closures in Saadiyat Island - Abu Dhabi",
+				"lanePosition" : null,
+				"startTime" : "2026-03-14T00:01:00+04:00",
+				"endTime" : "2026-08-09T23:59:00+04:00",
+				"name" : "ROAD CLOSURE IN SAADIYAT ISLAND - ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.4113641789, 24.5322805287 ],
+					[ 54.4112924859, 24.5322220521 ],
+					[ 54.4105671907, 24.5317761179 ],
+					[ 54.4099578964, 24.5314030917 ],
+					[ 54.4093756538, 24.5310232927 ],
+					[ 54.4087714478, 24.5306302494 ],
+					[ 54.4085861641, 24.5304946199 ],
+					[ 54.4083762938, 24.530358905 ],
+					[ 54.4078586809, 24.5300234489 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00411",
+				"creationtime" : "2026-03-13T06:55:43+04:00",
+				"updatetime" : "2026-03-13T10:56:30+04:00",
+				"street" : "None",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Road Closures in Saadiyat Island - Abu Dhabi",
+				"lanePosition" : null,
+				"startTime" : "2026-03-14T00:01:00+04:00",
+				"endTime" : "2026-08-09T23:59:00+04:00",
+				"name" : "ROAD CLOSURE IN SAADIYAT ISLAND - ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.4123853789, 24.5310125962 ],
+					[ 54.4115681811, 24.5304817165 ],
+					[ 54.4112227578, 24.5302530593 ],
+					[ 54.4105868904, 24.5298321325 ],
+					[ 54.4100532758, 24.5294814581 ],
+					[ 54.4088740128, 24.5287197602 ],
+					[ 54.408047097, 24.5281856358 ],
+					[ 54.4078148813, 24.5280420131 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00412",
+				"creationtime" : "2026-03-13T06:55:43+04:00",
+				"updatetime" : "2026-03-13T10:56:30+04:00",
+				"street" : "None",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Road Closures in Saadiyat Island - Abu Dhabi",
+				"lanePosition" : null,
+				"startTime" : "2026-03-14T00:01:00+04:00",
+				"endTime" : "2026-08-09T23:59:00+04:00",
+				"name" : "ROAD CLOSURE IN SAADIYAT ISLAND - ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.4114543377, 24.5324110042 ],
+					[ 54.4108599758, 24.5331844076 ],
+					[ 54.4100777158, 24.5341879431 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00413",
+				"creationtime" : "2026-03-13T06:55:43+04:00",
+				"updatetime" : "2026-03-13T10:56:30+04:00",
+				"street" : "None",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Road Closures in Saadiyat Island - Abu Dhabi",
+				"lanePosition" : null,
+				"startTime" : "2026-03-14T00:01:00+04:00",
+				"endTime" : "2026-08-09T23:59:00+04:00",
+				"name" : "ROAD CLOSURE IN SAADIYAT ISLAND - ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.409964859, 24.5341157959 ],
+					[ 54.4107321129, 24.5331616602 ],
+					[ 54.4112113202, 24.5325577969 ],
+					[ 54.4113901073, 24.532323626 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00414",
+				"creationtime" : "2026-03-13T06:55:43+04:00",
+				"updatetime" : "2026-03-13T10:56:30+04:00",
+				"street" : "None",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Road Closures in Saadiyat Island - Abu Dhabi",
+				"lanePosition" : null,
+				"startTime" : "2026-03-14T00:01:00+04:00",
+				"endTime" : "2026-08-09T23:59:00+04:00",
+				"name" : "ROAD CLOSURE IN SAADIYAT ISLAND - ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.408957541, 24.5287737123 ],
+					[ 54.4088690477, 24.528876441 ],
+					[ 54.4084495895, 24.5293976979 ],
+					[ 54.4080883498, 24.5298480685 ],
+					[ 54.4078406073, 24.530197608 ],
+					[ 54.4074341946, 24.5307219362 ],
+					[ 54.407377523, 24.5307713782 ],
+					[ 54.4073457706, 24.5308103755 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00415",
+				"creationtime" : "2026-03-13T06:55:43+04:00",
+				"updatetime" : "2026-03-13T10:56:30+04:00",
+				"street" : "None",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Road Closures in Saadiyat Island - Abu Dhabi",
+				"lanePosition" : null,
+				"startTime" : "2026-03-14T00:01:00+04:00",
+				"endTime" : "2026-08-09T23:59:00+04:00",
+				"name" : "ROAD CLOSURE IN SAADIYAT ISLAND - ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.4072806633, 24.5307637349 ],
+					[ 54.4074728475, 24.5304909255 ],
+					[ 54.4078385757, 24.5300162337 ],
+					[ 54.4080012307, 24.5298082582 ],
+					[ 54.408263366, 24.5294698937 ],
+					[ 54.4086961458, 24.5289166596 ],
+					[ 54.4087784509, 24.5288208206 ],
+					[ 54.4088564886, 24.5287084404 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00416",
+				"creationtime" : "2026-03-13T06:55:43+04:00",
+				"updatetime" : "2026-03-13T10:56:30+04:00",
+				"street" : "None",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Road Closures in Saadiyat Island - Abu Dhabi",
+				"lanePosition" : null,
+				"startTime" : "2026-03-14T00:01:00+04:00",
+				"endTime" : "2026-08-09T23:59:00+04:00",
+				"name" : "ROAD CLOSURE IN SAADIYAT ISLAND - ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.4088239305, 24.5317672173 ],
+					[ 54.4092947651, 24.5311474819 ],
+					[ 54.4095927006, 24.5307553226 ],
+					[ 54.4102943517, 24.5298507026 ],
+					[ 54.4103982792, 24.5297123051 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00417",
+				"creationtime" : "2026-03-13T06:55:43+04:00",
+				"updatetime" : "2026-03-13T10:56:30+04:00",
+				"street" : "None",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Road Closures in Saadiyat Island - Abu Dhabi",
+				"lanePosition" : null,
+				"startTime" : "2026-03-14T00:01:00+04:00",
+				"endTime" : "2026-08-09T23:59:00+04:00",
+				"name" : "ROAD CLOSURE IN SAADIYAT ISLAND - ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.4104827624, 24.5297672869 ],
+					[ 54.4103715945, 24.5299106146 ],
+					[ 54.410012533, 24.5303735433 ],
+					[ 54.4096715955, 24.5308131004 ],
+					[ 54.4093535853, 24.5312231005 ],
+					[ 54.4088991399, 24.5318161188 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00418",
+				"creationtime" : "2026-03-13T06:55:43+04:00",
+				"updatetime" : "2026-03-13T10:56:30+04:00",
+				"street" : "None",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Road Closures in Saadiyat Island - Abu Dhabi",
+				"lanePosition" : null,
+				"startTime" : "2026-03-14T00:01:00+04:00",
+				"endTime" : "2026-08-09T23:59:00+04:00",
+				"name" : "ROAD CLOSURE IN SAADIYAT ISLAND - ABU DHABI"
+			}
 		}
 	]
 }
