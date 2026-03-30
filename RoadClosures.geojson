@@ -179,77 +179,6 @@
 			"geometry" : {
 				"type" : "LineString",
 				"coordinates" : [
-					[ 54.5609431997, 24.3950919894 ],
-					[ 54.5567229709, 24.3942590868 ],
-					[ 54.5559926818, 24.39409191 ],
-					[ 54.5548323738, 24.3938610415 ],
-					[ 54.5542984121, 24.3937714015 ],
-					[ 54.5504111358, 24.3929987778 ],
-					[ 54.54718128, 24.3923536239 ],
-					[ 54.5461603309, 24.3921318781 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00408",
-				"creationtime" : "2026-03-09T06:29:26+04:00",
-				"updatetime" : "2026-03-09T10:31:00+04:00",
-				"street" : "Al Khaleej Al Arabi Street",
-				"type" : "HAZARD",
-				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Partial Road Closure of Right Lane on Al Khaleej Al Arabi Street (E20) - Abu Dhabi",
-				"lanePosition" : "Right ",
-				"lane_impact" : {
-					"total_closed_lanes" : 1,
-					"roadside" : "Right "
-				},
-				"startTime" : "2026-03-09T00:01:00+04:00",
-				"endTime" : "2026-03-17T23:00:00+04:00",
-				"name" : "PARTIAL ROAD CLOSURE IN ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.5461603309, 24.3921318781 ],
-					[ 54.5459790726, 24.3921691199 ],
-					[ 54.5453030162, 24.3920428281 ],
-					[ 54.544864344, 24.3919698679 ],
-					[ 54.5445900418, 24.3919166856 ],
-					[ 54.543763358, 24.3917864062 ],
-					[ 54.5431815173, 24.3917080393 ],
-					[ 54.5430261441, 24.3916873333 ],
-					[ 54.5425503084, 24.3916411963 ],
-					[ 54.5422410216, 24.3916240948 ],
-					[ 54.5420621716, 24.3916212655 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00409",
-				"creationtime" : "2026-03-09T06:29:26+04:00",
-				"updatetime" : "2026-03-09T10:31:00+04:00",
-				"street" : "E22 > Abu Dhabi",
-				"type" : "HAZARD",
-				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Partial Road Closure of Right Lane on Al Khaleej Al Arabi Street (E20) - Abu Dhabi",
-				"lanePosition" : "Right ",
-				"lane_impact" : {
-					"total_closed_lanes" : 1,
-					"roadside" : "Right "
-				},
-				"startTime" : "2026-03-09T00:01:00+04:00",
-				"endTime" : "2026-03-17T23:00:00+04:00",
-				"name" : "PARTIAL ROAD CLOSURE IN ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
 					[ 54.4079441723, 24.5299151256 ],
 					[ 54.4086620192, 24.5303500494 ],
 					[ 54.4094474035, 24.5308516013 ],
@@ -535,6 +464,335 @@
 				"startTime" : "2026-03-17T00:01:00+04:00",
 				"endTime" : "2026-04-23T05:00:00+04:00",
 				"name" : "PARTIAL ROAD CLOSURE IN AL DHAFRA REGION"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 55.7555892885, 24.1856441872 ],
+					[ 55.7555060689, 24.1858552419 ],
+					[ 55.7552757066, 24.1864136472 ],
+					[ 55.755095281, 24.1868524048 ],
+					[ 55.7549747422, 24.1871312477 ],
+					[ 55.7547725035, 24.18754665 ],
+					[ 55.7542499354, 24.1885155885 ],
+					[ 55.7533184869, 24.1900707106 ],
+					[ 55.7531246911, 24.1903991286 ],
+					[ 55.752484095, 24.1914751414 ],
+					[ 55.75212058, 24.1920766916 ],
+					[ 55.7517505764, 24.1926940591 ],
+					[ 55.7506474446, 24.1945348364 ],
+					[ 55.7501500017, 24.1953745001 ],
+					[ 55.7500143606, 24.1956027292 ],
+					[ 55.7497387462, 24.1960595821 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00420",
+				"creationtime" : "2026-03-30T12:33:26+04:00",
+				"updatetime" : "2026-03-30T16:33:56+04:00",
+				"street" : "Khalifa Bin Zayed The First Street",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Traffic Diversion On Khalifa Bin Zayed The First Street - Al Ain",
+				"lanePosition" : null,
+				"startTime" : "2026-03-31T00:01:00+04:00",
+				"endTime" : "2026-06-30T23:59:00+04:00",
+				"name" : "TRAFFIC DIVERSION ON KHALIFA BIN ZAYED THE FIRST ST. AL AIN"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 55.7487768728, 24.197585683 ],
+					[ 55.7491852054, 24.1967098288 ],
+					[ 55.7495641168, 24.1960218187 ],
+					[ 55.7500105241, 24.1952641884 ],
+					[ 55.7503821167, 24.1946430914 ],
+					[ 55.7505872314, 24.1943075283 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00421",
+				"creationtime" : "2026-03-30T12:33:26+04:00",
+				"updatetime" : "2026-03-30T16:33:56+04:00",
+				"street" : "Khalifa Bin Zayed The First Street",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Traffic Diversion On Khalifa Bin Zayed The First Street - Al Ain",
+				"lanePosition" : null,
+				"startTime" : "2026-03-31T00:01:00+04:00",
+				"endTime" : "2026-06-30T23:59:00+04:00",
+				"name" : "TRAFFIC DIVERSION ON KHALIFA BIN ZAYED THE FIRST ST. AL AIN"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 55.7544266171, 24.1877777272 ],
+					[ 55.7547131762, 24.1871899537 ],
+					[ 55.7548431876, 24.1868724426 ],
+					[ 55.7549629827, 24.1866044743 ],
+					[ 55.7551381949, 24.1862125435 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00422",
+				"creationtime" : "2026-03-30T12:33:26+04:00",
+				"updatetime" : "2026-03-30T16:33:56+04:00",
+				"street" : "Khalifa Bin Zayed The First Street",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Traffic Diversion On Khalifa Bin Zayed The First Street - Al Ain",
+				"lanePosition" : null,
+				"startTime" : "2026-03-31T00:01:00+04:00",
+				"endTime" : "2026-06-30T23:59:00+04:00",
+				"name" : "TRAFFIC DIVERSION ON KHALIFA BIN ZAYED THE FIRST ST. AL AIN"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 55.7536781078, 24.1863784297 ],
+					[ 55.7538366915, 24.1864268438 ],
+					[ 55.7541304011, 24.1865210037 ],
+					[ 55.7545705419, 24.1866621065 ],
+					[ 55.7548358752, 24.1867581406 ],
+					[ 55.7551397183, 24.1868683246 ],
+					[ 55.7554500744, 24.1869874038 ],
+					[ 55.7560539457, 24.1872407689 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00423",
+				"creationtime" : "2026-03-30T12:33:26+04:00",
+				"updatetime" : "2026-03-30T16:33:56+04:00",
+				"street" : "Nahyan The First Street",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Traffic Diversion On Khalifa Bin Zayed The First Street - Al Ain",
+				"lanePosition" : null,
+				"startTime" : "2026-03-31T00:01:00+04:00",
+				"endTime" : "2026-06-30T23:59:00+04:00",
+				"name" : "TRAFFIC DIVERSION ON KHALIFA BIN ZAYED THE FIRST ST. AL AIN"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 55.7559039271, 24.187412954 ],
+					[ 55.7554723281, 24.1872326058 ],
+					[ 55.7550751713, 24.1870779791 ],
+					[ 55.7547124612, 24.1869482078 ],
+					[ 55.7539502858, 24.1866923606 ],
+					[ 55.753487858, 24.1865506472 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00424",
+				"creationtime" : "2026-03-30T12:33:26+04:00",
+				"updatetime" : "2026-03-30T16:33:56+04:00",
+				"street" : "Nahyan The First Street",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Traffic Diversion On Khalifa Bin Zayed The First Street - Al Ain",
+				"lanePosition" : null,
+				"startTime" : "2026-03-31T00:01:00+04:00",
+				"endTime" : "2026-06-30T23:59:00+04:00",
+				"name" : "TRAFFIC DIVERSION ON KHALIFA BIN ZAYED THE FIRST ST. AL AIN"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 55.751523485, 24.1957005745 ],
+					[ 55.7510903544, 24.1956634082 ],
+					[ 55.7502144372, 24.1955930885 ],
+					[ 55.7500289791, 24.1955781327 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00425",
+				"creationtime" : "2026-03-30T12:33:26+04:00",
+				"updatetime" : "2026-03-30T16:33:56+04:00",
+				"street" : "Al Mantaqah As Sinaʹiyah 1 Street",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Traffic Diversion On Khalifa Bin Zayed The First Street - Al Ain",
+				"lanePosition" : null,
+				"startTime" : "2026-03-31T00:01:00+04:00",
+				"endTime" : "2026-06-30T23:59:00+04:00",
+				"name" : "TRAFFIC DIVERSION ON KHALIFA BIN ZAYED THE FIRST ST. AL AIN"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 55.7511851295, 24.1955586777 ],
+					[ 55.7509745901, 24.1955385958 ],
+					[ 55.7501017468, 24.1954556936 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00426",
+				"creationtime" : "2026-03-30T12:33:26+04:00",
+				"updatetime" : "2026-03-30T16:33:56+04:00",
+				"street" : "Al Mantaqah As Sinaʹiyah 1 Street",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Traffic Diversion On Khalifa Bin Zayed The First Street - Al Ain",
+				"lanePosition" : null,
+				"startTime" : "2026-03-31T00:01:00+04:00",
+				"endTime" : "2026-06-30T23:59:00+04:00",
+				"name" : "TRAFFIC DIVERSION ON KHALIFA BIN ZAYED THE FIRST ST. AL AIN"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 55.7837810813, 24.29670058 ],
+					[ 55.7838187395, 24.2973050746 ],
+					[ 55.783841478, 24.2974244344 ],
+					[ 55.7839030483, 24.297529102 ],
+					[ 55.7840152792, 24.2976987492 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00427",
+				"creationtime" : "2026-03-30T12:33:26+04:00",
+				"updatetime" : "2026-03-30T16:33:56+04:00",
+				"street" : "Ard Al Jaw Street",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Traffic Diversion On Khalfan Bin Matar Al Rumaithi Street - Al Ain",
+				"lanePosition" : null,
+				"startTime" : "2026-03-31T00:01:00+04:00",
+				"endTime" : "2026-04-04T23:59:00+04:00",
+				"name" : "TRAFFIC DIVERSION ON KHALFAN BIN MATAR AL RUMAITHI ST. AL AIN"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 55.7839636986, 24.298235738 ],
+					[ 55.7838754382, 24.2983808886 ],
+					[ 55.7838394923, 24.2985220551 ],
+					[ 55.78382966, 24.2986878182 ],
+					[ 55.7838459045, 24.2989827607 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00428",
+				"creationtime" : "2026-03-30T12:33:26+04:00",
+				"updatetime" : "2026-03-30T16:33:56+04:00",
+				"street" : "Ard Al Jaw Street",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Traffic Diversion On Khalfan Bin Matar Al Rumaithi Street - Al Ain",
+				"lanePosition" : null,
+				"startTime" : "2026-03-31T00:01:00+04:00",
+				"endTime" : "2026-04-04T23:59:00+04:00",
+				"name" : "TRAFFIC DIVERSION ON KHALFAN BIN MATAR AL RUMAITHI ST. AL AIN"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 55.7837246525, 24.2989695641 ],
+					[ 55.783707479, 24.2986964247 ],
+					[ 55.7837051183, 24.2985339298 ],
+					[ 55.7837005291, 24.2984872649 ],
+					[ 55.7836233178, 24.2983636315 ],
+					[ 55.7835159972, 24.2981675847 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00429",
+				"creationtime" : "2026-03-30T12:33:26+04:00",
+				"updatetime" : "2026-03-30T16:33:56+04:00",
+				"street" : "Ard Al Jaw Street",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Traffic Diversion On Khalfan Bin Matar Al Rumaithi Street - Al Ain",
+				"lanePosition" : null,
+				"startTime" : "2026-03-31T00:01:00+04:00",
+				"endTime" : "2026-04-04T23:59:00+04:00",
+				"name" : "TRAFFIC DIVERSION ON KHALFAN BIN MATAR AL RUMAITHI ST. AL AIN"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 55.7851346923, 24.2982276711 ],
+					[ 55.7848146416, 24.2981747199 ],
+					[ 55.7845336475, 24.2981302556 ],
+					[ 55.7844281813, 24.298117943 ],
+					[ 55.7843257611, 24.2981142567 ],
+					[ 55.7842419749, 24.2981250548 ],
+					[ 55.7840545697, 24.2981659479 ],
+					[ 55.784007125, 24.2982078014 ],
+					[ 55.7839636986, 24.298235738 ],
+					[ 55.7838994852, 24.2982617644 ],
+					[ 55.7838187917, 24.2982768856 ],
+					[ 55.7837519667, 24.2982762237 ],
+					[ 55.7836777726, 24.2982630063 ],
+					[ 55.7836047288, 24.2982324141 ],
+					[ 55.7835515024, 24.2981987021 ],
+					[ 55.7835159972, 24.2981675847 ],
+					[ 55.7834592212, 24.2981039648 ],
+					[ 55.7833134447, 24.298011537 ],
+					[ 55.7832621105, 24.2979817371 ],
+					[ 55.7831086061, 24.2979217802 ],
+					[ 55.7830304946, 24.2979050204 ],
+					[ 55.7827559405, 24.297861013 ],
+					[ 55.7823101466, 24.2977929271 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00430",
+				"creationtime" : "2026-03-30T12:33:26+04:00",
+				"updatetime" : "2026-03-30T16:33:56+04:00",
+				"street" : "Khalfan Bin Matar Al Rumaithi Street",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Traffic Diversion On Khalfan Bin Matar Al Rumaithi Street - Al Ain",
+				"lanePosition" : null,
+				"startTime" : "2026-03-31T00:01:00+04:00",
+				"endTime" : "2026-04-04T23:59:00+04:00",
+				"name" : "TRAFFIC DIVERSION ON KHALFAN BIN MATAR AL RUMAITHI ST. AL AIN"
 			}
 		}
 	]
