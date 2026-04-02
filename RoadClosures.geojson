@@ -794,6 +794,97 @@
 				"endTime" : "2026-04-04T23:59:00+04:00",
 				"name" : "TRAFFIC DIVERSION ON KHALFAN BIN MATAR AL RUMAITHI ST. AL AIN"
 			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.5293971344, 24.337835967 ],
+					[ 54.5293833918, 24.3381923215 ],
+					[ 54.5293166001, 24.3395468219 ],
+					[ 54.5292335612, 24.3411075899 ],
+					[ 54.5292002143, 24.3418223936 ],
+					[ 54.5291980937, 24.3419207551 ],
+					[ 54.5292071661, 24.3419981139 ],
+					[ 54.5292285771, 24.342071852 ],
+					[ 54.5292502589, 24.3421310535 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00431",
+				"creationtime" : "2026-04-02T12:13:19+04:00",
+				"updatetime" : "2026-04-02T16:13:42+04:00",
+				"street" : "Najm Suhail Street",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Road Closures in Mohamed Bin Zayed City & Musaffah Al Sha’biyya",
+				"lanePosition" : null,
+				"startTime" : "2026-04-04T00:01:00+04:00",
+				"endTime" : "2026-10-01T23:59:00+04:00",
+				"name" : "ROAD CLOSURES IN MOHAMED BIN ZAYED CITY & MUSAFFAH AL SHA’BIYYA"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.5289794397, 24.3421284077 ],
+					[ 54.5290264284, 24.3420340661 ],
+					[ 54.5290540106, 24.3419611599 ],
+					[ 54.5290669501, 24.3418843353 ],
+					[ 54.5290720996, 24.3417906017 ],
+					[ 54.5290749954, 24.341723979 ],
+					[ 54.5291543435, 24.3400708461 ],
+					[ 54.5291928003, 24.3392790344 ],
+					[ 54.5292027009, 24.338975738 ],
+					[ 54.5292316168, 24.3383332633 ],
+					[ 54.5292535765, 24.3378453505 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00432",
+				"creationtime" : "2026-04-02T12:13:19+04:00",
+				"updatetime" : "2026-04-02T16:13:42+04:00",
+				"street" : "Najm Suhail Street",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Road Closures in Mohamed Bin Zayed City & Musaffah Al Sha’biyya",
+				"lanePosition" : null,
+				"startTime" : "2026-04-04T00:01:00+04:00",
+				"endTime" : "2026-10-01T23:59:00+04:00",
+				"name" : "ROAD CLOSURES IN MOHAMED BIN ZAYED CITY & MUSAFFAH AL SHA’BIYYA"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.5302225285, 24.337859093 ],
+					[ 54.5301654558, 24.3379224224 ],
+					[ 54.5301215041, 24.3379951317 ],
+					[ 54.5300515225, 24.33941636 ],
+					[ 54.5300513921, 24.3398325222 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00433",
+				"creationtime" : "2026-04-02T12:13:19+04:00",
+				"updatetime" : "2026-04-02T16:13:42+04:00",
+				"street" : "Barqa Al ʹIqaylah Street",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Road Closures in Mohamed Bin Zayed City & Musaffah Al Sha’biyya",
+				"lanePosition" : null,
+				"startTime" : "2026-04-04T00:01:00+04:00",
+				"endTime" : "2026-10-01T23:59:00+04:00",
+				"name" : "ROAD CLOSURES IN MOHAMED BIN ZAYED CITY & MUSAFFAH AL SHA’BIYYA"
+			}
 		}
 	]
 }
