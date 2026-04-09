@@ -1223,6 +1223,217 @@
 				"endTime" : "2026-05-15T23:59:00+04:00",
 				"name" : "TRAFFIC DIVERSION IN LIWA - AL DHAFRA REGION"
 			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 52.6194854302, 24.1336316961 ],
+					[ 52.6196667236, 24.1340138343 ],
+					[ 52.6197415373, 24.1341357239 ],
+					[ 52.6197939696, 24.1341798464 ],
+					[ 52.6199030978, 24.1342572906 ],
+					[ 52.6200210466, 24.134319789 ],
+					[ 52.620146512, 24.134365605 ],
+					[ 52.6203360108, 24.1344446545 ],
+					[ 52.6204782844, 24.1344955282 ],
+					[ 52.6207187182, 24.1345357261 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00449",
+				"creationtime" : "2026-04-09T08:33:12+04:00",
+				"updatetime" : "2026-04-09T12:34:55+04:00",
+				"street" : "Al Yash Street",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Road Closure On Al Yash Street Al Dhannah City - Al Dhafra Region",
+				"lanePosition" : null,
+				"startTime" : "2026-04-09T00:01:00+04:00",
+				"endTime" : "2026-05-24T23:59:00+04:00",
+				"name" : "TRAFFIC DIVERSION IN AL DHANNAH CITY - AL DHAFRA REGION"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 52.6215545859, 24.1343560092 ],
+					[ 52.6210416863, 24.1345169987 ],
+					[ 52.6208102098, 24.1346184314 ],
+					[ 52.6206732179, 24.1347179711 ],
+					[ 52.6205376901, 24.1348909961 ],
+					[ 52.620498744, 24.135036073 ],
+					[ 52.6203886769, 24.1351909443 ],
+					[ 52.6202188004, 24.1353009341 ],
+					[ 52.6199902314, 24.1353447581 ],
+					[ 52.6198171092, 24.1353170823 ],
+					[ 52.6196473433, 24.1352289389 ],
+					[ 52.6195068539, 24.1351747421 ],
+					[ 52.6193420468, 24.1351372404 ],
+					[ 52.6192094103, 24.1351322204 ],
+					[ 52.6190786003, 24.1351479028 ],
+					[ 52.6189587989, 24.1351648918 ],
+					[ 52.6185822555, 24.1352827219 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00450",
+				"creationtime" : "2026-04-09T08:33:12+04:00",
+				"updatetime" : "2026-04-09T12:34:55+04:00",
+				"street" : "Qurn Mgharraq Street",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Road Closure On Qurn Mgharraq Street Al Dhannah City - Al Dhafra Region",
+				"lanePosition" : null,
+				"startTime" : "2026-04-09T00:01:00+04:00",
+				"endTime" : "2026-05-24T23:59:00+04:00",
+				"name" : "TRAFFIC DIVERSION IN AL DHANNAH CITY - AL DHAFRA REGION"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 52.6193213678, 24.1349456317 ],
+					[ 52.6194070309, 24.1348279042 ],
+					[ 52.6194782392, 24.1346913709 ],
+					[ 52.6195400676, 24.1345726352 ],
+					[ 52.619579949, 24.1344526387 ],
+					[ 52.6195924513, 24.1342736133 ],
+					[ 52.6195631631, 24.1341132687 ],
+					[ 52.6194978067, 24.1339767903 ],
+					[ 52.6194496867, 24.1338615566 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00451",
+				"creationtime" : "2026-04-09T08:33:12+04:00",
+				"updatetime" : "2026-04-09T12:34:55+04:00",
+				"street" : "Al Yash Street",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Road Closure On Al Yash Street Al Dhannah City - Al Dhafra Region",
+				"lanePosition" : null,
+				"startTime" : "2026-04-09T00:01:00+04:00",
+				"endTime" : "2026-05-24T23:59:00+04:00",
+				"name" : "TRAFFIC DIVERSION IN AL DHANNAH CITY - AL DHAFRA REGION"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 52.6218342058, 24.1342684881 ],
+					[ 52.6261594277, 24.1329250161 ],
+					[ 52.6262469974, 24.1329019197 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00452",
+				"creationtime" : "2026-04-09T08:33:12+04:00",
+				"updatetime" : "2026-04-09T12:34:55+04:00",
+				"street" : "Qurn Mgharraq Street",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Road Closure of Outbound Left Lans On Qurn Mgharraq St Al Dhannah City - Al Dhafra Region",
+				"lanePosition" : "Left",
+				"lane_impact" : {
+					"total_closed_lanes" : 1,
+					"roadside" : "Left"
+				},
+				"startTime" : "2026-04-09T00:01:00+04:00",
+				"endTime" : "2026-05-24T23:59:00+04:00",
+				"name" : "TRAFFIC DIVERSION IN AL DHANNAH CITY - AL DHAFRA REGION"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 52.6178706426, 24.1302702633 ],
+					[ 52.6193911345, 24.1334335791 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00454",
+				"creationtime" : "2026-04-09T08:33:12+04:00",
+				"updatetime" : "2026-04-09T12:34:55+04:00",
+				"street" : "Al Yash Street",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Road Closure of Outbound Left Lans On Al Yash St Al Dhannah City - Al Dhafra Region",
+				"lanePosition" : "Left",
+				"lane_impact" : {
+					"total_closed_lanes" : 1,
+					"roadside" : "Left"
+				},
+				"startTime" : "2026-04-09T00:01:00+04:00",
+				"endTime" : "2026-05-24T23:59:00+04:00",
+				"name" : "TRAFFIC DIVERSION IN AL DHANNAH CITY - AL DHAFRA REGION"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 52.5777302817, 24.177916812 ],
+					[ 52.5788787412, 24.1756736663 ],
+					[ 52.5793613354, 24.1747244724 ],
+					[ 52.5818853178, 24.1698049209 ],
+					[ 52.5843856884, 24.1649200148 ],
+					[ 52.5878396742, 24.1581745887 ],
+					[ 52.5893070161, 24.1553347356 ],
+					[ 52.5896272071, 24.154817397 ],
+					[ 52.589866702, 24.1544843574 ],
+					[ 52.5903673726, 24.1538899559 ],
+					[ 52.5973908835, 24.1460548023 ],
+					[ 52.5981901586, 24.1451585622 ],
+					[ 52.5991873224, 24.1441259687 ],
+					[ 52.5999871642, 24.1433782994 ],
+					[ 52.600664735, 24.1427994534 ],
+					[ 52.6016876194, 24.1419966161 ],
+					[ 52.6027403505, 24.1412643359 ],
+					[ 52.6033531018, 24.1408622868 ],
+					[ 52.6042756776, 24.1403269446 ],
+					[ 52.6050750463, 24.1398989537 ],
+					[ 52.6061931257, 24.1393530409 ],
+					[ 52.6072677625, 24.1388939361 ],
+					[ 52.6085248214, 24.1384245098 ],
+					[ 52.6102075195, 24.1378889176 ],
+					[ 52.6157103874, 24.1361757361 ],
+					[ 52.618227678, 24.1353892574 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00453",
+				"creationtime" : "2026-04-09T08:33:12+04:00",
+				"updatetime" : "2026-04-09T12:34:55+04:00",
+				"street" : "Qurn Mgharraq Street",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Road Closure of Outbound Left Lans On Qurn Mgharraq St Al Dhannah City - Al Dhafra Region",
+				"lanePosition" : "Left",
+				"lane_impact" : {
+					"total_closed_lanes" : 1,
+					"roadside" : "Left"
+				},
+				"startTime" : "2026-04-09T00:01:00+04:00",
+				"endTime" : "2026-05-24T23:59:00+04:00",
+				"name" : "TRAFFIC DIVERSION IN AL DHANNAH CITY - AL DHAFRA REGION"
+			}
 		}
 	]
 }
