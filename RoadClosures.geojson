@@ -1407,31 +1407,470 @@
 			"geometry" : {
 				"type" : "LineString",
 				"coordinates" : [
-					[ 55.6389345855, 24.2182759654 ],
-					[ 55.6402375313, 24.218785988 ],
-					[ 55.6410323594, 24.2191036339 ],
-					[ 55.6417474796, 24.219389425 ],
-					[ 55.6449868331, 24.2206869425 ],
-					[ 55.6470768692, 24.2215183685 ]
+					[ 54.6292866174, 24.4098026705 ],
+					[ 54.6285218483, 24.4093783811 ],
+					[ 54.6276217474, 24.4089346115 ],
+					[ 54.6269013338, 24.4086225567 ],
+					[ 54.626014837, 24.408282845 ],
+					[ 54.6250800655, 24.407971211 ],
+					[ 54.6243477934, 24.4077577524 ],
+					[ 54.6235559835, 24.4075654801 ],
+					[ 54.6227460019, 24.4073858747 ],
+					[ 54.6199672632, 24.4068216787 ],
+					[ 54.6168822432, 24.4061863589 ],
+					[ 54.6144974075, 24.4057530826 ],
+					[ 54.6088359405, 24.4046256691 ],
+					[ 54.6083361162, 24.4045138133 ],
+					[ 54.604690583, 24.4037905839 ]
 				]
 			},
 			"properties" : {
-				"id" : "AD00472",
-				"creationtime" : "2026-04-25T13:28:36+04:00",
-				"updatetime" : "2026-04-25T17:43:45+04:00",
-				"street" : "Hamdan Bin Mohammed Street",
-				"type" : "HAZARD",
-				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"id" : "AD00473",
+				"creationtime" : "2026-04-28T13:04:25+04:00",
+				"updatetime" : "--T::+04:00",
+				"street" : "Al Khaleej Al Arabi Street",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
 				"direction" : "ONE_DIRECTION",
-				"description" : "Partial Road Closure for right two lanes on Hamdan Bin Mohammed Street",
-				"lanePosition" : "Right ",
-				"lane_impact" : {
-					"total_closed_lanes" : 2,
-					"roadside" : "Right "
-				},
-				"startTime" : "2026-04-25T05:00:00+04:00",
-				"endTime" : "2026-04-27T05:00:00+04:00",
-				"name" : "PARTIAL ROAD CLOSURE ON RAMP IN AL AIN"
+				"description" : "Closure of Roads On Al Khaleej Al Arabi St from Old Airport Terminal & Sweihan Towards Abu Dhabi (night only).",
+				"lanePosition" : null,
+				"startTime" : "2026-04-29T01:00:00+04:00",
+				"endTime" : "2026-04-29T05:00:00+04:00",
+				"name" : "ROAD CLOSURE (NIGHT ONLY) AL KHALEEJ AL ARABI STREET FOR BRIDGE CONSTRUCTION ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.6269191269, 24.4195727883 ],
+					[ 54.6262318992, 24.4187284669 ],
+					[ 54.6256286232, 24.4179028902 ],
+					[ 54.6248460898, 24.416650846 ],
+					[ 54.6243056764, 24.4156592346 ],
+					[ 54.6222215398, 24.4118375197 ],
+					[ 54.6216364472, 24.4107592685 ],
+					[ 54.6214188445, 24.4103808338 ],
+					[ 54.6211183891, 24.4097962295 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00474",
+				"creationtime" : "2026-04-28T13:04:25+04:00",
+				"updatetime" : "--T::+04:00",
+				"street" : "Ar Rawafid Street",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Closure of Roads On Al Khaleej Al Arabi St from Old Airport Terminal & Sweihan Towards Abu Dhabi (night only).",
+				"lanePosition" : null,
+				"startTime" : "2026-04-29T01:00:00+04:00",
+				"endTime" : "2026-04-29T05:00:00+04:00",
+				"name" : "ROAD CLOSURE (NIGHT ONLY) AL KHALEEJ AL ARABI STREET FOR BRIDGE CONSTRUCTION ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.6297521685, 24.4130982766 ],
+					[ 54.6292210487, 24.4132717 ],
+					[ 54.6289496603, 24.4133522001 ],
+					[ 54.6285631443, 24.4134500806 ],
+					[ 54.6281525372, 24.4135364496 ],
+					[ 54.6277028717, 24.4136029887 ],
+					[ 54.6275043814, 24.4136281256 ],
+					[ 54.6271883704, 24.4136391046 ],
+					[ 54.626712541, 24.4136366332 ],
+					[ 54.6262847748, 24.4136024563 ],
+					[ 54.6260186268, 24.4135664034 ],
+					[ 54.6255801803, 24.4134827331 ],
+					[ 54.6252205873, 24.4133904897 ],
+					[ 54.6248363168, 24.41326626 ],
+					[ 54.624533177, 24.4131444487 ],
+					[ 54.6241335263, 24.4129593934 ],
+					[ 54.6237783193, 24.4127630309 ],
+					[ 54.6234870424, 24.4125738171 ],
+					[ 54.6232143518, 24.4123768197 ],
+					[ 54.6230035012, 24.4121995472 ],
+					[ 54.6227899617, 24.4120121285 ],
+					[ 54.6225717781, 24.4117970358 ],
+					[ 54.6223489072, 24.4115507214 ],
+					[ 54.6221455138, 24.4112977088 ],
+					[ 54.6218279083, 24.4108644559 ],
+					[ 54.6214978041, 24.4103644356 ],
+					[ 54.6213086353, 24.4100670873 ],
+					[ 54.6211183891, 24.4097962295 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00475",
+				"creationtime" : "2026-04-28T13:04:25+04:00",
+				"updatetime" : "--T::+04:00",
+				"street" : "Sweihan Road",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Closure of Roads On Al Khaleej Al Arabi St from Old Airport Terminal & Sweihan Towards Abu Dhabi (night only).",
+				"lanePosition" : null,
+				"startTime" : "2026-04-29T01:00:00+04:00",
+				"endTime" : "2026-04-29T05:00:00+04:00",
+				"name" : "ROAD CLOSURE (NIGHT ONLY) AL KHALEEJ AL ARABI STREET FOR BRIDGE CONSTRUCTION ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.6211183891, 24.4097962295 ],
+					[ 54.6207859745, 24.4092714373 ],
+					[ 54.6203723772, 24.4086628238 ],
+					[ 54.6201260933, 24.4083297194 ],
+					[ 54.6199483621, 24.4081214239 ],
+					[ 54.6196748999, 24.4078337802 ],
+					[ 54.6193150883, 24.4075074585 ],
+					[ 54.6189186339, 24.4072028033 ],
+					[ 54.6185494748, 24.4069655675 ],
+					[ 54.6181405836, 24.4067487329 ],
+					[ 54.6177145082, 24.4065561844 ],
+					[ 54.6173779963, 24.4064287622 ],
+					[ 54.6170034781, 24.4063150186 ],
+					[ 54.6166795603, 24.4062344286 ],
+					[ 54.6161941971, 24.4061379232 ],
+					[ 54.6155414269, 24.4060066519 ],
+					[ 54.6147020483, 24.405793928 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00476",
+				"creationtime" : "2026-04-28T13:04:25+04:00",
+				"updatetime" : "--T::+04:00",
+				"street" : "Al Khaleej Al Arabi Street",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Closure of Roads On Al Khaleej Al Arabi St from Old Airport Terminal & Sweihan Towards Abu Dhabi (night only).",
+				"lanePosition" : null,
+				"startTime" : "2026-04-29T01:00:00+04:00",
+				"endTime" : "2026-04-29T05:00:00+04:00",
+				"name" : "ROAD CLOSURE (NIGHT ONLY) AL KHALEEJ AL ARABI STREET FOR BRIDGE CONSTRUCTION ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.6292866174, 24.4098026705 ],
+					[ 54.6285218483, 24.4093783811 ],
+					[ 54.6276217474, 24.4089346115 ],
+					[ 54.6269013338, 24.4086225567 ],
+					[ 54.626014837, 24.408282845 ],
+					[ 54.6250800655, 24.407971211 ],
+					[ 54.6243477934, 24.4077577524 ],
+					[ 54.6235559835, 24.4075654801 ],
+					[ 54.6227460019, 24.4073858747 ],
+					[ 54.6199672632, 24.4068216787 ],
+					[ 54.6168822432, 24.4061863589 ],
+					[ 54.6144974075, 24.4057530826 ],
+					[ 54.6088359405, 24.4046256691 ],
+					[ 54.6083361162, 24.4045138133 ],
+					[ 54.604690583, 24.4037905839 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00477",
+				"creationtime" : "2026-04-28T13:04:25+04:00",
+				"updatetime" : "--T::+04:00",
+				"street" : "Al Khaleej Al Arabi Street",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Closure of Roads On Al Khaleej Al Arabi St from Old Airport Terminal & Sweihan Towards Abu Dhabi (night only).",
+				"lanePosition" : null,
+				"startTime" : "2026-04-30T01:00:00+04:00",
+				"endTime" : "2026-04-30T05:00:00+04:00",
+				"name" : "ROAD CLOSURE (NIGHT ONLY) AL KHALEEJ AL ARABI STREET FOR BRIDGE CONSTRUCTION ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.6269191269, 24.4195727883 ],
+					[ 54.6262318992, 24.4187284669 ],
+					[ 54.6256286232, 24.4179028902 ],
+					[ 54.6248460898, 24.416650846 ],
+					[ 54.6243056764, 24.4156592346 ],
+					[ 54.6222215398, 24.4118375197 ],
+					[ 54.6216364472, 24.4107592685 ],
+					[ 54.6214188445, 24.4103808338 ],
+					[ 54.6211183891, 24.4097962295 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00478",
+				"creationtime" : "2026-04-28T13:04:25+04:00",
+				"updatetime" : "--T::+04:00",
+				"street" : "Ar Rawafid Street",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Closure of Roads On Al Khaleej Al Arabi St from Old Airport Terminal & Sweihan Towards Abu Dhabi (night only).",
+				"lanePosition" : null,
+				"startTime" : "2026-04-30T01:00:00+04:00",
+				"endTime" : "2026-04-30T05:00:00+04:00",
+				"name" : "ROAD CLOSURE (NIGHT ONLY) AL KHALEEJ AL ARABI STREET FOR BRIDGE CONSTRUCTION ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.6297521685, 24.4130982766 ],
+					[ 54.6292210487, 24.4132717 ],
+					[ 54.6289496603, 24.4133522001 ],
+					[ 54.6285631443, 24.4134500806 ],
+					[ 54.6281525372, 24.4135364496 ],
+					[ 54.6277028717, 24.4136029887 ],
+					[ 54.6275043814, 24.4136281256 ],
+					[ 54.6271883704, 24.4136391046 ],
+					[ 54.626712541, 24.4136366332 ],
+					[ 54.6262847748, 24.4136024563 ],
+					[ 54.6260186268, 24.4135664034 ],
+					[ 54.6255801803, 24.4134827331 ],
+					[ 54.6252205873, 24.4133904897 ],
+					[ 54.6248363168, 24.41326626 ],
+					[ 54.624533177, 24.4131444487 ],
+					[ 54.6241335263, 24.4129593934 ],
+					[ 54.6237783193, 24.4127630309 ],
+					[ 54.6234870424, 24.4125738171 ],
+					[ 54.6232143518, 24.4123768197 ],
+					[ 54.6230035012, 24.4121995472 ],
+					[ 54.6227899617, 24.4120121285 ],
+					[ 54.6225717781, 24.4117970358 ],
+					[ 54.6223489072, 24.4115507214 ],
+					[ 54.6221455138, 24.4112977088 ],
+					[ 54.6218279083, 24.4108644559 ],
+					[ 54.6214978041, 24.4103644356 ],
+					[ 54.6213086353, 24.4100670873 ],
+					[ 54.6211183891, 24.4097962295 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00479",
+				"creationtime" : "2026-04-28T13:04:25+04:00",
+				"updatetime" : "--T::+04:00",
+				"street" : "Sweihan Road",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Closure of Roads On Al Khaleej Al Arabi St from Old Airport Terminal & Sweihan Towards Abu Dhabi (night only).",
+				"lanePosition" : null,
+				"startTime" : "2026-04-30T01:00:00+04:00",
+				"endTime" : "2026-04-30T05:00:00+04:00",
+				"name" : "ROAD CLOSURE (NIGHT ONLY) AL KHALEEJ AL ARABI STREET FOR BRIDGE CONSTRUCTION ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.6211183891, 24.4097962295 ],
+					[ 54.6207859745, 24.4092714373 ],
+					[ 54.6203723772, 24.4086628238 ],
+					[ 54.6201260933, 24.4083297194 ],
+					[ 54.6199483621, 24.4081214239 ],
+					[ 54.6196748999, 24.4078337802 ],
+					[ 54.6193150883, 24.4075074585 ],
+					[ 54.6189186339, 24.4072028033 ],
+					[ 54.6185494748, 24.4069655675 ],
+					[ 54.6181405836, 24.4067487329 ],
+					[ 54.6177145082, 24.4065561844 ],
+					[ 54.6173779963, 24.4064287622 ],
+					[ 54.6170034781, 24.4063150186 ],
+					[ 54.6166795603, 24.4062344286 ],
+					[ 54.6161941971, 24.4061379232 ],
+					[ 54.6155414269, 24.4060066519 ],
+					[ 54.6147020483, 24.405793928 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00480",
+				"creationtime" : "2026-04-28T13:04:25+04:00",
+				"updatetime" : "--T::+04:00",
+				"street" : "Al Khaleej Al Arabi Street",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Closure of Roads On Al Khaleej Al Arabi St from Old Airport Terminal & Sweihan Towards Abu Dhabi (night only).",
+				"lanePosition" : null,
+				"startTime" : "2026-04-30T01:00:00+04:00",
+				"endTime" : "2026-04-30T05:00:00+04:00",
+				"name" : "ROAD CLOSURE (NIGHT ONLY) AL KHALEEJ AL ARABI STREET FOR BRIDGE CONSTRUCTION ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.6292866174, 24.4098026705 ],
+					[ 54.6285218483, 24.4093783811 ],
+					[ 54.6276217474, 24.4089346115 ],
+					[ 54.6269013338, 24.4086225567 ],
+					[ 54.626014837, 24.408282845 ],
+					[ 54.6250800655, 24.407971211 ],
+					[ 54.6243477934, 24.4077577524 ],
+					[ 54.6235559835, 24.4075654801 ],
+					[ 54.6227460019, 24.4073858747 ],
+					[ 54.6199672632, 24.4068216787 ],
+					[ 54.6168822432, 24.4061863589 ],
+					[ 54.6144974075, 24.4057530826 ],
+					[ 54.6088359405, 24.4046256691 ],
+					[ 54.6083361162, 24.4045138133 ],
+					[ 54.604690583, 24.4037905839 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00481",
+				"creationtime" : "2026-04-28T13:04:25+04:00",
+				"updatetime" : "--T::+04:00",
+				"street" : "Al Khaleej Al Arabi Street",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Closure of Roads On Al Khaleej Al Arabi St from Old Airport Terminal & Sweihan Towards Abu Dhabi (night only).",
+				"lanePosition" : null,
+				"startTime" : "2026-05-01T01:00:00+04:00",
+				"endTime" : "2026-05-01T05:00:00+04:00",
+				"name" : "ROAD CLOSURE (NIGHT ONLY) AL KHALEEJ AL ARABI STREET FOR BRIDGE CONSTRUCTION ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.6269191269, 24.4195727883 ],
+					[ 54.6262318992, 24.4187284669 ],
+					[ 54.6256286232, 24.4179028902 ],
+					[ 54.6248460898, 24.416650846 ],
+					[ 54.6243056764, 24.4156592346 ],
+					[ 54.6222215398, 24.4118375197 ],
+					[ 54.6216364472, 24.4107592685 ],
+					[ 54.6214188445, 24.4103808338 ],
+					[ 54.6211183891, 24.4097962295 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00482",
+				"creationtime" : "2026-04-28T13:04:25+04:00",
+				"updatetime" : "--T::+04:00",
+				"street" : "Ar Rawafid Street",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Closure of Roads On Al Khaleej Al Arabi St from Old Airport Terminal & Sweihan Towards Abu Dhabi (night only).",
+				"lanePosition" : null,
+				"startTime" : "2026-05-01T01:00:00+04:00",
+				"endTime" : "2026-05-01T05:00:00+04:00",
+				"name" : "ROAD CLOSURE (NIGHT ONLY) AL KHALEEJ AL ARABI STREET FOR BRIDGE CONSTRUCTION ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.6297521685, 24.4130982766 ],
+					[ 54.6292210487, 24.4132717 ],
+					[ 54.6289496603, 24.4133522001 ],
+					[ 54.6285631443, 24.4134500806 ],
+					[ 54.6281525372, 24.4135364496 ],
+					[ 54.6277028717, 24.4136029887 ],
+					[ 54.6275043814, 24.4136281256 ],
+					[ 54.6271883704, 24.4136391046 ],
+					[ 54.626712541, 24.4136366332 ],
+					[ 54.6262847748, 24.4136024563 ],
+					[ 54.6260186268, 24.4135664034 ],
+					[ 54.6255801803, 24.4134827331 ],
+					[ 54.6252205873, 24.4133904897 ],
+					[ 54.6248363168, 24.41326626 ],
+					[ 54.624533177, 24.4131444487 ],
+					[ 54.6241335263, 24.4129593934 ],
+					[ 54.6237783193, 24.4127630309 ],
+					[ 54.6234870424, 24.4125738171 ],
+					[ 54.6232143518, 24.4123768197 ],
+					[ 54.6230035012, 24.4121995472 ],
+					[ 54.6227899617, 24.4120121285 ],
+					[ 54.6225717781, 24.4117970358 ],
+					[ 54.6223489072, 24.4115507214 ],
+					[ 54.6221455138, 24.4112977088 ],
+					[ 54.6218279083, 24.4108644559 ],
+					[ 54.6214978041, 24.4103644356 ],
+					[ 54.6213086353, 24.4100670873 ],
+					[ 54.6211183891, 24.4097962295 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00483",
+				"creationtime" : "2026-04-28T13:04:25+04:00",
+				"updatetime" : "--T::+04:00",
+				"street" : "Sweihan Road",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Closure of Roads On Al Khaleej Al Arabi St from Old Airport Terminal & Sweihan Towards Abu Dhabi (night only).",
+				"lanePosition" : null,
+				"startTime" : "2026-05-01T01:00:00+04:00",
+				"endTime" : "2026-05-01T05:00:00+04:00",
+				"name" : "ROAD CLOSURE (NIGHT ONLY) AL KHALEEJ AL ARABI STREET FOR BRIDGE CONSTRUCTION ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.6211183891, 24.4097962295 ],
+					[ 54.6207859745, 24.4092714373 ],
+					[ 54.6203723772, 24.4086628238 ],
+					[ 54.6201260933, 24.4083297194 ],
+					[ 54.6199483621, 24.4081214239 ],
+					[ 54.6196748999, 24.4078337802 ],
+					[ 54.6193150883, 24.4075074585 ],
+					[ 54.6189186339, 24.4072028033 ],
+					[ 54.6185494748, 24.4069655675 ],
+					[ 54.6181405836, 24.4067487329 ],
+					[ 54.6177145082, 24.4065561844 ],
+					[ 54.6173779963, 24.4064287622 ],
+					[ 54.6170034781, 24.4063150186 ],
+					[ 54.6166795603, 24.4062344286 ],
+					[ 54.6161941971, 24.4061379232 ],
+					[ 54.6155414269, 24.4060066519 ],
+					[ 54.6147020483, 24.405793928 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00484",
+				"creationtime" : "2026-04-28T13:04:25+04:00",
+				"updatetime" : "--T::+04:00",
+				"street" : "Al Khaleej Al Arabi Street",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Closure of Roads On Al Khaleej Al Arabi St from Old Airport Terminal & Sweihan Towards Abu Dhabi (night only).",
+				"lanePosition" : null,
+				"startTime" : "2026-05-01T01:00:00+04:00",
+				"endTime" : "2026-05-01T05:00:00+04:00",
+				"name" : "ROAD CLOSURE (NIGHT ONLY) AL KHALEEJ AL ARABI STREET FOR BRIDGE CONSTRUCTION ABU DHABI"
 			}
 		}
 	]
