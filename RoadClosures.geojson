@@ -1407,34 +1407,73 @@
 			"geometry" : {
 				"type" : "LineString",
 				"coordinates" : [
-					[ 55.6397026236, 24.2187496311 ],
-					[ 55.6416491315, 24.2195241389 ],
-					[ 55.6440466809, 24.2204781146 ],
-					[ 55.6448906515, 24.2208271262 ],
-					[ 55.646685442, 24.2215430513 ],
-					[ 55.6471185501, 24.221715258 ],
-					[ 55.6480458356, 24.2220369976 ],
-					[ 55.648716693, 24.2222314265 ],
-					[ 55.6494656098, 24.2224188785 ]
+					[ 55.7804529935, 24.343749692 ],
+					[ 55.7806288002, 24.3439153624 ],
+					[ 55.7807337834, 24.3439819131 ],
+					[ 55.7808849694, 24.344041102 ],
+					[ 55.7814925423, 24.3442651591 ],
+					[ 55.7818084616, 24.3443680622 ],
+					[ 55.7822617963, 24.344490924 ],
+					[ 55.7826366769, 24.3445771204 ],
+					[ 55.7829284773, 24.3446249356 ],
+					[ 55.7831930974, 24.3446857801 ],
+					[ 55.783568317, 24.3447383959 ],
+					[ 55.7842041278, 24.3448023098 ],
+					[ 55.784525318, 24.3448182359 ],
+					[ 55.784849958, 24.3448218206 ],
+					[ 55.7852548516, 24.3448250644 ],
+					[ 55.785754095, 24.344791213 ],
+					[ 55.7861995643, 24.3447499234 ],
+					[ 55.7866581538, 24.344685308 ],
+					[ 55.7870903508, 24.3446069375 ],
+					[ 55.7874233284, 24.3445349989 ],
+					[ 55.7878626499, 24.3444231304 ],
+					[ 55.7882100949, 24.3443259425 ],
+					[ 55.7885081743, 24.3442408783 ],
+					[ 55.7887095298, 24.3441788988 ],
+					[ 55.7888007085, 24.3441344678 ],
+					[ 55.7888676828, 24.3440848271 ],
+					[ 55.7889491803, 24.3439759263 ]
 				]
 			},
 			"properties" : {
-				"id" : "AD00485",
-				"creationtime" : "2026-05-01T16:21:58+04:00",
-				"updatetime" : "2026-05-01T20:22:28+04:00",
-				"street" : "Hamdan Bin Mohammed Street",
-				"type" : "HAZARD",
-				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"id" : "AD00486",
+				"creationtime" : "2026-05-04T06:59:00+04:00",
+				"updatetime" : "2026-05-04T11:00:55+04:00",
+				"street" : "Abu ʹUbaidah Bin Al Jarrah Street",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
 				"direction" : "ONE_DIRECTION",
-				"description" : "Partial Road Closure for right two lanes on Hamdan Bin Mohammed Street",
-				"lanePosition" : "Right ",
-				"lane_impact" : {
-					"total_closed_lanes" : 2,
-					"roadside" : "Right "
-				},
-				"startTime" : "2026-05-02T00:01:00+04:00",
-				"endTime" : "2026-05-04T05:00:00+04:00",
-				"name" : "PARTIAL ROAD CLOSURE IN AL AIN"
+				"description" : "Closure of Roads On Abu ʹUbaidah Bin Al Jarrah Street",
+				"lanePosition" : null,
+				"startTime" : "2026-05-03T00:01:00+04:00",
+				"endTime" : "2026-05-24T23:59:00+04:00",
+				"name" : "ROAD CLOSURE IN AL AIN"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 55.7859689313, 24.3437288421 ],
+					[ 55.7861048836, 24.3444036205 ],
+					[ 55.7861676833, 24.3447267469 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00487",
+				"creationtime" : "2026-05-04T06:59:00+04:00",
+				"updatetime" : "2026-05-04T11:01:00+04:00",
+				"street" : "Nimail Street",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Closure of Roads On Abu ʹUbaidah Bin Al Jarrah Street",
+				"lanePosition" : null,
+				"startTime" : "2026-05-03T00:01:00+04:00",
+				"endTime" : "2026-05-24T23:59:00+04:00",
+				"name" : "ROAD CLOSURE IN AL AIN"
 			}
 		}
 	]
