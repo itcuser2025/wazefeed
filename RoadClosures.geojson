@@ -731,364 +731,6 @@
 			"geometry" : {
 				"type" : "LineString",
 				"coordinates" : [
-					[ 54.4123743622, 24.4835683823 ],
-					[ 54.4122466989, 24.4834445915 ],
-					[ 54.4119626499, 24.4832171538 ],
-					[ 54.4118187062, 24.4830948658 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00437",
-				"creationtime" : "2026-04-03T12:12:20+04:00",
-				"updatetime" : "2026-04-03T16:16:09+04:00",
-				"street" : "Ali Khalifa Al Mesmari Street",
-				"type" : "ROAD_CLOSED",
-				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Closure of Intersection at Abdullah Omran Taryam St. & Ali Khalifa Al Mesmari St. in Al Reem Island - Abu Dhabi",
-				"lanePosition" : null,
-				"startTime" : "2026-04-04T00:01:00+04:00",
-				"endTime" : "2026-05-04T23:59:00+04:00",
-				"name" : "CLOSURE OF INTERSECTION IN AL REEM ISLAND - ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.4118884531, 24.4829761643 ],
-					[ 54.4120442489, 24.4831105779 ],
-					[ 54.4121297286, 24.4831783913 ],
-					[ 54.4123176905, 24.4833275088 ],
-					[ 54.4123678484, 24.4833673011 ],
-					[ 54.4124676345, 24.483458584 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00438",
-				"creationtime" : "2026-04-03T12:12:20+04:00",
-				"updatetime" : "2026-04-03T16:16:09+04:00",
-				"street" : "Ali Khalifa Al Mesmari Street",
-				"type" : "ROAD_CLOSED",
-				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Closure of Intersection at Abdullah Omran Taryam St. & Ali Khalifa Al Mesmari St. in Al Reem Island - Abu Dhabi",
-				"lanePosition" : null,
-				"startTime" : "2026-04-04T00:01:00+04:00",
-				"endTime" : "2026-05-04T23:59:00+04:00",
-				"name" : "CLOSURE OF INTERSECTION IN AL REEM ISLAND - ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.4124485545, 24.4830775269 ],
-					[ 54.4123213777, 24.4832064456 ],
-					[ 54.4121974035, 24.4833268118 ],
-					[ 54.4120828056, 24.483438075 ],
-					[ 54.4119400706, 24.4835616005 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00439",
-				"creationtime" : "2026-04-03T12:12:20+04:00",
-				"updatetime" : "2026-04-03T16:16:09+04:00",
-				"street" : "Abdullah Omran Taryam Street",
-				"type" : "ROAD_CLOSED",
-				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Closure of Intersection at Abdullah Omran Taryam St. & Ali Khalifa Al Mesmari St. in Al Reem Island - Abu Dhabi",
-				"lanePosition" : null,
-				"startTime" : "2026-04-04T00:01:00+04:00",
-				"endTime" : "2026-05-04T23:59:00+04:00",
-				"name" : "CLOSURE OF INTERSECTION IN AL REEM ISLAND - ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.4117264519, 24.4835381803 ],
-					[ 54.4117881724, 24.4834886898 ],
-					[ 54.411945623, 24.4833522941 ],
-					[ 54.4121140867, 24.483196759 ],
-					[ 54.4122226538, 24.4830933577 ],
-					[ 54.4122593722, 24.4830515113 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00440",
-				"creationtime" : "2026-04-03T12:12:20+04:00",
-				"updatetime" : "2026-04-03T16:16:09+04:00",
-				"street" : "Abdullah Omran Taryam Street",
-				"type" : "ROAD_CLOSED",
-				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Closure of Intersection at Abdullah Omran Taryam St. & Ali Khalifa Al Mesmari St. in Al Reem Island - Abu Dhabi",
-				"lanePosition" : null,
-				"startTime" : "2026-04-04T00:01:00+04:00",
-				"endTime" : "2026-05-04T23:59:00+04:00",
-				"name" : "CLOSURE OF INTERSECTION IN AL REEM ISLAND - ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.4136643389, 24.486348836 ],
-					[ 54.4136342377, 24.4859629954 ],
-					[ 54.4135944014, 24.4856241255 ],
-					[ 54.4135313751, 24.485353488 ],
-					[ 54.41344547, 24.4850831383 ],
-					[ 54.4133560873, 24.4848654439 ],
-					[ 54.4132730205, 24.4846936383 ],
-					[ 54.4131607474, 24.4844929717 ],
-					[ 54.4130787814, 24.4843630673 ],
-					[ 54.4129270397, 24.4841498443 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00441",
-				"creationtime" : "2026-04-03T12:12:20+04:00",
-				"updatetime" : "2026-04-03T16:16:09+04:00",
-				"street" : "Ali Khalifa Al Mesmari Street",
-				"type" : "HAZARD",
-				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Partial Road Closure of Two Left Lans on Ali Khalifa Al Mesmari St. in Al Reem Island - Abu Dhabi",
-				"lanePosition" : "Left",
-				"lane_impact" : {
-					"total_closed_lanes" : 2,
-					"roadside" : "Left"
-				},
-				"startTime" : "2026-04-04T00:01:00+04:00",
-				"endTime" : "2026-05-04T23:59:00+04:00",
-				"name" : "PARTIAL ROAD CLOSURE IN AL REEM ISLAND - ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.4128637517, 24.4840695915 ],
-					[ 54.4128185661, 24.4840122939 ],
-					[ 54.4126344272, 24.4838227285 ],
-					[ 54.4124377275, 24.4836298249 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00442",
-				"creationtime" : "2026-04-03T12:12:20+04:00",
-				"updatetime" : "2026-04-03T16:16:09+04:00",
-				"street" : "Ali Khalifa Al Mesmari Street",
-				"type" : "HAZARD",
-				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Partial Road Closure of Three Left Lans on Ali Khalifa Al Mesmari St. in Al Reem Island - Abu Dhabi",
-				"lanePosition" : "Left",
-				"lane_impact" : {
-					"total_closed_lanes" : 3,
-					"roadside" : "Left"
-				},
-				"startTime" : "2026-04-04T00:01:00+04:00",
-				"endTime" : "2026-05-04T23:59:00+04:00",
-				"name" : "PARTIAL ROAD CLOSURE IN AL REEM ISLAND - ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.4106554259, 24.4818710747 ],
-					[ 54.4112233667, 24.4823786332 ],
-					[ 54.4112703931, 24.4824248736 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00443",
-				"creationtime" : "2026-04-03T12:12:20+04:00",
-				"updatetime" : "2026-04-03T16:16:09+04:00",
-				"street" : "Ali Khalifa Al Mesmari Street",
-				"type" : "HAZARD",
-				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Partial Road Closure of Two Left Lans on Ali Khalifa Al Mesmari St. in Al Reem Island - Abu Dhabi",
-				"lanePosition" : "Left",
-				"lane_impact" : {
-					"total_closed_lanes" : 2,
-					"roadside" : "Left"
-				},
-				"startTime" : "2026-04-04T00:01:00+04:00",
-				"endTime" : "2026-05-04T23:59:00+04:00",
-				"name" : "PARTIAL ROAD CLOSURE IN AL REEM ISLAND - ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.4114017742, 24.482552125 ],
-					[ 54.4118130171, 24.482913692 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00444",
-				"creationtime" : "2026-04-03T12:12:20+04:00",
-				"updatetime" : "2026-04-03T16:16:09+04:00",
-				"street" : "Ali Khalifa Al Mesmari Street",
-				"type" : "HAZARD",
-				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Partial Road Closure of Three Left Lans on Ali Khalifa Al Mesmari St. in Al Reem Island - Abu Dhabi",
-				"lanePosition" : "Left",
-				"lane_impact" : {
-					"total_closed_lanes" : 3,
-					"roadside" : "Left"
-				},
-				"startTime" : "2026-04-04T00:01:00+04:00",
-				"endTime" : "2026-05-04T23:59:00+04:00",
-				"name" : "PARTIAL ROAD CLOSURE IN AL REEM ISLAND - ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.4140675212, 24.4805587588 ],
-					[ 54.4138556391, 24.4809085942 ],
-					[ 54.4137128304, 24.4811788557 ],
-					[ 54.4134701708, 24.4816531995 ],
-					[ 54.4133345683, 24.481906106 ],
-					[ 54.4131280138, 24.4822395593 ],
-					[ 54.4131070291, 24.482271648 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00445",
-				"creationtime" : "2026-04-03T12:12:20+04:00",
-				"updatetime" : "2026-04-03T16:16:09+04:00",
-				"street" : "Abdullah Omran Taryam Street",
-				"type" : "HAZARD",
-				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Partial Road Closure of Two Left Lans on Abdullah Omran Taryam St. in Al Reem Island - Abu Dhabi",
-				"lanePosition" : "Left",
-				"lane_impact" : {
-					"total_closed_lanes" : 2,
-					"roadside" : "Left"
-				},
-				"startTime" : "2026-04-04T00:01:00+04:00",
-				"endTime" : "2026-05-04T23:59:00+04:00",
-				"name" : "PARTIAL ROAD CLOSURE IN AL REEM ISLAND - ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.4130205341, 24.482390899 ],
-					[ 54.4128695487, 24.4825739956 ],
-					[ 54.4128033271, 24.4826692329 ],
-					[ 54.4126243557, 24.4828855351 ],
-					[ 54.4125027602, 24.4830225271 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00446",
-				"creationtime" : "2026-04-03T12:12:20+04:00",
-				"updatetime" : "2026-04-03T16:16:09+04:00",
-				"street" : "Abdullah Omran Taryam Street",
-				"type" : "HAZARD",
-				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Partial Road Closure of Three Left Lans on Abdullah Omran Taryam St. in Al Reem Island - Abu Dhabi",
-				"lanePosition" : "Left",
-				"lane_impact" : {
-					"total_closed_lanes" : 3,
-					"roadside" : "Left"
-				},
-				"startTime" : "2026-04-04T00:01:00+04:00",
-				"endTime" : "2026-05-04T23:59:00+04:00",
-				"name" : "PARTIAL ROAD CLOSURE IN AL REEM ISLAND - ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.4087826669, 24.4853298592 ],
-					[ 54.4092234354, 24.4850185193 ],
-					[ 54.4095655636, 24.4848010344 ],
-					[ 54.4099613534, 24.4845778704 ],
-					[ 54.4103973187, 24.4843630979 ],
-					[ 54.4106774656, 24.4842224763 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00447",
-				"creationtime" : "2026-04-03T12:12:20+04:00",
-				"updatetime" : "2026-04-03T16:16:09+04:00",
-				"street" : "Abdullah Omran Taryam Street",
-				"type" : "HAZARD",
-				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Partial Road Closure of Two Left Lans on Abdullah Omran Taryam St. in Al Reem Island - Abu Dhabi",
-				"lanePosition" : "Left",
-				"lane_impact" : {
-					"total_closed_lanes" : 2,
-					"roadside" : "Left"
-				},
-				"startTime" : "2026-04-04T00:01:00+04:00",
-				"endTime" : "2026-05-04T23:59:00+04:00",
-				"name" : "PARTIAL ROAD CLOSURE IN AL REEM ISLAND - ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.4108314187, 24.4841413296 ],
-					[ 54.4111244574, 24.4839635444 ],
-					[ 54.4113690658, 24.4838030882 ],
-					[ 54.4116505141, 24.4835984952 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00448",
-				"creationtime" : "2026-04-03T12:12:20+04:00",
-				"updatetime" : "2026-04-03T16:16:09+04:00",
-				"street" : "Abdullah Omran Taryam Street",
-				"type" : "HAZARD",
-				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Partial Road Closure of Three Left Lans on Abdullah Omran Taryam St. in Al Reem Island - Abu Dhabi",
-				"lanePosition" : "Left",
-				"lane_impact" : {
-					"total_closed_lanes" : 3,
-					"roadside" : "Left"
-				},
-				"startTime" : "2026-04-04T00:01:00+04:00",
-				"endTime" : "2026-05-04T23:59:00+04:00",
-				"name" : "PARTIAL ROAD CLOSURE IN AL REEM ISLAND - ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
 					[ 53.9421157688, 23.116519624 ],
 					[ 53.9404244166, 23.1161176882 ],
 					[ 53.937991022, 23.115539952 ],
@@ -1510,6 +1152,45 @@
 				"startTime" : "2026-05-05T00:01:00+04:00",
 				"endTime" : "2026-05-11T05:00:00+04:00",
 				"name" : "PARTIAL ROAD CLOSURE IN AL DHAFRA REGION"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.5632766616, 24.3955703523 ],
+					[ 54.5628745864, 24.3954928982 ],
+					[ 54.5609431997, 24.3950919894 ],
+					[ 54.5577881405, 24.3944700129 ],
+					[ 54.5567229709, 24.3942590859 ],
+					[ 54.5562236133, 24.3941432604 ],
+					[ 54.5548323738, 24.3938610415 ],
+					[ 54.5542571225, 24.3937644705 ],
+					[ 54.55231605, 24.3933774526 ],
+					[ 54.5491481018, 24.3927458605 ],
+					[ 54.5471506842, 24.3923479699 ],
+					[ 54.5461603309, 24.3921318781 ],
+					[ 54.5449688219, 24.3918919947 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00489",
+				"creationtime" : "2026-05-08T07:14:34+04:00",
+				"updatetime" : "2026-05-08T11:15:11+04:00",
+				"street" : "Al Khaleej Al Arabi Street",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Road Closure of Left Lane on Al Khaleej Al Arabi St. (E20) Abu Dhabi",
+				"lanePosition" : "Left",
+				"lane_impact" : {
+					"total_closed_lanes" : 1,
+					"roadside" : "Left"
+				},
+				"startTime" : "2026-05-08T00:01:00+04:00",
+				"endTime" : "2026-05-11T05:00:00+04:00",
+				"name" : "PARTIAL ROAD CLOSURE IN ABU DHABI"
 			}
 		}
 	]
