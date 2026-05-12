@@ -1117,6 +1117,51 @@
 				"endTime" : "2026-05-24T23:59:00+04:00",
 				"name" : "ROAD CLOSURE IN AL AIN"
 			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 53.5798892759, 24.0304016112 ],
+					[ 53.576291663, 24.0304736856 ],
+					[ 53.5734607528, 24.0305291009 ],
+					[ 53.5677989719, 24.030638025 ],
+					[ 53.5623532055, 24.0307446675 ],
+					[ 53.5543641582, 24.0309016757 ],
+					[ 53.551374514, 24.0309604311 ],
+					[ 53.5504917539, 24.031007364 ],
+					[ 53.549381253, 24.0311009313 ],
+					[ 53.5478548014, 24.0312686836 ],
+					[ 53.5467626611, 24.0314396402 ],
+					[ 53.5458226591, 24.0316049878 ],
+					[ 53.5447879216, 24.0318104739 ],
+					[ 53.543520115, 24.0321198344 ],
+					[ 53.5416341026, 24.0326557269 ],
+					[ 53.5389677872, 24.0334683516 ],
+					[ 53.5353713399, 24.0345697639 ],
+					[ 53.5331312609, 24.0352553234 ],
+					[ 53.5301874237, 24.036155462 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00491",
+				"creationtime" : "2026-05-11T14:17:27+04:00",
+				"updatetime" : "2026-05-11T18:18:11+04:00",
+				"street" : "Sheikh Khalifa Bin Zayed Int'l Road - E11",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Road Closure of Two Left Lanes Towards Al Ghuweifat on Sheikh Khalifa Bin Zayed Int’l Road (E11) Near Al Mirfa in Al Dhafra Region",
+				"lanePosition" : "Left",
+				"lane_impact" : {
+					"total_closed_lanes" : 2,
+					"roadside" : "Left"
+				},
+				"startTime" : "2026-05-12T00:01:00+04:00",
+				"endTime" : "2026-05-15T05:00:00+04:00",
+				"name" : "PARTIAL ROAD CLOSURE IN AL DHAFRA REGION"
+			}
 		}
 	]
 }
