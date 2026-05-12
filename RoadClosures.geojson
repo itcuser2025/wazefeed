@@ -1162,6 +1162,40 @@
 				"endTime" : "2026-05-15T05:00:00+04:00",
 				"name" : "PARTIAL ROAD CLOSURE IN AL DHAFRA REGION"
 			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 53.7389737853, 23.5173166357 ],
+					[ 53.7402145889, 23.5109559682 ],
+					[ 53.7417964047, 23.5027976397 ],
+					[ 53.7439486766, 23.4917748113 ],
+					[ 53.7477897809, 23.4719834292 ],
+					[ 53.7506871735, 23.4569944547 ],
+					[ 53.7513275492, 23.4536998577 ],
+					[ 53.7541215558, 23.4392461579 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00492",
+				"creationtime" : "2026-05-12T11:31:45+04:00",
+				"updatetime" : "2026-05-12T15:32:18+04:00",
+				"street" : "Sheikha Salama Bint Butti Road",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Road Closure of Left Lane Towards Liwa on Sheikha Salama Bint Butti Road (E45) in Madinat Zayed - Al Dhafra Region",
+				"lanePosition" : "Left",
+				"lane_impact" : {
+					"total_closed_lanes" : 1,
+					"roadside" : "Left"
+				},
+				"startTime" : "2026-05-13T00:01:00+04:00",
+				"endTime" : "2026-05-26T05:00:00+04:00",
+				"name" : "PARTIAL ROAD CLOSURE IN MADINAT ZAYED - AL DHAFRA REGION"
+			}
 		}
 	]
 }
