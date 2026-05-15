@@ -1123,51 +1123,6 @@
 			"geometry" : {
 				"type" : "LineString",
 				"coordinates" : [
-					[ 53.5798892759, 24.0304016112 ],
-					[ 53.576291663, 24.0304736856 ],
-					[ 53.5734607528, 24.0305291009 ],
-					[ 53.5677989719, 24.030638025 ],
-					[ 53.5623532055, 24.0307446675 ],
-					[ 53.5543641582, 24.0309016757 ],
-					[ 53.551374514, 24.0309604311 ],
-					[ 53.5504917539, 24.031007364 ],
-					[ 53.549381253, 24.0311009313 ],
-					[ 53.5478548014, 24.0312686836 ],
-					[ 53.5467626611, 24.0314396402 ],
-					[ 53.5458226591, 24.0316049878 ],
-					[ 53.5447879216, 24.0318104739 ],
-					[ 53.543520115, 24.0321198344 ],
-					[ 53.5416341026, 24.0326557269 ],
-					[ 53.5389677872, 24.0334683516 ],
-					[ 53.5353713399, 24.0345697639 ],
-					[ 53.5331312609, 24.0352553234 ],
-					[ 53.5301874237, 24.036155462 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00491",
-				"creationtime" : "2026-05-11T14:17:27+04:00",
-				"updatetime" : "2026-05-11T18:18:11+04:00",
-				"street" : "Sheikh Khalifa Bin Zayed Int'l Road - E11",
-				"type" : "HAZARD",
-				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Partial Road Closure of Two Left Lanes Towards Al Ghuweifat on Sheikh Khalifa Bin Zayed Int’l Road (E11) Near Al Mirfa in Al Dhafra Region",
-				"lanePosition" : "Left",
-				"lane_impact" : {
-					"total_closed_lanes" : 2,
-					"roadside" : "Left"
-				},
-				"startTime" : "2026-05-12T00:01:00+04:00",
-				"endTime" : "2026-05-15T05:00:00+04:00",
-				"name" : "PARTIAL ROAD CLOSURE IN AL DHAFRA REGION"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
 					[ 53.7389737853, 23.5173166357 ],
 					[ 53.7402145889, 23.5109559682 ],
 					[ 53.7417964047, 23.5027976397 ],
@@ -1195,6 +1150,78 @@
 				"startTime" : "2026-05-13T00:01:00+04:00",
 				"endTime" : "2026-05-26T05:00:00+04:00",
 				"name" : "PARTIAL ROAD CLOSURE IN MADINAT ZAYED - AL DHAFRA REGION"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 53.5677989719, 24.030638025 ],
+					[ 53.5623532055, 24.0307446675 ],
+					[ 53.5543641582, 24.0309016757 ],
+					[ 53.551374514, 24.0309604311 ],
+					[ 53.5504917539, 24.031007364 ],
+					[ 53.549381253, 24.0311009313 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00493",
+				"creationtime" : "2026-05-15T07:43:22+04:00",
+				"updatetime" : "2026-05-15T11:44:05+04:00",
+				"street" : "Sheikh Khalifa Bin Zayed Int'l Road - E11",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Road Closure of Two Right  Lanes Towards Al Ghuweifat on Sheikh Khalifa Bin Zayed Int’l Road (E11) Near Al Mirfa in Al Dhafra Region",
+				"lanePosition" : "Right ",
+				"lane_impact" : {
+					"total_closed_lanes" : 2,
+					"roadside" : "Right "
+				},
+				"startTime" : "2026-05-16T00:01:00+04:00",
+				"endTime" : "2026-05-20T06:00:00+04:00",
+				"name" : "PARTIAL ROAD CLOSURE IN AL DHAFRA REGION"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 55.6351992504, 24.2167732135 ],
+					[ 55.63760348, 24.2177333135 ],
+					[ 55.6402375313, 24.218785988 ],
+					[ 55.6410323594, 24.2191036339 ],
+					[ 55.6417474796, 24.219389425 ],
+					[ 55.6449868331, 24.2206869425 ],
+					[ 55.6470107501, 24.221492066 ],
+					[ 55.6474729729, 24.2216682396 ],
+					[ 55.647968681, 24.221837751 ],
+					[ 55.6485243649, 24.2220068002 ],
+					[ 55.6490315807, 24.2221403441 ],
+					[ 55.6502215133, 24.2224491335 ],
+					[ 55.6508613126, 24.2226588905 ],
+					[ 55.6520813671, 24.2231107504 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00494",
+				"creationtime" : "2026-05-15T08:25:46+04:00",
+				"updatetime" : "2026-05-15T12:27:08+04:00",
+				"street" : "Hamdan Bin Mohammed Street",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Road Closure of Two Right lanes on Hamdan Bin Mohammed Street Al Ain.",
+				"lanePosition" : "Right ",
+				"lane_impact" : {
+					"total_closed_lanes" : 2,
+					"roadside" : "Right "
+				},
+				"startTime" : "2026-05-16T12:01:00+04:00",
+				"endTime" : "2026-05-18T05:00:00+04:00",
+				"name" : "PARTIAL ROAD CLOSURE IN AL AIN"
 			}
 		}
 	]
