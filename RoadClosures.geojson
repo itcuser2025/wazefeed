@@ -1050,110 +1050,29 @@
 			"geometry" : {
 				"type" : "LineString",
 				"coordinates" : [
-					[ 53.5677989719, 24.030638025 ],
-					[ 53.5623532055, 24.0307446675 ],
-					[ 53.5543641582, 24.0309016757 ],
-					[ 53.551374514, 24.0309604311 ],
-					[ 53.5504917539, 24.031007364 ],
-					[ 53.549381253, 24.0311009313 ]
+					[ 54.4103109604, 24.5271520656 ],
+					[ 54.4109100725, 24.5277015622 ],
+					[ 54.4113595978, 24.5281046527 ],
+					[ 54.4117614068, 24.5284768236 ],
+					[ 54.4118378024, 24.5285534873 ]
 				]
 			},
 			"properties" : {
-				"id" : "AD00493",
-				"creationtime" : "2026-05-15T07:43:22+04:00",
-				"updatetime" : "2026-05-15T11:44:05+04:00",
-				"street" : "Sheikh Khalifa Bin Zayed Int'l Road - E11",
+				"id" : "AD00497",
+				"creationtime" : "2026-05-20T12:31:33+04:00",
+				"updatetime" : "2026-05-20T16:32:15+04:00",
+				"street" : "None",
 				"type" : "HAZARD",
 				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
 				"direction" : "ONE_DIRECTION",
-				"description" : "Partial Road Closure of Two Right  Lanes Towards Al Ghuweifat on Sheikh Khalifa Bin Zayed Int’l Road (E11) Near Al Mirfa in Al Dhafra Region",
+				"description" : "Partial Road Closure of Right lane on Shk. Khalifa Bin Zayed Street - Abu Dhabi.",
 				"lanePosition" : "Right ",
 				"lane_impact" : {
-					"total_closed_lanes" : 2,
+					"total_closed_lanes" : 1,
 					"roadside" : "Right "
 				},
-				"startTime" : "2026-05-16T00:01:00+04:00",
-				"endTime" : "2026-05-20T06:00:00+04:00",
-				"name" : "PARTIAL ROAD CLOSURE IN AL DHAFRA REGION"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 55.6351992504, 24.2167732135 ],
-					[ 55.63760348, 24.2177333135 ],
-					[ 55.6402375313, 24.218785988 ],
-					[ 55.6410323594, 24.2191036339 ],
-					[ 55.6417474796, 24.219389425 ],
-					[ 55.6449868331, 24.2206869425 ],
-					[ 55.6470107501, 24.221492066 ],
-					[ 55.6474729729, 24.2216682396 ],
-					[ 55.647968681, 24.221837751 ],
-					[ 55.6485243649, 24.2220068002 ],
-					[ 55.6490315807, 24.2221403441 ],
-					[ 55.6502215133, 24.2224491335 ],
-					[ 55.6508613126, 24.2226588905 ],
-					[ 55.6520813671, 24.2231107504 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00494",
-				"creationtime" : "2026-05-15T08:25:46+04:00",
-				"updatetime" : "2026-05-15T12:27:08+04:00",
-				"street" : "Hamdan Bin Mohammed Street",
-				"type" : "HAZARD",
-				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Partial Road Closure of Two Right lanes on Hamdan Bin Mohammed Street Al Ain.",
-				"lanePosition" : "Right ",
-				"lane_impact" : {
-					"total_closed_lanes" : 2,
-					"roadside" : "Right "
-				},
-				"startTime" : "2026-05-16T12:01:00+04:00",
-				"endTime" : "2026-05-18T05:00:00+04:00",
-				"name" : "PARTIAL ROAD CLOSURE IN AL AIN"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.4030315348, 24.4548946158 ],
-					[ 54.4030633618, 24.4549034894 ],
-					[ 54.403096455, 24.4549066514 ],
-					[ 54.4031615767, 24.4548955925 ],
-					[ 54.4031912265, 24.4548817753 ],
-					[ 54.4032564157, 24.454835221 ],
-					[ 54.4032943104, 24.4547895741 ],
-					[ 54.4035225628, 24.4544468541 ],
-					[ 54.4037483277, 24.4541121894 ],
-					[ 54.4039043016, 24.4538705263 ],
-					[ 54.4042397065, 24.4533508585 ],
-					[ 54.4048580309, 24.4523958378 ],
-					[ 54.4050937612, 24.4520473055 ],
-					[ 54.4054219921, 24.4515330084 ],
-					[ 54.4056739939, 24.4511535359 ],
-					[ 54.4058275144, 24.4509404451 ],
-					[ 54.4061909619, 24.4505255888 ],
-					[ 54.4065477518, 24.450182832 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00495",
-				"creationtime" : "2026-05-16T10:08:01+04:00",
-				"updatetime" : "2026-05-16T14:08:58+04:00",
-				"street" : "E10 > Dubai",
-				"type" : "ROAD_CLOSED",
-				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Road Closure of Free Right Turn & U-Turn on Sheikh Zayed Bin Sultan Street - Abu Dhabi",
-				"lanePosition" : null,
-				"startTime" : "2026-05-16T23:00:00+04:00",
-				"endTime" : "2026-05-17T10:00:00+04:00",
+				"startTime" : "2026-01-19T00:01:00+04:00",
+				"endTime" : "2026-12-31T23:59:00+04:00",
 				"name" : "ROAD CLOSURE IN ABU DHABI"
 			}
 		},
@@ -1162,32 +1081,31 @@
 			"geometry" : {
 				"type" : "LineString",
 				"coordinates" : [
-					[ 54.4036405934, 24.4551470699 ],
-					[ 54.4035565284, 24.4551702292 ],
-					[ 54.4034798882, 24.4551717257 ],
-					[ 54.4034118428, 24.4551607288 ],
-					[ 54.4033719776, 24.4551476697 ],
-					[ 54.4033236166, 24.4551117067 ],
-					[ 54.4032893021, 24.455081664 ],
-					[ 54.4032497724, 24.4550173058 ],
-					[ 54.4032405246, 24.4549792006 ],
-					[ 54.4032402333, 24.4549310069 ],
-					[ 54.403251696, 24.4548734278 ],
-					[ 54.4032943104, 24.4547895741 ]
+					[ 54.4118378024, 24.5285534873 ],
+					[ 54.4120270953, 24.5286661714 ],
+					[ 54.4125783428, 24.5289779754 ],
+					[ 54.4130802023, 24.5292477909 ],
+					[ 54.413594619, 24.5294928201 ],
+					[ 54.414120369, 24.5297124822 ],
+					[ 54.4144485307, 24.5298366067 ]
 				]
 			},
 			"properties" : {
-				"id" : "AD00496",
-				"creationtime" : "2026-05-16T10:08:01+04:00",
-				"updatetime" : "2026-05-16T14:09:04+04:00",
-				"street" : "None",
-				"type" : "ROAD_CLOSED",
-				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"id" : "AD00498",
+				"creationtime" : "2026-05-20T12:31:33+04:00",
+				"updatetime" : "2026-05-20T16:32:22+04:00",
+				"street" : "Shk. Khalifa Bin Zayed Street",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
 				"direction" : "ONE_DIRECTION",
-				"description" : "Road Closure of Free Right Turn & U-Turn on Sheikh Zayed Bin Sultan Street - Abu Dhabi",
-				"lanePosition" : null,
-				"startTime" : "2026-05-16T23:00:00+04:00",
-				"endTime" : "2026-05-17T10:00:00+04:00",
+				"description" : "Partial Road Closure of Right lane on Shk. Khalifa Bin Zayed Street - Abu Dhabi.",
+				"lanePosition" : "Right ",
+				"lane_impact" : {
+					"total_closed_lanes" : 1,
+					"roadside" : "Right "
+				},
+				"startTime" : "2026-01-19T00:01:00+04:00",
+				"endTime" : "2026-12-31T23:59:00+04:00",
 				"name" : "ROAD CLOSURE IN ABU DHABI"
 			}
 		}
