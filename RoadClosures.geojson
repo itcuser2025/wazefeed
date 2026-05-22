@@ -1108,6 +1108,78 @@
 				"endTime" : "2026-12-31T23:59:00+04:00",
 				"name" : "ROAD CLOSURE IN ABU DHABI"
 			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.525880581, 24.3262200149 ],
+					[ 54.5257877197, 24.3259783563 ],
+					[ 54.5257246521, 24.3258474267 ],
+					[ 54.5256546884, 24.3257193705 ],
+					[ 54.525578095, 24.3255946705 ],
+					[ 54.5255260971, 24.325520221 ],
+					[ 54.5254342754, 24.3253991641 ],
+					[ 54.5253563518, 24.3253052821 ],
+					[ 54.5252558481, 24.3251944245 ],
+					[ 54.5251586772, 24.3250977537 ],
+					[ 54.5250564486, 24.3250054751 ],
+					[ 54.5249202454, 24.3248944412 ],
+					[ 54.5248442194, 24.3248386554 ],
+					[ 54.5247645152, 24.3247873014 ],
+					[ 54.5245502922, 24.3246721135 ],
+					[ 54.5243668826, 24.3245948744 ],
+					[ 54.5239826806, 24.3244625301 ],
+					[ 54.5237712949, 24.3243980766 ],
+					[ 54.5235322713, 24.3243444356 ],
+					[ 54.5233195924, 24.3243133083 ],
+					[ 54.5223699164, 24.3242226054 ],
+					[ 54.5214744084, 24.3241200188 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00500",
+				"creationtime" : "2026-05-22T05:02:59+04:00",
+				"updatetime" : "2026-05-22T05:28:08+04:00",
+				"street" : "An Nisaylah Street",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Road Closure Free Right on Al Rawdah Road (E30) - Abu Dhabi Towarder to An Nisaylah Street",
+				"lanePosition" : "Right ",
+				"startTime" : "2026-05-23T12:01:00+04:00",
+				"endTime" : "2026-05-25T05:00:00+04:00",
+				"name" : "ROAD CLOSURE ON AL RAWDAH ROAD (E30)- ABU DHABI "
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.5261879468, 24.3278355247 ],
+					[ 54.5261643711, 24.3277813243 ],
+					[ 54.5261288263, 24.3275124873 ],
+					[ 54.5259562077, 24.3265023184 ],
+					[ 54.5259231549, 24.3263566355 ],
+					[ 54.525880581, 24.3262200149 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00499",
+				"creationtime" : "2026-05-22T05:02:59+04:00",
+				"updatetime" : "2026-05-22T05:28:08+04:00",
+				"street" : "An Nisaylah Street",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Road Closure Free Right on Al Rawdah Road (E30) - Abu Dhabi Towarder to An Nisaylah Street",
+				"lanePosition" : "Right ",
+				"startTime" : "2026-05-23T12:01:00+04:00",
+				"endTime" : "2026-05-25T05:00:00+04:00",
+				"name" : "ROAD CLOSURE ON AL RAWDAH ROAD (E30)- ABU DHABI "
+			}
 		}
 	]
 }
