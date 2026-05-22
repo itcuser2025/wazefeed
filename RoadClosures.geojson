@@ -1180,6 +1180,46 @@
 				"endTime" : "2026-05-25T05:00:00+04:00",
 				"name" : "ROAD CLOSURE ON AL RAWDAH ROAD (E30)- ABU DHABI "
 			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 55.6254354954, 24.2960328522 ],
+					[ 55.6225909919, 24.2963763546 ],
+					[ 55.6174278302, 24.2969997161 ],
+					[ 55.6144102747, 24.297358506 ],
+					[ 55.6082408454, 24.2980917457 ],
+					[ 55.6079617786, 24.295988647 ],
+					[ 55.6075616999, 24.2934465918 ],
+					[ 55.6073755124, 24.2919383622 ],
+					[ 55.6068318236, 24.2881154754 ],
+					[ 55.6064760213, 24.2856460522 ],
+					[ 55.606231528, 24.2839750048 ],
+					[ 55.6012178534, 24.2845747249 ],
+					[ 55.600231495, 24.2776297356 ],
+					[ 55.6001733259, 24.2772201493 ],
+					[ 55.5999841787, 24.2758882731 ],
+					[ 55.5998705539, 24.2750881778 ],
+					[ 55.5996632224, 24.2736282202 ],
+					[ 55.5994640612, 24.2722261016 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00501",
+				"creationtime" : "2026-05-22T18:12:47+04:00",
+				"updatetime" : "2025-06-23T22:15:19+04:00",
+				"street" : "Abu Seenah St",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_EVENT",
+				"direction" : "BOTH_DIRECTIONS",
+				"description" : "Road Closure for Event  both side on Abu Seenah Street - AL Ain - near Al AIn International Airport ",
+				"lanePosition" : null,
+				"startTime" : "2026-05-23T16:01:00+04:00",
+				"endTime" : "2026-05-23T23:00:00+04:00",
+				"name" : "ROAD CLOSURE FOR PRESIDENTIAL GUARD RUN EVENT AL AIN"
+			}
 		}
 	]
 }
