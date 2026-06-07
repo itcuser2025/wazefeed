@@ -825,6 +825,72 @@
 				"endTime" : "2026-06-15T05:00:00+04:00",
 				"name" : "PARTIAL ROAD CLOSURE IN MADINAT ZAYED - AL DHAFRA REGION"
 			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.4411402085, 24.4267210738 ],
+					[ 54.4428236242, 24.4264820826 ],
+					[ 54.444309914, 24.4262672354 ],
+					[ 54.4461739622, 24.4260061533 ],
+					[ 54.4475604946, 24.4258145194 ],
+					[ 54.4487430599, 24.4256382568 ],
+					[ 54.4490354026, 24.4255841563 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00504",
+				"creationtime" : "2026-06-07T10:12:54+04:00",
+				"updatetime" : "2026-06-07T14:14:05+04:00",
+				"street" : "Shk. Rashid Bin Saeed Street",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Road Closure of Left Lane on Sheikh Rashid Bin Saeed Street Abu Dhabi",
+				"lanePosition" : "Left",
+				"lane_impact" : {
+					"total_closed_lanes" : 1,
+					"roadside" : "Left"
+				},
+				"startTime" : "2026-06-06T00:01:00+04:00",
+				"endTime" : "2026-06-22T05:00:00+04:00",
+				"name" : "PARTIAL ROAD CLOSURE IN ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.4490459147, 24.4257144555 ],
+					[ 54.447774875, 24.4258905382 ],
+					[ 54.4462933346, 24.4260983886 ],
+					[ 54.445079248, 24.4262681303 ],
+					[ 54.4440022226, 24.4264242328 ],
+					[ 54.4421173929, 24.4266924502 ],
+					[ 54.4413504169, 24.4268026162 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00503",
+				"creationtime" : "2026-06-07T10:12:54+04:00",
+				"updatetime" : "2026-06-07T14:13:58+04:00",
+				"street" : "Shk. Rashid Bin Saeed Street",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Road Closure of Left Lane on Sheikh Rashid Bin Saeed Street Abu Dhabi",
+				"lanePosition" : "Left",
+				"lane_impact" : {
+					"total_closed_lanes" : 1,
+					"roadside" : "Left"
+				},
+				"startTime" : "2026-06-06T00:01:00+04:00",
+				"endTime" : "2026-06-22T05:00:00+04:00",
+				"name" : "PARTIAL ROAD CLOSURE IN ABU DHABI"
+			}
 		}
 	]
 }
