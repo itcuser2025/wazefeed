@@ -950,7 +950,7 @@
 				"direction" : "BOTH_DIRECTIONS",
 				"description" : "Road Closure on Al Riyoum Street - Al Ain",
 				"lanePosition" : null,
-				"startTime" : "2026-06-19T12:01:00+04:00",
+				"startTime" : "2026-06-19T00:01:00+04:00",
 				"endTime" : "2026-07-03T23:59:00+04:00",
 				"name" : "ROAD CLOSURE IN AL AIN"
 			}
@@ -984,7 +984,7 @@
 				"direction" : "ONE_DIRECTION",
 				"description" : "Road Closure on Al Riyoum Street - Al Ain",
 				"lanePosition" : null,
-				"startTime" : "2026-06-19T12:01:00+04:00",
+				"startTime" : "2026-06-19T00:01:00+04:00",
 				"endTime" : "2026-07-03T23:59:00+04:00",
 				"name" : "ROAD CLOSURE IN AL AIN"
 			}
@@ -1018,7 +1018,7 @@
 				"direction" : "ONE_DIRECTION",
 				"description" : "Road Closure on Al Riyoum Street - Al Ain",
 				"lanePosition" : null,
-				"startTime" : "2026-06-19T12:01:00+04:00",
+				"startTime" : "2026-06-19T00:01:00+04:00",
 				"endTime" : "2026-07-03T23:59:00+04:00",
 				"name" : "ROAD CLOSURE IN AL AIN"
 			}
@@ -1054,7 +1054,7 @@
 				"direction" : "BOTH_DIRECTIONS",
 				"description" : "Road Closure on Al Furousiyyah Street - Al Ain",
 				"lanePosition" : null,
-				"startTime" : "2026-06-19T12:01:00+04:00",
+				"startTime" : "2026-06-19T00:01:00+04:00",
 				"endTime" : "2026-07-03T23:59:00+04:00",
 				"name" : "ROAD CLOSURE IN AL AIN"
 			}
@@ -1081,7 +1081,7 @@
 				"direction" : "ONE_DIRECTION",
 				"description" : "Road Closure on Al Furousiyyah Street - Al Ain",
 				"lanePosition" : null,
-				"startTime" : "2026-06-19T12:01:00+04:00",
+				"startTime" : "2026-06-19T00:01:00+04:00",
 				"endTime" : "2026-07-03T23:59:00+04:00",
 				"name" : "ROAD CLOSURE IN AL AIN"
 			}
@@ -1108,7 +1108,7 @@
 				"direction" : "ONE_DIRECTION",
 				"description" : "Road Closure on Al Furousiyyah Street - Al Ain",
 				"lanePosition" : null,
-				"startTime" : "2026-06-19T12:01:00+04:00",
+				"startTime" : "2026-06-19T00:01:00+04:00",
 				"endTime" : "2026-07-03T23:59:00+04:00",
 				"name" : "ROAD CLOSURE IN AL AIN"
 			}
@@ -1143,7 +1143,7 @@
 					"total_closed_lanes" : null,
 					"roadside" : "Left"
 				},
-				"startTime" : "2026-06-19T12:01:00+04:00",
+				"startTime" : "2026-06-19T00:01:00+04:00",
 				"endTime" : "2026-06-28T05:00:00+04:00",
 				"name" : "PARTIAL ROAD CLOSURE IN MADINAT ZAYED - AL DHAFRA REGION"
 			}
@@ -1179,7 +1179,7 @@
 					"total_closed_lanes" : null,
 					"roadside" : "Left"
 				},
-				"startTime" : "2026-06-19T12:01:00+04:00",
+				"startTime" : "2026-06-19T00:01:00+04:00",
 				"endTime" : "2026-06-28T05:00:00+04:00",
 				"name" : "PARTIAL ROAD CLOSURE IN MADINAT ZAYED - AL DHAFRA REGION"
 			}
