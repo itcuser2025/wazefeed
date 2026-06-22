@@ -795,80 +795,6 @@
 			"geometry" : {
 				"type" : "LineString",
 				"coordinates" : [
-					[ 54.4525063234, 24.4247958834 ],
-					[ 54.4520604234, 24.4249579431 ],
-					[ 54.4512428236, 24.4252179488 ],
-					[ 54.4500502299, 24.4255457139 ],
-					[ 54.4489033938, 24.4257341992 ],
-					[ 54.447774875, 24.4258905382 ],
-					[ 54.4462933346, 24.4260983886 ],
-					[ 54.445079248, 24.4262681303 ],
-					[ 54.4440022226, 24.4264242328 ],
-					[ 54.4417165408, 24.4267500275 ],
-					[ 54.4408673487, 24.4268938246 ],
-					[ 54.4398299061, 24.4270489909 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00503",
-				"creationtime" : "2026-06-07T10:12:54+04:00",
-				"updatetime" : "2026-06-18T09:26:21+04:00",
-				"street" : "Shk. Rashid Bin Saeed Street",
-				"type" : "HAZARD",
-				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Partial Road Closure of Left Lane on Sheikh Rashid Bin Saeed Street Abu Dhabi",
-				"lanePosition" : "Left",
-				"lane_impact" : {
-					"total_closed_lanes" : 1,
-					"roadside" : "Left"
-				},
-				"startTime" : "2026-06-06T00:01:00+04:00",
-				"endTime" : "2026-06-22T05:00:00+04:00",
-				"name" : "PARTIAL ROAD CLOSURE IN ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.4392147474, 24.4269619932 ],
-					[ 54.4402832175, 24.4267933101 ],
-					[ 54.4414098297, 24.426682796 ],
-					[ 54.4428236242, 24.4264820826 ],
-					[ 54.444309914, 24.4262672354 ],
-					[ 54.4461739622, 24.4260061533 ],
-					[ 54.4475604946, 24.4258145194 ],
-					[ 54.4487430599, 24.4256382568 ],
-					[ 54.4502227793, 24.4253057298 ],
-					[ 54.450785798, 24.4251658276 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00504",
-				"creationtime" : "2026-06-07T10:12:54+04:00",
-				"updatetime" : "2026-06-18T09:26:13+04:00",
-				"street" : "Shk. Rashid Bin Saeed Street",
-				"type" : "HAZARD",
-				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Partial Road Closure of Left Lane on Sheikh Rashid Bin Saeed Street Abu Dhabi",
-				"lanePosition" : "Left",
-				"lane_impact" : {
-					"total_closed_lanes" : 1,
-					"roadside" : "Left"
-				},
-				"startTime" : "2026-06-06T00:01:00+04:00",
-				"endTime" : "2026-06-22T05:00:00+04:00",
-				"name" : "PARTIAL ROAD CLOSURE IN ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
 					[ 54.4438593024, 24.4209604422 ],
 					[ 54.442233088, 24.4211889473 ],
 					[ 54.4406305635, 24.4214232081 ]
@@ -1140,7 +1066,7 @@
 				"description" : "Partial Road Closure of Left Lane on Sheikha Salama Bint Butti Road (E45) in Madinat Zayed - Al Dhafra Region",
 				"lanePosition" : "Left",
 				"lane_impact" : {
-					"total_closed_lanes" : null,
+					"total_closed_lanes" : 1,
 					"roadside" : "Left"
 				},
 				"startTime" : "2026-06-19T00:01:00+04:00",
@@ -1176,12 +1102,112 @@
 				"description" : "Partial Road Closure of Left Lane on Sheikha Salama Bint Butti Road (E45) in Madinat Zayed - Al Dhafra Region",
 				"lanePosition" : "Left",
 				"lane_impact" : {
-					"total_closed_lanes" : null,
+					"total_closed_lanes" : 1,
 					"roadside" : "Left"
 				},
 				"startTime" : "2026-06-19T00:01:00+04:00",
 				"endTime" : "2026-06-28T05:00:00+04:00",
 				"name" : "PARTIAL ROAD CLOSURE IN MADINAT ZAYED - AL DHAFRA REGION"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.8470955614, 24.2390993321 ],
+					[ 54.8389816288, 24.2416728509 ],
+					[ 54.8384093533, 24.2418494724 ],
+					[ 54.8380714286, 24.2419523422 ],
+					[ 54.8375215282, 24.2420738397 ],
+					[ 54.8371194296, 24.2421539909 ],
+					[ 54.8365841657, 24.2422607135 ],
+					[ 54.8361238423, 24.2423285637 ],
+					[ 54.8355297997, 24.2424006884 ],
+					[ 54.8349736787, 24.2424464576 ],
+					[ 54.8345682742, 24.2424713329 ],
+					[ 54.8341045487, 24.2424803459 ],
+					[ 54.8336604761, 24.2424797568 ],
+					[ 54.8330151909, 24.2424553339 ],
+					[ 54.8324280154, 24.2424221211 ],
+					[ 54.83200864, 24.2424004034 ],
+					[ 54.8315363304, 24.2423897977 ],
+					[ 54.8311646541, 24.2423952871 ],
+					[ 54.8307428658, 24.2424192082 ],
+					[ 54.8303185261, 24.2424603666 ],
+					[ 54.8299937359, 24.2425015753 ],
+					[ 54.8293760797, 24.2426138035 ],
+					[ 54.8279723495, 24.2429117048 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00515",
+				"creationtime" : "2026-06-19T10:03:52+04:00",
+				"updatetime" : "2026-06-19T14:05:43+04:00",
+				"street" : "Lane 3405",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "BOTH_DIRECTIONS",
+				"description" : "Road Closure in Al Hafar - Abu Dhabi",
+				"lanePosition" : null,
+				"startTime" : "2026-06-20T00:01:00+04:00",
+				"endTime" : "2026-09-20T23:59:00+04:00",
+				"name" : "ROAD CLOSURE IN ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.827605776, 24.2425785105 ],
+					[ 54.8277189602, 24.2427820972 ],
+					[ 54.8277656026, 24.2428372302 ],
+					[ 54.8278277386, 24.2428740313 ],
+					[ 54.8279723495, 24.2429117048 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00516",
+				"creationtime" : "2026-06-19T10:03:52+04:00",
+				"updatetime" : "2026-06-19T14:05:43+04:00",
+				"street" : "None",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Road Closure in Al Hafar - Abu Dhabi",
+				"lanePosition" : null,
+				"startTime" : "2026-06-20T00:01:00+04:00",
+				"endTime" : "2026-09-20T23:59:00+04:00",
+				"name" : "ROAD CLOSURE IN ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.8279723495, 24.2429117048 ],
+					[ 54.8278699401, 24.2429917382 ],
+					[ 54.8278249471, 24.2430596298 ],
+					[ 54.8278116317, 24.2430982692 ],
+					[ 54.8278027896, 24.2432079388 ],
+					[ 54.8277927648, 24.2433239963 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00517",
+				"creationtime" : "2026-06-19T10:03:52+04:00",
+				"updatetime" : "2026-06-19T14:05:43+04:00",
+				"street" : "None",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Road Closure in Al Hafar - Abu Dhabi",
+				"lanePosition" : null,
+				"startTime" : "2026-06-20T00:01:00+04:00",
+				"endTime" : "2026-09-20T23:59:00+04:00",
+				"name" : "ROAD CLOSURE IN ABU DHABI"
 			}
 		}
 	]
