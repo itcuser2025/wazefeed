@@ -1354,6 +1354,37 @@
 				"endTime" : "2026-06-30T05:00:00+04:00",
 				"name" : "PARTIAL ROAD CLOSURE IN MADINAT ZAYED - AL DHAFRA REGION"
 			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.822854976, 24.2234909648 ],
+					[ 54.8228431652, 24.2232183399 ],
+					[ 54.8227480088, 24.2224400036 ],
+					[ 54.8225440048, 24.2206180194 ],
+					[ 54.822503181, 24.2202640795 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00520",
+				"creationtime" : "2026-06-26T22:12:24+04:00",
+				"updatetime" : "2026-06-27T02:13:56+04:00",
+				"street" : "Al Haffar Road",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"direction" : "BOTH_DIRECTIONS",
+				"description" : "Partial Road Closure of Lane coming from Al Haffar towards Al Wathbah Area on Al Fayah Bridge Abu Dhabi",
+				"lanePosition" : null,
+				"lane_impact" : {
+					"total_closed_lanes" : 1,
+					"roadside" : ""
+				},
+				"startTime" : "2026-06-27T23:00:00+04:00",
+				"endTime" : "2026-06-28T23:00:00+04:00",
+				"name" : "PARTIAL ROAD CLOSURE IN ABU DHABI"
+			}
 		}
 	]
 }
