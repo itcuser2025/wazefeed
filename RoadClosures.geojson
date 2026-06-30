@@ -824,7 +824,7 @@
 					"roadside" : "Left"
 				},
 				"startTime" : "2026-06-06T00:01:00+04:00",
-				"endTime" : "2026-06-29T05:00:00+04:00",
+				"endTime" : "2026-07-02T06:00:00+04:00",
 				"name" : "PARTIAL ROAD CLOSURE IN ABU DHABI"
 			}
 		},
@@ -860,7 +860,7 @@
 					"roadside" : "Left"
 				},
 				"startTime" : "2026-06-06T00:01:00+04:00",
-				"endTime" : "2026-06-29T05:00:00+04:00",
+				"endTime" : "2026-07-02T06:00:00+04:00",
 				"name" : "PARTIAL ROAD CLOSURE IN ABU DHABI"
 			}
 		},
@@ -1118,77 +1118,6 @@
 			"geometry" : {
 				"type" : "LineString",
 				"coordinates" : [
-					[ 53.7348479638, 23.5395807846 ],
-					[ 53.7337113376, 23.5454292522 ],
-					[ 53.7330380008, 23.5488389993 ],
-					[ 53.7323140942, 23.552570559 ],
-					[ 53.7316299062, 23.5561095495 ],
-					[ 53.7310901178, 23.5588736212 ],
-					[ 53.7303020851, 23.5629288649 ],
-					[ 53.729199706, 23.5685948276 ],
-					[ 53.7286802045, 23.5712611439 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00513",
-				"creationtime" : "2026-06-18T19:42:44+04:00",
-				"updatetime" : "2026-06-18T23:44:00+04:00",
-				"street" : "Sheikha Salama Bint Butti Road",
-				"type" : "HAZARD",
-				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Partial Road Closure of Left Lane on Sheikha Salama Bint Butti Road (E45) in Madinat Zayed - Al Dhafra Region",
-				"lanePosition" : "Left",
-				"lane_impact" : {
-					"total_closed_lanes" : 1,
-					"roadside" : "Left"
-				},
-				"startTime" : "2026-06-19T00:01:00+04:00",
-				"endTime" : "2026-06-28T05:00:00+04:00",
-				"name" : "PARTIAL ROAD CLOSURE IN MADINAT ZAYED - AL DHAFRA REGION"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 53.7318971092, 23.5536850852 ],
-					[ 53.7335868049, 23.5449605723 ],
-					[ 53.7342099047, 23.541748649 ],
-					[ 53.7363553174, 23.5307904521 ],
-					[ 53.736937543, 23.5277683433 ],
-					[ 53.737646841, 23.5240866493 ],
-					[ 53.7385865966, 23.5193082599 ],
-					[ 53.739197051, 23.5161489388 ],
-					[ 53.7400567642, 23.5116996149 ],
-					[ 53.7414910579, 23.5043682823 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00514",
-				"creationtime" : "2026-06-18T19:42:44+04:00",
-				"updatetime" : "2026-06-18T23:44:04+04:00",
-				"street" : "Sheikha Salama Bint Butti Road",
-				"type" : "HAZARD",
-				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Partial Road Closure of Left Lane on Sheikha Salama Bint Butti Road (E45) in Madinat Zayed - Al Dhafra Region",
-				"lanePosition" : "Left",
-				"lane_impact" : {
-					"total_closed_lanes" : 1,
-					"roadside" : "Left"
-				},
-				"startTime" : "2026-06-19T00:01:00+04:00",
-				"endTime" : "2026-06-28T05:00:00+04:00",
-				"name" : "PARTIAL ROAD CLOSURE IN MADINAT ZAYED - AL DHAFRA REGION"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
 					[ 54.8470955614, 24.2390993321 ],
 					[ 54.8389816288, 24.2416728509 ],
 					[ 54.8384093533, 24.2418494724 ],
@@ -1282,108 +1211,6 @@
 				"startTime" : "2026-06-20T00:01:00+04:00",
 				"endTime" : "2026-09-20T23:59:00+04:00",
 				"name" : "ROAD CLOSURE IN ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 53.7348479638, 23.5395807846 ],
-					[ 53.7337113376, 23.5454292522 ],
-					[ 53.7330380008, 23.5488389993 ],
-					[ 53.7323140942, 23.552570559 ],
-					[ 53.7316299062, 23.5561095495 ],
-					[ 53.7310901178, 23.5588736212 ],
-					[ 53.7303020851, 23.5629288649 ],
-					[ 53.729199706, 23.5685948276 ],
-					[ 53.7286802045, 23.5712611439 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00518",
-				"creationtime" : "2026-06-25T12:28:37+04:00",
-				"updatetime" : "2026-06-25T16:32:17+04:00",
-				"street" : "Sheikha Salama Bint Butti Road",
-				"type" : "HAZARD",
-				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Partial Road Closure of Right Lane on Sheikha Salama Bint Butti Road (E45) in Madinat Zayed - Al Dhafra Region",
-				"lanePosition" : "Right ",
-				"lane_impact" : {
-					"total_closed_lanes" : 1,
-					"roadside" : "Right "
-				},
-				"startTime" : "2026-06-26T00:01:00+04:00",
-				"endTime" : "2026-06-30T05:00:00+04:00",
-				"name" : "PARTIAL ROAD CLOSURE IN MADINAT ZAYED - AL DHAFRA REGION"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 53.7318971092, 23.5536850852 ],
-					[ 53.7335868049, 23.5449605723 ],
-					[ 53.7342099047, 23.541748649 ],
-					[ 53.7363553174, 23.5307904521 ],
-					[ 53.736937543, 23.5277683433 ],
-					[ 53.737646841, 23.5240866493 ],
-					[ 53.7385865966, 23.5193082599 ],
-					[ 53.739197051, 23.5161489388 ],
-					[ 53.7400567642, 23.5116996149 ],
-					[ 53.7414910579, 23.5043682823 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00519",
-				"creationtime" : "2026-06-25T12:28:37+04:00",
-				"updatetime" : "2026-06-25T16:32:21+04:00",
-				"street" : "Sheikha Salama Bint Butti Road",
-				"type" : "HAZARD",
-				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Partial Road Closure of Right Lane on Sheikha Salama Bint Butti Road (E45) in Madinat Zayed - Al Dhafra Region",
-				"lanePosition" : "Right ",
-				"lane_impact" : {
-					"total_closed_lanes" : 1,
-					"roadside" : "Right "
-				},
-				"startTime" : "2026-06-26T00:01:00+04:00",
-				"endTime" : "2026-06-30T05:00:00+04:00",
-				"name" : "PARTIAL ROAD CLOSURE IN MADINAT ZAYED - AL DHAFRA REGION"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.822854976, 24.2234909648 ],
-					[ 54.8228431652, 24.2232183399 ],
-					[ 54.8227480088, 24.2224400036 ],
-					[ 54.8225440048, 24.2206180194 ],
-					[ 54.822503181, 24.2202640795 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00520",
-				"creationtime" : "2026-06-26T22:12:24+04:00",
-				"updatetime" : "2026-06-27T02:13:56+04:00",
-				"street" : "Al Haffar Road",
-				"type" : "HAZARD",
-				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
-				"direction" : "BOTH_DIRECTIONS",
-				"description" : "Partial Road Closure of Lane coming from Al Haffar towards Al Wathbah Area on Al Fayah Bridge Abu Dhabi",
-				"lanePosition" : null,
-				"lane_impact" : {
-					"total_closed_lanes" : 1,
-					"roadside" : ""
-				},
-				"startTime" : "2026-06-27T23:00:00+04:00",
-				"endTime" : "2026-06-28T23:00:00+04:00",
-				"name" : "PARTIAL ROAD CLOSURE IN ABU DHABI"
 			}
 		}
 	]
