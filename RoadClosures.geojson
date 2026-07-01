@@ -438,208 +438,6 @@
 			"geometry" : {
 				"type" : "LineString",
 				"coordinates" : [
-					[ 55.7555892885, 24.1856441872 ],
-					[ 55.7555060689, 24.1858552419 ],
-					[ 55.7552757066, 24.1864136472 ],
-					[ 55.755095281, 24.1868524048 ],
-					[ 55.7549747422, 24.1871312477 ],
-					[ 55.7547725035, 24.18754665 ],
-					[ 55.7542499354, 24.1885155885 ],
-					[ 55.7533184869, 24.1900707106 ],
-					[ 55.7531246911, 24.1903991286 ],
-					[ 55.752484095, 24.1914751414 ],
-					[ 55.75212058, 24.1920766916 ],
-					[ 55.7517505764, 24.1926940591 ],
-					[ 55.7506474446, 24.1945348364 ],
-					[ 55.7501500017, 24.1953745001 ],
-					[ 55.7500143606, 24.1956027292 ],
-					[ 55.7497387462, 24.1960595821 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00420",
-				"creationtime" : "2026-03-30T12:33:26+04:00",
-				"updatetime" : "2026-03-30T16:33:56+04:00",
-				"street" : "Khalifa Bin Zayed The First Street",
-				"type" : "ROAD_CLOSED",
-				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Traffic Diversion On Khalifa Bin Zayed The First Street - Al Ain",
-				"lanePosition" : null,
-				"startTime" : "2026-03-31T00:01:00+04:00",
-				"endTime" : "2026-06-30T23:59:00+04:00",
-				"name" : "TRAFFIC DIVERSION ON KHALIFA BIN ZAYED THE FIRST ST. AL AIN"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 55.7487768728, 24.197585683 ],
-					[ 55.7491852054, 24.1967098288 ],
-					[ 55.7495641168, 24.1960218187 ],
-					[ 55.7500105241, 24.1952641884 ],
-					[ 55.7503821167, 24.1946430914 ],
-					[ 55.7505872314, 24.1943075283 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00421",
-				"creationtime" : "2026-03-30T12:33:26+04:00",
-				"updatetime" : "2026-03-30T16:33:56+04:00",
-				"street" : "Khalifa Bin Zayed The First Street",
-				"type" : "ROAD_CLOSED",
-				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Traffic Diversion On Khalifa Bin Zayed The First Street - Al Ain",
-				"lanePosition" : null,
-				"startTime" : "2026-03-31T00:01:00+04:00",
-				"endTime" : "2026-06-30T23:59:00+04:00",
-				"name" : "TRAFFIC DIVERSION ON KHALIFA BIN ZAYED THE FIRST ST. AL AIN"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 55.7544266171, 24.1877777272 ],
-					[ 55.7547131762, 24.1871899537 ],
-					[ 55.7548431876, 24.1868724426 ],
-					[ 55.7549629827, 24.1866044743 ],
-					[ 55.7551381949, 24.1862125435 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00422",
-				"creationtime" : "2026-03-30T12:33:26+04:00",
-				"updatetime" : "2026-03-30T16:33:56+04:00",
-				"street" : "Khalifa Bin Zayed The First Street",
-				"type" : "ROAD_CLOSED",
-				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Traffic Diversion On Khalifa Bin Zayed The First Street - Al Ain",
-				"lanePosition" : null,
-				"startTime" : "2026-03-31T00:01:00+04:00",
-				"endTime" : "2026-06-30T23:59:00+04:00",
-				"name" : "TRAFFIC DIVERSION ON KHALIFA BIN ZAYED THE FIRST ST. AL AIN"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 55.7536781078, 24.1863784297 ],
-					[ 55.7538366915, 24.1864268438 ],
-					[ 55.7541304011, 24.1865210037 ],
-					[ 55.7545705419, 24.1866621065 ],
-					[ 55.7548358752, 24.1867581406 ],
-					[ 55.7551397183, 24.1868683246 ],
-					[ 55.7554500744, 24.1869874038 ],
-					[ 55.7560539457, 24.1872407689 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00423",
-				"creationtime" : "2026-03-30T12:33:26+04:00",
-				"updatetime" : "2026-03-30T16:33:56+04:00",
-				"street" : "Nahyan The First Street",
-				"type" : "ROAD_CLOSED",
-				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Traffic Diversion On Khalifa Bin Zayed The First Street - Al Ain",
-				"lanePosition" : null,
-				"startTime" : "2026-03-31T00:01:00+04:00",
-				"endTime" : "2026-06-30T23:59:00+04:00",
-				"name" : "TRAFFIC DIVERSION ON KHALIFA BIN ZAYED THE FIRST ST. AL AIN"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 55.7559039271, 24.187412954 ],
-					[ 55.7554723281, 24.1872326058 ],
-					[ 55.7550751713, 24.1870779791 ],
-					[ 55.7547124612, 24.1869482078 ],
-					[ 55.7539502858, 24.1866923606 ],
-					[ 55.753487858, 24.1865506472 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00424",
-				"creationtime" : "2026-03-30T12:33:26+04:00",
-				"updatetime" : "2026-03-30T16:33:56+04:00",
-				"street" : "Nahyan The First Street",
-				"type" : "ROAD_CLOSED",
-				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Traffic Diversion On Khalifa Bin Zayed The First Street - Al Ain",
-				"lanePosition" : null,
-				"startTime" : "2026-03-31T00:01:00+04:00",
-				"endTime" : "2026-06-30T23:59:00+04:00",
-				"name" : "TRAFFIC DIVERSION ON KHALIFA BIN ZAYED THE FIRST ST. AL AIN"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 55.751523485, 24.1957005745 ],
-					[ 55.7510903544, 24.1956634082 ],
-					[ 55.7502144372, 24.1955930885 ],
-					[ 55.7500289791, 24.1955781327 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00425",
-				"creationtime" : "2026-03-30T12:33:26+04:00",
-				"updatetime" : "2026-03-30T16:33:56+04:00",
-				"street" : "Al Mantaqah As Sinaʹiyah 1 Street",
-				"type" : "ROAD_CLOSED",
-				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Traffic Diversion On Khalifa Bin Zayed The First Street - Al Ain",
-				"lanePosition" : null,
-				"startTime" : "2026-03-31T00:01:00+04:00",
-				"endTime" : "2026-06-30T23:59:00+04:00",
-				"name" : "TRAFFIC DIVERSION ON KHALIFA BIN ZAYED THE FIRST ST. AL AIN"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 55.7511851295, 24.1955586777 ],
-					[ 55.7509745901, 24.1955385958 ],
-					[ 55.7501017468, 24.1954556936 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00426",
-				"creationtime" : "2026-03-30T12:33:26+04:00",
-				"updatetime" : "2026-03-30T16:33:56+04:00",
-				"street" : "Al Mantaqah As Sinaʹiyah 1 Street",
-				"type" : "ROAD_CLOSED",
-				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Traffic Diversion On Khalifa Bin Zayed The First Street - Al Ain",
-				"lanePosition" : null,
-				"startTime" : "2026-03-31T00:01:00+04:00",
-				"endTime" : "2026-06-30T23:59:00+04:00",
-				"name" : "TRAFFIC DIVERSION ON KHALIFA BIN ZAYED THE FIRST ST. AL AIN"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
 					[ 54.5293971344, 24.337835967 ],
 					[ 54.5293833918, 24.3381923215 ],
 					[ 54.5293166001, 24.3395468219 ],
@@ -1211,6 +1009,249 @@
 				"startTime" : "2026-06-20T00:01:00+04:00",
 				"endTime" : "2026-09-20T23:59:00+04:00",
 				"name" : "ROAD CLOSURE IN ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.5294032902, 24.3376908416 ],
+					[ 54.5298273422, 24.3376956646 ],
+					[ 54.5304313403, 24.3377132248 ],
+					[ 54.5317000184, 24.3377657191 ],
+					[ 54.5320100408, 24.3377797494 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00521",
+				"creationtime" : "2026-07-01T06:31:19+04:00",
+				"updatetime" : "2026-07-01T14:30:26+04:00",
+				"street" : "Ar Rayat Street",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Road Closures in Mohamed Bin Zayed City",
+				"lanePosition" : null,
+				"startTime" : "2026-07-03T00:01:00+04:00",
+				"endTime" : "2026-08-28T23:59:00+04:00",
+				"name" : "ROAD CLOSURES IN MOHAMED BIN ZAYED CITY"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.5320105579, 24.3379026958 ],
+					[ 54.5315221775, 24.3378820815 ],
+					[ 54.5302516414, 24.3378267894 ],
+					[ 54.5297261172, 24.3378098587 ],
+					[ 54.5293937322, 24.3378058532 ],
+					[ 54.5291238826, 24.3378095683 ],
+					[ 54.5287642293, 24.3378093102 ],
+					[ 54.5284190092, 24.3378010957 ],
+					[ 54.5272977516, 24.3377491905 ],
+					[ 54.5272006455, 24.3377461049 ],
+					[ 54.527155897, 24.3377485583 ],
+					[ 54.5271118518, 24.3377561926 ],
+					[ 54.5270692177, 24.3377688838 ],
+					[ 54.5270286852, 24.3377864296 ],
+					[ 54.5269909092, 24.3378085421 ],
+					[ 54.5269564993, 24.337834868 ],
+					[ 54.5269260132, 24.3378649809 ],
+					[ 54.5268999428, 24.3378983925 ],
+					[ 54.5268787089, 24.3379345641 ],
+					[ 54.5268626533, 24.337972913 ],
+					[ 54.5268536745, 24.3380651853 ],
+					[ 54.5268184903, 24.3384345827 ],
+					[ 54.5268047873, 24.3385841408 ],
+					[ 54.5268009688, 24.3386701187 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00522",
+				"creationtime" : "2026-07-01T06:31:19+04:00",
+				"updatetime" : "2026-07-01T14:30:32+04:00",
+				"street" : "Ar Rayat Street",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Road Closures in Mohamed Bin Zayed City",
+				"lanePosition" : null,
+				"startTime" : "2026-07-03T00:01:00+04:00",
+				"endTime" : "2026-08-28T23:59:00+04:00",
+				"name" : "ROAD CLOSURES IN MOHAMED BIN ZAYED CITY"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.5298957212, 24.3423496094 ],
+					[ 54.5296210233, 24.3423444141 ],
+					[ 54.5294642157, 24.3423857172 ],
+					[ 54.5293099145, 24.3424535747 ],
+					[ 54.5292740235, 24.3424888982 ],
+					[ 54.5292307562, 24.3425164256 ],
+					[ 54.5291650499, 24.3425388835 ],
+					[ 54.5290863386, 24.3425427532 ],
+					[ 54.5290103216, 24.3425236516 ],
+					[ 54.5289637277, 24.3424981271 ],
+					[ 54.528910281, 24.3424470618 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00523",
+				"creationtime" : "2026-07-01T06:31:19+04:00",
+				"updatetime" : "2026-07-01T14:30:51+04:00",
+				"street" : "None",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Road Closures in Mohamed Bin Zayed City",
+				"lanePosition" : null,
+				"startTime" : "2026-07-03T00:01:00+04:00",
+				"endTime" : "2026-08-28T23:59:00+04:00",
+				"name" : "ROAD CLOSURES IN MOHAMED BIN ZAYED CITY"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.5292372952, 24.3425130253 ],
+					[ 54.5291931079, 24.3425845411 ],
+					[ 54.5291599481, 24.3426555453 ],
+					[ 54.5291397943, 24.3427211167 ],
+					[ 54.5291343336, 24.3427706424 ],
+					[ 54.5290580513, 24.3444142496 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00524",
+				"creationtime" : "2026-07-01T06:31:19+04:00",
+				"updatetime" : "2026-07-01T14:30:54+04:00",
+				"street" : "Najm Suhail Street",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Road Closures in Mohamed Bin Zayed City",
+				"lanePosition" : null,
+				"startTime" : "2026-07-03T00:01:00+04:00",
+				"endTime" : "2026-08-28T23:59:00+04:00",
+				"name" : "ROAD CLOSURES IN MOHAMED BIN ZAYED CITY"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.5276862965, 24.3467652222 ],
+					[ 54.5281790458, 24.3466887781 ],
+					[ 54.5283773293, 24.3466292223 ],
+					[ 54.5284791802, 24.3465385436 ],
+					[ 54.5286085485, 24.346382317 ],
+					[ 54.5286744931, 24.3462440076 ],
+					[ 54.5287067302, 24.3460953667 ],
+					[ 54.528815318, 24.344920424 ],
+					[ 54.5289301461, 24.3439318479 ],
+					[ 54.5290016575, 24.343735748 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00525",
+				"creationtime" : "2026-07-01T06:31:19+04:00",
+				"updatetime" : "2026-07-01T14:30:58+04:00",
+				"street" : "None",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Road Closures in Mohamed Bin Zayed City",
+				"lanePosition" : null,
+				"startTime" : "2026-07-03T00:01:00+04:00",
+				"endTime" : "2026-08-28T23:59:00+04:00",
+				"name" : "ROAD CLOSURES IN MOHAMED BIN ZAYED CITY"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.52854665, 24.3511348356 ],
+					[ 54.5286079073, 24.3510470447 ],
+					[ 54.5286540686, 24.3509286957 ],
+					[ 54.5286685252, 24.3507767364 ],
+					[ 54.5287068408, 24.3499421556 ],
+					[ 54.5287576795, 24.3487932843 ],
+					[ 54.5288586176, 24.3466459056 ],
+					[ 54.5288946858, 24.3459206842 ],
+					[ 54.5290016575, 24.343735748 ],
+					[ 54.5290457908, 24.3427656448 ],
+					[ 54.5290427008, 24.3427091908 ],
+					[ 54.5290326787, 24.342653547 ],
+					[ 54.5290158767, 24.3425995625 ],
+					[ 54.5289705517, 24.3425114002 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00526",
+				"creationtime" : "2026-07-01T06:31:19+04:00",
+				"updatetime" : "2026-07-01T14:31:02+04:00",
+				"street" : "Najm Suhail Street",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Road Closures in Mohamed Bin Zayed City",
+				"lanePosition" : null,
+				"startTime" : "2026-07-03T00:01:00+04:00",
+				"endTime" : "2026-08-28T23:59:00+04:00",
+				"name" : "ROAD CLOSURES IN MOHAMED BIN ZAYED CITY"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.5255188755, 24.3468418229 ],
+					[ 54.525232749, 24.346869031 ],
+					[ 54.524932442, 24.3469238276 ],
+					[ 54.5247453164, 24.3470053169 ],
+					[ 54.5245933031, 24.3471611766 ],
+					[ 54.5245216416, 24.3473204349 ],
+					[ 54.5245115215, 24.3474496792 ],
+					[ 54.5245518822, 24.3476261765 ],
+					[ 54.5246063658, 24.3477254653 ],
+					[ 54.5247018099, 24.3478378185 ],
+					[ 54.5248880254, 24.3479490466 ],
+					[ 54.5250223022, 24.3479855942 ],
+					[ 54.5251808923, 24.3479952088 ],
+					[ 54.5253998484, 24.3479350999 ],
+					[ 54.5255612758, 24.3478191108 ],
+					[ 54.5256824972, 24.3476569999 ],
+					[ 54.5257152308, 24.3475773136 ],
+					[ 54.5257731597, 24.3474074452 ],
+					[ 54.5258573758, 24.3471604914 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00527",
+				"creationtime" : "2026-07-01T06:31:19+04:00",
+				"updatetime" : "2026-07-01T14:31:05+04:00",
+				"street" : "None",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Road Closures in Mohamed Bin Zayed City",
+				"lanePosition" : null,
+				"startTime" : "2026-07-03T00:01:00+04:00",
+				"endTime" : "2026-08-28T23:59:00+04:00",
+				"name" : "ROAD CLOSURES IN MOHAMED BIN ZAYED CITY"
 			}
 		}
 	]
