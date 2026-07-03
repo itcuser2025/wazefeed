@@ -593,80 +593,6 @@
 			"geometry" : {
 				"type" : "LineString",
 				"coordinates" : [
-					[ 54.4525063234, 24.4247958834 ],
-					[ 54.4520604234, 24.4249579431 ],
-					[ 54.4512428236, 24.4252179488 ],
-					[ 54.4500502299, 24.4255457139 ],
-					[ 54.4489033938, 24.4257341992 ],
-					[ 54.447774875, 24.4258905382 ],
-					[ 54.4462933346, 24.4260983886 ],
-					[ 54.445079248, 24.4262681303 ],
-					[ 54.4440022226, 24.4264242328 ],
-					[ 54.4417165408, 24.4267500275 ],
-					[ 54.4408673487, 24.4268938246 ],
-					[ 54.4398299061, 24.4270489909 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00503",
-				"creationtime" : "2026-06-07T10:12:54+04:00",
-				"updatetime" : "2026-06-25T16:17:13+04:00",
-				"street" : "Shk. Rashid Bin Saeed Street",
-				"type" : "HAZARD",
-				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Partial Road Closure of Left Lane on Sheikh Rashid Bin Saeed Street Abu Dhabi",
-				"lanePosition" : "Left",
-				"lane_impact" : {
-					"total_closed_lanes" : 1,
-					"roadside" : "Left"
-				},
-				"startTime" : "2026-06-06T00:01:00+04:00",
-				"endTime" : "2026-07-02T06:00:00+04:00",
-				"name" : "PARTIAL ROAD CLOSURE IN ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.4392147474, 24.4269619932 ],
-					[ 54.4402832175, 24.4267933101 ],
-					[ 54.4414098297, 24.426682796 ],
-					[ 54.4428236242, 24.4264820826 ],
-					[ 54.444309914, 24.4262672354 ],
-					[ 54.4461739622, 24.4260061533 ],
-					[ 54.4475604946, 24.4258145194 ],
-					[ 54.4487430599, 24.4256382568 ],
-					[ 54.4502227793, 24.4253057298 ],
-					[ 54.450785798, 24.4251658276 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00504",
-				"creationtime" : "2026-06-07T10:12:54+04:00",
-				"updatetime" : "2026-06-25T16:17:19+04:00",
-				"street" : "Shk. Rashid Bin Saeed Street",
-				"type" : "HAZARD",
-				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Partial Road Closure of Left Lane on Sheikh Rashid Bin Saeed Street Abu Dhabi",
-				"lanePosition" : "Left",
-				"lane_impact" : {
-					"total_closed_lanes" : 1,
-					"roadside" : "Left"
-				},
-				"startTime" : "2026-06-06T00:01:00+04:00",
-				"endTime" : "2026-07-02T06:00:00+04:00",
-				"name" : "PARTIAL ROAD CLOSURE IN ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
 					[ 54.4438593024, 24.4209604422 ],
 					[ 54.442233088, 24.4211889473 ],
 					[ 54.4406305635, 24.4214232081 ]
@@ -1252,6 +1178,117 @@
 				"startTime" : "2026-07-03T00:01:00+04:00",
 				"endTime" : "2026-08-28T23:59:00+04:00",
 				"name" : "ROAD CLOSURES IN MOHAMED BIN ZAYED CITY"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.4232466342, 24.531298148 ],
+					[ 54.4232472188, 24.531437908 ],
+					[ 54.4232489734, 24.531732633 ],
+					[ 54.423254274, 24.5325402125 ],
+					[ 54.423255569, 24.5327538977 ],
+					[ 54.4232591744, 24.5330489805 ],
+					[ 54.4232708611, 24.5331562768 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00528",
+				"creationtime" : "2026-07-03T09:36:08+04:00",
+				"updatetime" : "2026-07-03T13:36:50+04:00",
+				"street" : "None",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "BOTH_DIRECTIONS",
+				"description" : "Road Closures in Saadiyat Island - Abu Dhabi",
+				"lanePosition" : null,
+				"startTime" : "2026-07-04T00:01:00+04:00",
+				"endTime" : "2026-08-09T23:59:00+04:00",
+				"name" : "ROAD CLOSURES IN SAADIYAT ISLAND - ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.4230345561, 24.5327373313 ],
+					[ 54.4232555807, 24.5327345497 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00529",
+				"creationtime" : "2026-07-03T09:36:08+04:00",
+				"updatetime" : "2026-07-03T13:36:55+04:00",
+				"street" : "None",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "BOTH_DIRECTIONS",
+				"description" : "Road Closures in Saadiyat Island - Abu Dhabi",
+				"lanePosition" : null,
+				"startTime" : "2026-07-04T00:01:00+04:00",
+				"endTime" : "2026-08-09T23:59:00+04:00",
+				"name" : "ROAD CLOSURES IN SAADIYAT ISLAND - ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.4213777144, 24.5328324607 ],
+					[ 54.4213830123, 24.5328640619 ],
+					[ 54.421394002, 24.5329177308 ],
+					[ 54.4214015662, 24.532981115 ],
+					[ 54.4213931162, 24.5330784288 ],
+					[ 54.4213687365, 24.5332001359 ],
+					[ 54.4213668569, 24.5333928408 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00530",
+				"creationtime" : "2026-07-03T09:36:08+04:00",
+				"updatetime" : "2026-07-03T13:36:59+04:00",
+				"street" : "Jacques Chirac Street",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Road Closures in Saadiyat Island - Abu Dhabi",
+				"lanePosition" : null,
+				"startTime" : "2026-07-04T00:01:00+04:00",
+				"endTime" : "2026-08-09T23:59:00+04:00",
+				"name" : "ROAD CLOSURES IN SAADIYAT ISLAND - ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.4245057283, 24.5327865404 ],
+					[ 54.4242179389, 24.5329384305 ],
+					[ 54.4239746741, 24.5330553846 ],
+					[ 54.4235559785, 24.5332308163 ],
+					[ 54.4233147525, 24.5333228547 ],
+					[ 54.4228963564, 24.5334600462 ],
+					[ 54.4225805181, 24.5335228918 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00531",
+				"creationtime" : "2026-07-03T09:36:08+04:00",
+				"updatetime" : "2026-07-03T13:37:02+04:00",
+				"street" : "None",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Road Closures in Saadiyat Island - Abu Dhabi",
+				"lanePosition" : null,
+				"startTime" : "2026-07-04T00:01:00+04:00",
+				"endTime" : "2026-08-09T23:59:00+04:00",
+				"name" : "ROAD CLOSURES IN SAADIYAT ISLAND - ABU DHABI"
 			}
 		}
 	]
