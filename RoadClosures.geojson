@@ -651,197 +651,6 @@
 			"geometry" : {
 				"type" : "LineString",
 				"coordinates" : [
-					[ 55.6502923943, 24.1668739116 ],
-					[ 55.6505059581, 24.1669398085 ],
-					[ 55.650876995, 24.1670661174 ],
-					[ 55.6513666542, 24.1672573663 ],
-					[ 55.6518773199, 24.1674891936 ],
-					[ 55.6523973241, 24.167760484 ],
-					[ 55.6529276849, 24.1680724561 ],
-					[ 55.6544968076, 24.1690630683 ],
-					[ 55.6563709426, 24.1702442721 ],
-					[ 55.6577624968, 24.1711213206 ],
-					[ 55.6581916641, 24.1713938188 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00507",
-				"creationtime" : "2026-06-18T19:09:18+04:00",
-				"updatetime" : "2026-06-18T23:11:52+04:00",
-				"street" : "Al Riyoum Street",
-				"type" : "ROAD_CLOSED",
-				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
-				"direction" : "BOTH_DIRECTIONS",
-				"description" : "Road Closure on Al Riyoum Street - Al Ain",
-				"lanePosition" : null,
-				"startTime" : "2026-06-19T00:01:00+04:00",
-				"endTime" : "2026-07-03T23:59:00+04:00",
-				"name" : "ROAD CLOSURE IN AL AIN"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 55.658942723, 24.1713454379 ],
-					[ 55.6588605106, 24.1713758098 ],
-					[ 55.6587996283, 24.1714075298 ],
-					[ 55.6586472076, 24.171521196 ],
-					[ 55.6586045725, 24.1715396115 ],
-					[ 55.6585592629, 24.1715514951 ],
-					[ 55.6585124604, 24.1715565376 ],
-					[ 55.6584653818, 24.171554605 ],
-					[ 55.6583963318, 24.1715393183 ],
-					[ 55.6583130636, 24.1714898628 ],
-					[ 55.6582212374, 24.1714299185 ],
-					[ 55.6581916641, 24.1713938197 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00508",
-				"creationtime" : "2026-06-18T19:09:18+04:00",
-				"updatetime" : "2026-06-18T23:12:01+04:00",
-				"street" : "Al Riyoum Street",
-				"type" : "ROAD_CLOSED",
-				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Road Closure on Al Riyoum Street - Al Ain",
-				"lanePosition" : null,
-				"startTime" : "2026-06-19T00:01:00+04:00",
-				"endTime" : "2026-07-03T23:59:00+04:00",
-				"name" : "ROAD CLOSURE IN AL AIN"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 55.6581916641, 24.1713938188 ],
-					[ 55.6582196141, 24.1713982461 ],
-					[ 55.6583369298, 24.1714522252 ],
-					[ 55.6583926473, 24.1714653239 ],
-					[ 55.6584918749, 24.1714630171 ],
-					[ 55.6585446606, 24.1714497359 ],
-					[ 55.6586289523, 24.1714019738 ],
-					[ 55.6586618926, 24.1713794386 ],
-					[ 55.65872842, 24.171305955 ],
-					[ 55.6587532035, 24.1712638604 ],
-					[ 55.6587712619, 24.1712189762 ],
-					[ 55.6587822309, 24.1711722033 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00509",
-				"creationtime" : "2026-06-18T19:09:18+04:00",
-				"updatetime" : "2026-06-18T23:12:01+04:00",
-				"street" : "Al Riyoum Street",
-				"type" : "ROAD_CLOSED",
-				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Road Closure on Al Riyoum Street - Al Ain",
-				"lanePosition" : null,
-				"startTime" : "2026-06-19T00:01:00+04:00",
-				"endTime" : "2026-07-03T23:59:00+04:00",
-				"name" : "ROAD CLOSURE IN AL AIN"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 55.6503828751, 24.1669018302 ],
-					[ 55.6503875111, 24.1671611829 ],
-					[ 55.65038962, 24.1676922434 ],
-					[ 55.6503916974, 24.1682153062 ],
-					[ 55.6503934178, 24.1686486014 ],
-					[ 55.6503934178, 24.169081901 ],
-					[ 55.6503966113, 24.169885876 ],
-					[ 55.6504006861, 24.1704328662 ],
-					[ 55.650402286, 24.1708003786 ],
-					[ 55.6504073879, 24.1719720451 ],
-					[ 55.6504084545, 24.1722170887 ],
-					[ 55.6504107981, 24.1727553348 ],
-					[ 55.6504129403, 24.1734574895 ],
-					[ 55.6504195206, 24.1736761219 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00510",
-				"creationtime" : "2026-06-18T19:09:18+04:00",
-				"updatetime" : "2026-06-18T23:12:01+04:00",
-				"street" : "Al Furousiyyah Street",
-				"type" : "ROAD_CLOSED",
-				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
-				"direction" : "BOTH_DIRECTIONS",
-				"description" : "Road Closure on Al Furousiyyah Street - Al Ain",
-				"lanePosition" : null,
-				"startTime" : "2026-06-19T00:01:00+04:00",
-				"endTime" : "2026-07-03T23:59:00+04:00",
-				"name" : "ROAD CLOSURE IN AL AIN"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 55.6504195206, 24.1736761219 ],
-					[ 55.650434882, 24.173793031 ],
-					[ 55.6504699564, 24.1739063141 ],
-					[ 55.650523887, 24.1740131797 ],
-					[ 55.6506032467, 24.1741201127 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00511",
-				"creationtime" : "2026-06-18T19:09:18+04:00",
-				"updatetime" : "2026-06-18T23:12:01+04:00",
-				"street" : "Al Furousiyyah Street",
-				"type" : "ROAD_CLOSED",
-				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Road Closure on Al Furousiyyah Street - Al Ain",
-				"lanePosition" : null,
-				"startTime" : "2026-06-19T00:01:00+04:00",
-				"endTime" : "2026-07-03T23:59:00+04:00",
-				"name" : "ROAD CLOSURE IN AL AIN"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 55.6501923771, 24.1741432009 ],
-					[ 55.6502796113, 24.1740428564 ],
-					[ 55.6503487899, 24.1739285166 ],
-					[ 55.6503958793, 24.1738050873 ],
-					[ 55.6504195206, 24.1736761219 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00512",
-				"creationtime" : "2026-06-18T19:09:18+04:00",
-				"updatetime" : "2026-06-18T23:12:01+04:00",
-				"street" : "Al Furousiyyah Street",
-				"type" : "ROAD_CLOSED",
-				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Road Closure on Al Furousiyyah Street - Al Ain",
-				"lanePosition" : null,
-				"startTime" : "2026-06-19T00:01:00+04:00",
-				"endTime" : "2026-07-03T23:59:00+04:00",
-				"name" : "ROAD CLOSURE IN AL AIN"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
 					[ 54.8470955614, 24.2390993321 ],
 					[ 54.8389816288, 24.2416728509 ],
 					[ 54.8384093533, 24.2418494724 ],
@@ -1289,6 +1098,39 @@
 				"startTime" : "2026-07-04T00:01:00+04:00",
 				"endTime" : "2026-08-09T23:59:00+04:00",
 				"name" : "ROAD CLOSURES IN SAADIYAT ISLAND - ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 52.7911600733, 24.0568166351 ],
+					[ 52.7877463556, 24.0560663928 ],
+					[ 52.7839204373, 24.0552216721 ],
+					[ 52.7809783763, 24.0545728266 ],
+					[ 52.7788809567, 24.0541159161 ],
+					[ 52.7757602759, 24.0534277189 ],
+					[ 52.7701663318, 24.0521994896 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00532",
+				"creationtime" : "2026-07-05T15:41:24+04:00",
+				"updatetime" : "2026-07-05T19:42:04+04:00",
+				"street" : "Sheikh Khalifa Bin Zayed Int'l Road - E11",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Road Closure of Right Lane Towards Ghuweifat on Sheikh Khalifa Bin Zayed Int’l Road (E11) in Al Dhafra Region",
+				"lanePosition" : "Right",
+				"lane_impact" : {
+					"total_closed_lanes" : 1,
+					"roadside" : "Right"
+				},
+				"startTime" : "2026-07-06T00:01:00+04:00",
+				"endTime" : "2026-07-20T06:00:00+04:00",
+				"name" : "PARTIAL ROAD CLOSURE IN AL DHAFRA REGION"
 			}
 		}
 	]
