@@ -1132,6 +1132,73 @@
 				"endTime" : "2026-07-20T06:00:00+04:00",
 				"name" : "PARTIAL ROAD CLOSURE IN AL DHAFRA REGION"
 			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 52.7626013049, 24.0503149063 ],
+					[ 52.7673697298, 24.0512984112 ],
+					[ 52.7682503208, 24.0514865215 ],
+					[ 52.7687175636, 24.0515785194 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00533",
+				"creationtime" : "2026-07-07T12:17:40+04:00",
+				"updatetime" : "2026-07-07T16:18:03+04:00",
+				"street" : "Sheikh Khalifa Bin Zayed Int'l Road - E11",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Road Closure of Right Lane Towards Ghuweifat on Sheikh Khalifa Bin Zayed Int’l Road (E11) in Al Dhafra Region",
+				"lanePosition" : "Right",
+				"lane_impact" : {
+					"total_closed_lanes" : 1,
+					"roadside" : "Right"
+				},
+				"startTime" : "2026-07-09T00:01:00+04:00",
+				"endTime" : "2026-07-19T06:00:00+04:00",
+				"name" : "PARTIAL ROAD CLOSURE IN AL DHAFRA REGION"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 52.769409117, 24.0517238858 ],
+					[ 52.7700766316, 24.051870255 ],
+					[ 52.7704769666, 24.0519580387 ],
+					[ 52.7719455973, 24.0522800752 ],
+					[ 52.7730165334, 24.0525357021 ],
+					[ 52.7743165583, 24.0528197376 ],
+					[ 52.7770706916, 24.0534250093 ],
+					[ 52.7790610216, 24.0538636869 ],
+					[ 52.7826426535, 24.0546590725 ],
+					[ 52.7845696588, 24.0550719701 ],
+					[ 52.7860172948, 24.0553936936 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00534",
+				"creationtime" : "2026-07-07T12:17:40+04:00",
+				"updatetime" : "2026-07-07T16:18:07+04:00",
+				"street" : "Sheikh Khalifa Bin Zayed Int'l Road - E11",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Road Closure of Right Lane Towards Ghuweifat on Sheikh Khalifa Bin Zayed Int’l Road (E11) in Al Dhafra Region",
+				"lanePosition" : "Right",
+				"lane_impact" : {
+					"total_closed_lanes" : 1,
+					"roadside" : "Right"
+				},
+				"startTime" : "2026-07-09T00:01:00+04:00",
+				"endTime" : "2026-07-19T06:00:00+04:00",
+				"name" : "PARTIAL ROAD CLOSURE IN AL DHAFRA REGION"
+			}
 		}
 	]
 }
