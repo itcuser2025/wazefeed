@@ -1729,6 +1729,104 @@
 				"endTime" : "2026-07-13T05:00:00+04:00",
 				"name" : "PARTIAL ROAD CLOSURE IN ABU DHABI"
 			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 55.7479327169, 24.2010410861 ],
+					[ 55.7477593025, 24.2018280531 ],
+					[ 55.7476058736, 24.2025120973 ],
+					[ 55.7474521255, 24.2032200472 ],
+					[ 55.7473338386, 24.2037809256 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00553",
+				"creationtime" : "2026-07-10T22:20:06+04:00",
+				"updatetime" : "2026-07-11T02:21:10+04:00",
+				"street" : "Khalifa Bin Zayed The First Street",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Road Closure of Two Left Lanes During Nighttime only on Khalifa Bin Zayed The First Street - Al Ain",
+				"lanePosition" : "Left",
+				"lane_impact" : {
+					"total_closed_lanes" : 2,
+					"roadside" : "Left"
+				},
+				"startTime" : "2026-07-10T22:00:00+04:00",
+				"endTime" : "2026-07-12T10:00:00+04:00",
+				"name" : "PARTIAL ROAD CLOSURE IN AL AIN"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 55.7267329183, 24.2050887871 ],
+					[ 55.7268344104, 24.2046970946 ],
+					[ 55.7271458222, 24.2034781391 ],
+					[ 55.7274554219, 24.2022735017 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00554",
+				"creationtime" : "2026-07-10T22:20:06+04:00",
+				"updatetime" : "2026-07-11T02:21:10+04:00",
+				"street" : "Zayed The First Street",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Road Closure of Right Lane on Zayed The First Street - Al Ain",
+				"lanePosition" : "Right ",
+				"lane_impact" : {
+					"total_closed_lanes" : 1,
+					"roadside" : "Right "
+				},
+				"startTime" : "2026-07-13T00:01:00+04:00",
+				"endTime" : "2026-08-13T23:59:00+04:00",
+				"name" : "PARTIAL ROAD CLOSURE IN AL AIN"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 55.7253747837, 24.2042385141 ],
+					[ 55.7256763741, 24.2043798021 ],
+					[ 55.7259262876, 24.2045036055 ],
+					[ 55.7262536957, 24.2046760163 ],
+					[ 55.7265780056, 24.2048044098 ],
+					[ 55.7266203861, 24.2048066356 ],
+					[ 55.7266626048, 24.2048025707 ],
+					[ 55.7267421786, 24.2047761594 ],
+					[ 55.726784838, 24.2047446022 ],
+					[ 55.7268084694, 24.2047279144 ],
+					[ 55.7268344104, 24.2046970946 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00555",
+				"creationtime" : "2026-07-10T22:20:06+04:00",
+				"updatetime" : "2026-07-11T02:21:10+04:00",
+				"street" : "Al Mudun Street",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"direction" : "BOTH_DIRECTIONS",
+				"description" : "Partial Road Closure of Right Lane on Zayed The First Street - Al Ain",
+				"lanePosition" : "Right ",
+				"lane_impact" : {
+					"total_closed_lanes" : 1,
+					"roadside" : "Right "
+				},
+				"startTime" : "2026-07-13T00:01:00+04:00",
+				"endTime" : "2026-08-13T23:59:00+04:00",
+				"name" : "PARTIAL ROAD CLOSURE IN AL AIN"
+			}
 		}
 	]
 }
