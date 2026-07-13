@@ -1336,436 +1336,6 @@
 			"geometry" : {
 				"type" : "LineString",
 				"coordinates" : [
-					[ 53.7031294481, 23.6567122839 ],
-					[ 53.7033406529, 23.6567884089 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00538",
-				"creationtime" : "2026-07-09T14:10:21+04:00",
-				"updatetime" : "2026-07-09T18:16:57+04:00",
-				"street" : "Sikkat Al Khayl Street",
-				"type" : "ROAD_CLOSED",
-				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Partial Closure of Intersections on Sheikha Salama Bint Butti Road (E45) in Madinat Zayed Al Dhafra Region",
-				"lanePosition" : null,
-				"startTime" : "2026-07-10T16:00:00+04:00",
-				"endTime" : "2026-07-12T23:00:00+04:00",
-				"name" : "PARTIAL CLOSURE OF INTERSECTIONS IN MADINAT ZAYED - AL DHAFRA REGION"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 53.7033087765, 23.6568804311 ],
-					[ 53.7029706314, 23.6567551025 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00539",
-				"creationtime" : "2026-07-09T14:10:21+04:00",
-				"updatetime" : "2026-07-09T18:17:01+04:00",
-				"street" : "Sikkat Al Khayl Street",
-				"type" : "ROAD_CLOSED",
-				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Partial Closure of Intersections on Sheikha Salama Bint Butti Road (E45) in Madinat Zayed Al Dhafra Region",
-				"lanePosition" : null,
-				"startTime" : "2026-07-10T16:00:00+04:00",
-				"endTime" : "2026-07-12T23:00:00+04:00",
-				"name" : "PARTIAL CLOSURE OF INTERSECTIONS IN MADINAT ZAYED - AL DHAFRA REGION"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 53.7035353742, 23.6569665502 ],
-					[ 53.7042581296, 23.6572406635 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00540",
-				"creationtime" : "2026-07-09T14:10:21+04:00",
-				"updatetime" : "2026-07-09T18:17:01+04:00",
-				"street" : "Sikkat Al Khayl Street",
-				"type" : "ROAD_CLOSED",
-				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Partial Closure of Intersections on Sheikha Salama Bint Butti Road (E45) in Madinat Zayed Al Dhafra Region",
-				"lanePosition" : null,
-				"startTime" : "2026-07-10T16:00:00+04:00",
-				"endTime" : "2026-07-12T23:00:00+04:00",
-				"name" : "PARTIAL CLOSURE OF INTERSECTIONS IN MADINAT ZAYED - AL DHAFRA REGION"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 53.7035800129, 23.6568688181 ],
-					[ 53.704081304, 23.6570519273 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00541",
-				"creationtime" : "2026-07-09T14:10:21+04:00",
-				"updatetime" : "2026-07-09T18:17:01+04:00",
-				"street" : "Sikkat Al Khayl Street",
-				"type" : "ROAD_CLOSED",
-				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Partial Closure of Intersections on Sheikha Salama Bint Butti Road (E45) in Madinat Zayed Al Dhafra Region",
-				"lanePosition" : null,
-				"startTime" : "2026-07-10T16:00:00+04:00",
-				"endTime" : "2026-07-12T23:00:00+04:00",
-				"name" : "PARTIAL CLOSURE OF INTERSECTIONS IN MADINAT ZAYED - AL DHAFRA REGION"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 53.7040384333, 23.655718587 ],
-					[ 53.7038614234, 23.6561206245 ],
-					[ 53.7035234204, 23.6568919577 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00542",
-				"creationtime" : "2026-07-09T14:14:53+04:00",
-				"updatetime" : "2026-07-09T18:17:01+04:00",
-				"street" : "Sheikha Salama Bint Butti Road",
-				"type" : "HAZARD",
-				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Partial Closure of Left Lanes on Intersections of Sheikha Salama Bint Butti Road (E45) in Madinat Zayed Al Dhafra Region",
-				"lanePosition" : "Left",
-				"lane_impact" : {
-					"total_closed_lanes" : 2,
-					"roadside" : "Left"
-				},
-				"startTime" : "2026-07-10T16:00:00+04:00",
-				"endTime" : "2026-07-12T23:00:00+04:00",
-				"name" : "PARTIAL CLOSURE OF INTERSECTIONS IN MADINAT ZAYED - AL DHAFRA REGION"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 53.7029076806, 23.6579004511 ],
-					[ 53.7030996355, 23.6574660714 ],
-					[ 53.7033647233, 23.6568725656 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00543",
-				"creationtime" : "2026-07-09T14:14:53+04:00",
-				"updatetime" : "2026-07-09T18:17:01+04:00",
-				"street" : "Sheikha Salama Bint Butti Road",
-				"type" : "HAZARD",
-				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Partial Closure of Left Lanes on Intersections of Sheikha Salama Bint Butti Road (E45) in Madinat Zayed Al Dhafra Region",
-				"lanePosition" : "Left",
-				"lane_impact" : {
-					"total_closed_lanes" : 2,
-					"roadside" : "Left"
-				},
-				"startTime" : "2026-07-10T16:00:00+04:00",
-				"endTime" : "2026-07-12T23:00:00+04:00",
-				"name" : "PARTIAL CLOSURE OF INTERSECTIONS IN MADINAT ZAYED - AL DHAFRA REGION"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 53.7171612579, 23.6220498411 ],
-					[ 53.7166113099, 23.621936255 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00544",
-				"creationtime" : "2026-07-10T07:34:16+04:00",
-				"updatetime" : "2026-07-10T11:34:56+04:00",
-				"street" : "Al Hadeeqah Street",
-				"type" : "ROAD_CLOSED",
-				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Partial Closure of Intersections on Sheikha Salama Bint Butti Road (E45) in Madinat Zayed Al Dhafra Region",
-				"lanePosition" : null,
-				"startTime" : "2026-07-10T16:00:00+04:00",
-				"endTime" : "2026-07-12T23:00:00+04:00",
-				"name" : "PARTIAL CLOSURE OF INTERSECTIONS IN MADINAT ZAYED - AL DHAFRA REGION"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 53.7172047419, 23.6219237391 ],
-					[ 53.7166549153, 23.6217978979 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00545",
-				"creationtime" : "2026-07-10T07:34:16+04:00",
-				"updatetime" : "2026-07-10T11:34:56+04:00",
-				"street" : "Al Hadeeqah Street",
-				"type" : "ROAD_CLOSED",
-				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Partial Closure of Intersections on Sheikha Salama Bint Butti Road (E45) in Madinat Zayed Al Dhafra Region",
-				"lanePosition" : null,
-				"startTime" : "2026-07-10T16:00:00+04:00",
-				"endTime" : "2026-07-12T23:00:00+04:00",
-				"name" : "PARTIAL CLOSURE OF INTERSECTIONS IN MADINAT ZAYED - AL DHAFRA REGION"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 53.7168650194, 23.6211312394 ],
-					[ 53.7164817931, 23.6223472074 ],
-					[ 53.7161911007, 23.6232695476 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00546",
-				"creationtime" : "2026-07-10T07:34:16+04:00",
-				"updatetime" : "2026-07-10T11:34:56+04:00",
-				"street" : "Saif Bin Musa Al Hameli Street",
-				"type" : "ROAD_CLOSED",
-				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
-				"direction" : "BOTH_DIRECTIONS",
-				"description" : "Road Closure on Saif Bin Musa Al Hameli Street in Madinat Zayed Al Dhafra Region",
-				"lanePosition" : null,
-				"startTime" : "2026-07-10T16:00:00+04:00",
-				"endTime" : "2026-07-12T23:00:00+04:00",
-				"name" : "PARTIAL CLOSURE OF INTERSECTIONS IN MADINAT ZAYED - AL DHAFRA REGION"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 53.7161496105, 23.6234007173 ],
-					[ 53.7160302435, 23.6237767346 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00547",
-				"creationtime" : "2026-07-10T07:34:16+04:00",
-				"updatetime" : "2026-07-10T11:34:56+04:00",
-				"street" : "Saif Bin Musa Al Hameli Street",
-				"type" : "ROAD_CLOSED",
-				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
-				"direction" : "BOTH_DIRECTIONS",
-				"description" : "Road Closure on Saif Bin Musa Al Hameli Street in Madinat Zayed Al Dhafra Region",
-				"lanePosition" : null,
-				"startTime" : "2026-07-10T16:00:00+04:00",
-				"endTime" : "2026-07-12T23:00:00+04:00",
-				"name" : "PARTIAL CLOSURE OF INTERSECTIONS IN MADINAT ZAYED - AL DHAFRA REGION"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 53.7162255241, 23.623388169 ],
-					[ 53.7162009897, 23.6234030114 ],
-					[ 53.7161702814, 23.6234064271 ],
-					[ 53.7161496105, 23.6234007173 ],
-					[ 53.7161222621, 23.6233818261 ],
-					[ 53.7161079126, 23.6233559445 ],
-					[ 53.716105711, 23.6233285188 ],
-					[ 53.7161156485, 23.6232995381 ],
-					[ 53.716131276, 23.6232821704 ],
-					[ 53.7161547438, 23.6232703165 ],
-					[ 53.7161911007, 23.6232695476 ],
-					[ 53.7162178331, 23.6232808035 ],
-					[ 53.7162361694, 23.6232997153 ],
-					[ 53.716246633, 23.623327016 ],
-					[ 53.7162436553, 23.6233602082 ],
-					[ 53.7162391542, 23.6233704704 ],
-					[ 53.7162290683, 23.623386025 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00548",
-				"creationtime" : "2026-07-10T07:34:16+04:00",
-				"updatetime" : "2026-07-10T11:34:56+04:00",
-				"street" : "None",
-				"type" : "ROAD_CLOSED",
-				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Road Closure on Saif Bin Musa Al Hameli Street in Madinat Zayed Al Dhafra Region",
-				"lanePosition" : null,
-				"startTime" : "2026-07-10T16:00:00+04:00",
-				"endTime" : "2026-07-12T23:00:00+04:00",
-				"name" : "PARTIAL CLOSURE OF INTERSECTIONS IN MADINAT ZAYED - AL DHAFRA REGION"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 53.7166930564, 23.6237366635 ],
-					[ 53.716682395, 23.6236278069 ],
-					[ 53.7166772554, 23.6235969206 ],
-					[ 53.716653712, 23.6235390744 ],
-					[ 53.7166255003, 23.6235024288 ],
-					[ 53.7166010684, 23.6234801373 ],
-					[ 53.7165337649, 23.6234274244 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00549",
-				"creationtime" : "2026-07-10T07:34:16+04:00",
-				"updatetime" : "2026-07-10T11:34:56+04:00",
-				"street" : "None",
-				"type" : "ROAD_CLOSED",
-				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Road Closure in Madinat Zayed Al Dhafra Region",
-				"lanePosition" : null,
-				"startTime" : "2026-07-10T16:00:00+04:00",
-				"endTime" : "2026-07-12T23:00:00+04:00",
-				"name" : "PARTIAL CLOSURE OF INTERSECTIONS IN MADINAT ZAYED - AL DHAFRA REGION"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 53.7165337649, 23.6234274244 ],
-					[ 53.7166313252, 23.6234137745 ],
-					[ 53.7166941392, 23.6233948258 ],
-					[ 53.7167333802, 23.6233665223 ],
-					[ 53.7167862559, 23.623327561 ],
-					[ 53.7168408115, 23.6232623961 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00550",
-				"creationtime" : "2026-07-10T07:34:16+04:00",
-				"updatetime" : "2026-07-10T11:34:56+04:00",
-				"street" : "None",
-				"type" : "ROAD_CLOSED",
-				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Road Closure in Madinat Zayed Al Dhafra Region",
-				"lanePosition" : null,
-				"startTime" : "2026-07-10T16:00:00+04:00",
-				"endTime" : "2026-07-12T23:00:00+04:00",
-				"name" : "PARTIAL CLOSURE OF INTERSECTIONS IN MADINAT ZAYED - AL DHAFRA REGION"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 53.7165337649, 23.6234274244 ],
-					[ 53.7162464441, 23.6233493543 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00551",
-				"creationtime" : "2026-07-10T07:34:16+04:00",
-				"updatetime" : "2026-07-10T11:34:56+04:00",
-				"street" : "None",
-				"type" : "ROAD_CLOSED",
-				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
-				"direction" : "BOTH_DIRECTIONS",
-				"description" : "Road Closure in Madinat Zayed Al Dhafra Region",
-				"lanePosition" : null,
-				"startTime" : "2026-07-10T16:00:00+04:00",
-				"endTime" : "2026-07-12T23:00:00+04:00",
-				"name" : "PARTIAL CLOSURE OF INTERSECTIONS IN MADINAT ZAYED - AL DHAFRA REGION"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.5595669824, 24.3945530734 ],
-					[ 54.5667309998, 24.3959744492 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00552",
-				"creationtime" : "2026-07-10T08:10:38+04:00",
-				"updatetime" : "2026-07-10T12:11:09+04:00",
-				"street" : "Al Khaleej Al Arabi Street",
-				"type" : "HAZARD",
-				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Partial Road Closure of Right Lane on Al Khaleej Al Arabi St. (E20) Abu Dhabi",
-				"lanePosition" : "Right ",
-				"lane_impact" : {
-					"total_closed_lanes" : 1,
-					"roadside" : "Right "
-				},
-				"startTime" : "2026-07-11T00:01:00+04:00",
-				"endTime" : "2026-07-13T05:00:00+04:00",
-				"name" : "PARTIAL ROAD CLOSURE IN ABU DHABI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 55.7479327169, 24.2010410861 ],
-					[ 55.7477593025, 24.2018280531 ],
-					[ 55.7476058736, 24.2025120973 ],
-					[ 55.7474521255, 24.2032200472 ],
-					[ 55.7473338386, 24.2037809256 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00553",
-				"creationtime" : "2026-07-10T22:20:06+04:00",
-				"updatetime" : "2026-07-11T02:21:10+04:00",
-				"street" : "Khalifa Bin Zayed The First Street",
-				"type" : "HAZARD",
-				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Partial Road Closure of Two Left Lanes During Nighttime only on Khalifa Bin Zayed The First Street - Al Ain",
-				"lanePosition" : "Left",
-				"lane_impact" : {
-					"total_closed_lanes" : 2,
-					"roadside" : "Left"
-				},
-				"startTime" : "2026-07-10T22:00:00+04:00",
-				"endTime" : "2026-07-12T10:00:00+04:00",
-				"name" : "PARTIAL ROAD CLOSURE IN AL AIN"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
 					[ 55.7267329183, 24.2050887871 ],
 					[ 55.7268344104, 24.2046970946 ],
 					[ 55.7271458222, 24.2034781391 ],
@@ -1826,6 +1396,114 @@
 				"startTime" : "2026-07-13T00:01:00+04:00",
 				"endTime" : "2026-08-13T23:59:00+04:00",
 				"name" : "PARTIAL ROAD CLOSURE IN AL AIN"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.5908858403, 24.4007665505 ],
+					[ 54.5915895274, 24.4008305094 ],
+					[ 54.5926435446, 24.4010385262 ],
+					[ 54.5941076139, 24.4012972414 ],
+					[ 54.5942745236, 24.4013308149 ],
+					[ 54.5944327844, 24.4013445061 ],
+					[ 54.5945912216, 24.4013326432 ],
+					[ 54.5947582752, 24.4012809025 ],
+					[ 54.5948747716, 24.401190348 ],
+					[ 54.5949402377, 24.4011089674 ],
+					[ 54.5949910719, 24.4009724494 ],
+					[ 54.5951795788, 24.4001765656 ],
+					[ 54.595185767, 24.4001360152 ],
+					[ 54.5951870387, 24.4000950861 ],
+					[ 54.5951748331, 24.4000140887 ],
+					[ 54.5951528707, 24.399977319 ],
+					[ 54.595124641, 24.3999369934 ],
+					[ 54.5950800958, 24.3998962379 ],
+					[ 54.5950638873, 24.3998821644 ],
+					[ 54.5950095601, 24.3998600141 ],
+					[ 54.5949538301, 24.3998410088 ],
+					[ 54.5948904917, 24.3998282303 ],
+					[ 54.5927385444, 24.3993923334 ],
+					[ 54.5908008049, 24.399009412 ],
+					[ 54.5897902754, 24.398803567 ],
+					[ 54.5897091395, 24.3987926699 ],
+					[ 54.5896713715, 24.3987974247 ],
+					[ 54.5896277733, 24.3988020058 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00556",
+				"creationtime" : "2026-07-13T07:49:39+04:00",
+				"updatetime" : "2026-07-13T11:51:19+04:00",
+				"street" : "Tawi Rwayan Street",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Road Closure on Tawi Rwayan Street Entry and Exit on Al Khaleej Al Arabi St. (E20) - Abu Dhabi",
+				"lanePosition" : null,
+				"startTime" : "2026-07-12T00:01:00+04:00",
+				"endTime" : "2026-08-15T23:59:00+04:00",
+				"name" : "ROAD CLOSURE IN ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.5896439755, 24.398673892 ],
+					[ 54.5896996201, 24.39870471 ],
+					[ 54.5897669128, 24.3987291589 ],
+					[ 54.5898345292, 24.3987437513 ],
+					[ 54.5911193304, 24.3990047013 ],
+					[ 54.5928489084, 24.3993510626 ],
+					[ 54.5949885565, 24.399781024 ],
+					[ 54.5950921952, 24.3998030906 ],
+					[ 54.5951470836, 24.3998312682 ],
+					[ 54.5952009844, 24.3998732647 ],
+					[ 54.5952402866, 24.3999191041 ],
+					[ 54.5952640242, 24.3999538908 ],
+					[ 54.5952716514, 24.4000021385 ],
+					[ 54.5952751317, 24.4000494977 ],
+					[ 54.5952710632, 24.4000968173 ],
+					[ 54.5952616158, 24.4001366429 ],
+					[ 54.5950623971, 24.4009801764 ],
+					[ 54.5950465681, 24.4010477119 ],
+					[ 54.595046578, 24.4011097444 ],
+					[ 54.5950537816, 24.4011833126 ],
+					[ 54.5950763213, 24.401269035 ],
+					[ 54.5951097446, 24.4013354293 ],
+					[ 54.5951538114, 24.4013922979 ],
+					[ 54.5952127368, 24.4014548206 ],
+					[ 54.5952705614, 24.4014999234 ],
+					[ 54.5953402543, 24.4015380474 ],
+					[ 54.5954147695, 24.4015606717 ],
+					[ 54.5957729263, 24.4016406376 ],
+					[ 54.5964540512, 24.401790533 ],
+					[ 54.5966821939, 24.4018285698 ],
+					[ 54.5969310795, 24.401876706 ],
+					[ 54.5979935521, 24.4021028217 ],
+					[ 54.5983053398, 24.4021746335 ],
+					[ 54.5985575934, 24.4022351416 ],
+					[ 54.5988428583, 24.4023107054 ],
+					[ 54.5992535985, 24.4024595684 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00557",
+				"creationtime" : "2026-07-13T07:49:39+04:00",
+				"updatetime" : "2026-07-13T11:51:22+04:00",
+				"street" : "Tawi Rwayan Street",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Road Closure on Tawi Rwayan Street Entry and Exit on Al Khaleej Al Arabi St. (E20) - Abu Dhabi",
+				"lanePosition" : null,
+				"startTime" : "2026-07-12T00:01:00+04:00",
+				"endTime" : "2026-08-15T23:59:00+04:00",
+				"name" : "ROAD CLOSURE IN ABU DHABI"
 			}
 		}
 	]
