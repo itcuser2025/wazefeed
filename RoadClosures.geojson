@@ -1505,6 +1505,42 @@
 				"endTime" : "2026-08-15T23:59:00+04:00",
 				"name" : "ROAD CLOSURE IN ABU DHABI"
 			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 52.537149495, 24.0406435754 ],
+					[ 52.5301736742, 24.0403683532 ],
+					[ 52.524771783, 24.0401268484 ],
+					[ 52.5194777268, 24.0397615393 ],
+					[ 52.5143110137, 24.0392701344 ],
+					[ 52.5095006139, 24.0387085393 ],
+					[ 52.5041426591, 24.0379339406 ],
+					[ 52.50127323, 24.0374709121 ],
+					[ 52.4941344916, 24.0362023536 ],
+					[ 52.4872614777, 24.0349955641 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00558",
+				"creationtime" : "2026-07-14T05:56:30+04:00",
+				"updatetime" : "2026-07-14T09:57:38+04:00",
+				"street" : "Sheikh Khalifa Bin Zayed Int'l Road - E11",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Road Closure of Right Lane Towards Ghuweifaton Sheikh Khalifa Bin Zayed Int’l Road (E11) in Al Dhafra Region",
+				"lanePosition" : "Right",
+				"lane_impact" : {
+					"total_closed_lanes" : 1,
+					"roadside" : "Right"
+				},
+				"startTime" : "2026-07-14T00:01:00+04:00",
+				"endTime" : "2026-08-24T23:59:00+04:00",
+				"name" : "PARTIAL ROAD CLOSURE IN AL DHAFRA REGION"
+			}
 		}
 	]
 }
