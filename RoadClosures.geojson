@@ -1541,6 +1541,45 @@
 				"endTime" : "2026-08-24T23:59:00+04:00",
 				"name" : "PARTIAL ROAD CLOSURE IN AL DHAFRA REGION"
 			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 52.8191151987, 24.0651030046 ],
+					[ 52.821175631, 24.0659196906 ],
+					[ 52.8239058252, 24.0670566154 ],
+					[ 52.8267733918, 24.0682985899 ],
+					[ 52.8282237833, 24.068954255 ],
+					[ 52.8303132367, 24.0699041163 ],
+					[ 52.8329964548, 24.0711880073 ],
+					[ 52.8376435693, 24.0735286728 ],
+					[ 52.8425980496, 24.0759840486 ],
+					[ 52.8470861036, 24.0781229269 ],
+					[ 52.8487743056, 24.0789264649 ],
+					[ 52.8509167281, 24.0799032707 ],
+					[ 52.8542766672, 24.0814251538 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00559",
+				"creationtime" : "2026-07-16T07:20:31+04:00",
+				"updatetime" : "2026-07-16T11:24:55+04:00",
+				"street" : "Sheikh Khalifa Bin Zayed Int'l Road - E11",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Road Closure of Right Lane Towards Abu Dhabion Sheikh Khalifa Bin Zayed Int’l Road (E11) in Al Dhafra Region",
+				"lanePosition" : "Right",
+				"lane_impact" : {
+					"total_closed_lanes" : 1,
+					"roadside" : "Right"
+				},
+				"startTime" : "2026-07-16T00:01:00+04:00",
+				"endTime" : "2026-07-28T06:00:00+04:00",
+				"name" : "PARTIAL ROAD CLOSURE IN AL DHAFRA REGION"
+			}
 		}
 	]
 }
