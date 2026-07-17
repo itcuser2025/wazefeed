@@ -1580,6 +1580,180 @@
 				"endTime" : "2026-07-28T06:00:00+04:00",
 				"name" : "PARTIAL ROAD CLOSURE IN AL DHAFRA REGION"
 			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 53.6768876004, 24.0110671549 ],
+					[ 53.6733487807, 24.0124089848 ],
+					[ 53.6694386517, 24.0138900783 ],
+					[ 53.6655762119, 24.0153509999 ],
+					[ 53.6624478797, 24.0165356319 ],
+					[ 53.6599660341, 24.0174761996 ],
+					[ 53.6575112249, 24.0184063081 ],
+					[ 53.6539887774, 24.0197400845 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00560",
+				"creationtime" : "2026-07-17T09:41:55+04:00",
+				"updatetime" : "2026-07-17T13:42:23+04:00",
+				"street" : "Sheikh Khalifa Bin Zayed Int'l Road - E11",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Road Closure of Right Two Lanes Towards Ghuweifaton Sheikh Khalifa Bin Zayed Int’l Road (E11) in Al Dhafra Region",
+				"lanePosition" : "Right",
+				"lane_impact" : {
+					"total_closed_lanes" : 2,
+					"roadside" : "Right"
+				},
+				"startTime" : "2026-07-20T00:01:00+04:00",
+				"endTime" : "2026-08-03T06:00:00+04:00",
+				"name" : "PARTIAL ROAD CLOSURE IN AL DHAFRA REGION"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.4434007542, 24.4164273842 ],
+					[ 54.4433577774, 24.4161542421 ],
+					[ 54.4433108247, 24.4159173391 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00561",
+				"creationtime" : "2026-07-17T10:16:35+04:00",
+				"updatetime" : "2026-07-17T14:17:04+04:00",
+				"street" : "Tunb Al Kubra Street",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Road Closure of Left Lane Towards Musaffah Bridge on Tunb Al Kubra Street – Abu Dhabi",
+				"lanePosition" : "Left",
+				"lane_impact" : {
+					"total_closed_lanes" : 1,
+					"roadside" : "Left"
+				},
+				"startTime" : "2026-07-18T00:01:00+04:00",
+				"endTime" : "2026-07-20T06:00:00+04:00",
+				"name" : "PARTIAL ROAD CLOSURE IN ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.4432825959, 24.4157749108 ],
+					[ 54.4432666276, 24.4156943423 ],
+					[ 54.4432290979, 24.4154699021 ],
+					[ 54.4432074117, 24.4153436904 ],
+					[ 54.4431990543, 24.4152683838 ],
+					[ 54.4431945703, 24.4151928021 ],
+					[ 54.4431939785, 24.4151169281 ],
+					[ 54.443199271, 24.415015615 ],
+					[ 54.4432115513, 24.4149146301 ],
+					[ 54.4432307608, 24.4148145544 ],
+					[ 54.4432568249, 24.4147157873 ],
+					[ 54.4432867616, 24.4146272275 ],
+					[ 54.443328473, 24.414525846 ],
+					[ 54.4433749266, 24.4144312283 ],
+					[ 54.4434243632, 24.4143490878 ],
+					[ 54.4435083518, 24.4142289231 ],
+					[ 54.4435779746, 24.4141442034 ],
+					[ 54.4436594235, 24.414056604 ],
+					[ 54.4437723199, 24.4139555922 ],
+					[ 54.4438721492, 24.413880095 ],
+					[ 54.4439717527, 24.4138146279 ],
+					[ 54.4440929741, 24.4137472184 ],
+					[ 54.44420801, 24.4136938562 ],
+					[ 54.4443487521, 24.4136405884 ],
+					[ 54.4444868682, 24.4136002197 ],
+					[ 54.4445686912, 24.4135835984 ],
+					[ 54.4446812728, 24.4135652486 ],
+					[ 54.4448264693, 24.4135516932 ],
+					[ 54.4450190393, 24.4135435048 ],
+					[ 54.4452046153, 24.4135381359 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00562",
+				"creationtime" : "2026-07-17T10:16:35+04:00",
+				"updatetime" : "2026-07-17T14:17:10+04:00",
+				"street" : "Tunb Al Kubra Street",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Road Closure of Left Lane Towards Musaffah Bridge on Tunb Al Kubra Street – Abu Dhabi",
+				"lanePosition" : "Left",
+				"lane_impact" : {
+					"total_closed_lanes" : 1,
+					"roadside" : "Left"
+				},
+				"startTime" : "2026-07-18T00:01:00+04:00",
+				"endTime" : "2026-07-20T06:00:00+04:00",
+				"name" : "PARTIAL ROAD CLOSURE IN ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.4699132547, 24.4295717601 ],
+					[ 54.4693363126, 24.43001768 ],
+					[ 54.4687626063, 24.4304641412 ],
+					[ 54.4683215311, 24.4308071561 ],
+					[ 54.4681652721, 24.430928275 ],
+					[ 54.4680139153, 24.4310545084 ],
+					[ 54.4678676613, 24.4311856853 ],
+					[ 54.4677267042, 24.4313216349 ],
+					[ 54.4675912277, 24.4314621791 ],
+					[ 54.4672354109, 24.431715082 ],
+					[ 54.4659106304, 24.4327298023 ],
+					[ 54.4649350053, 24.4334577046 ],
+					[ 54.4648370548, 24.4335307826 ],
+					[ 54.4635541557, 24.434476462 ],
+					[ 54.4627822172, 24.4350833803 ],
+					[ 54.4626208141, 24.4352097296 ],
+					[ 54.4623536768, 24.4354188481 ],
+					[ 54.4616893368, 24.4359180348 ],
+					[ 54.4609864869, 24.4364169148 ],
+					[ 54.4601643024, 24.4369646586 ],
+					[ 54.4595504225, 24.4373557108 ],
+					[ 54.4585730843, 24.4379859044 ],
+					[ 54.4579505286, 24.438337703 ],
+					[ 54.4567007174, 24.4389835269 ],
+					[ 54.4551689831, 24.4397101476 ],
+					[ 54.4547207951, 24.4399085965 ],
+					[ 54.453699561, 24.4403314613 ],
+					[ 54.4531267018, 24.4405499912 ],
+					[ 54.4525544596, 24.4407647223 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00563",
+				"creationtime" : "2026-07-17T10:47:23+04:00",
+				"updatetime" : "2026-07-17T14:48:06+04:00",
+				"street" : "Sheikh Zayed Bin Sultan Street",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Road Closure of Three Left Lanes Towards Corniche on Sheikh Zayed Bin Sultan Street (E10) Abu Dhabi.",
+				"lanePosition" : "Left",
+				"lane_impact" : {
+					"total_closed_lanes" : 3,
+					"roadside" : "Left"
+				},
+				"startTime" : "2026-07-19T00:01:00+04:00",
+				"endTime" : "2026-07-19T10:00:00+04:00",
+				"name" : "PARTIAL ROAD CLOSURE IN ABU DHABI"
+			}
 		}
 	]
 }
