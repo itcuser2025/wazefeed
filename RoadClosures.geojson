@@ -1754,6 +1754,118 @@
 				"endTime" : "2026-07-19T10:00:00+04:00",
 				"name" : "PARTIAL ROAD CLOSURE IN ABU DHABI"
 			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 55.7554705645, 24.1859413061 ],
+					[ 55.7552757066, 24.1864136472 ],
+					[ 55.755095281, 24.1868524048 ],
+					[ 55.7549747422, 24.1871312477 ],
+					[ 55.7547373014, 24.187611921 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00564",
+				"creationtime" : "2026-07-17T14:46:44+04:00",
+				"updatetime" : "2026-07-17T18:47:47+04:00",
+				"street" : "Khalifa Bin Zayed The First Street",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Temporary Closure of Intersection at Nahyan The First St. & Khalifa Bin Zayed The First St. Al Ain",
+				"lanePosition" : null,
+				"startTime" : "2026-07-19T00:01:00+04:00",
+				"endTime" : "2026-07-27T23:59:00+04:00",
+				"name" : "TEMPORARY CLOSURE OF INTERSECTION IN AL AIN"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 55.7544266171, 24.1877777272 ],
+					[ 55.7547131762, 24.1871899537 ],
+					[ 55.7548431876, 24.1868724426 ],
+					[ 55.7549629827, 24.1866044743 ],
+					[ 55.7551381949, 24.1862125435 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00565",
+				"creationtime" : "2026-07-17T14:46:44+04:00",
+				"updatetime" : "2026-07-17T18:47:50+04:00",
+				"street" : "Khalifa Bin Zayed The First Street",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Temporary Closure of Intersection at Nahyan The First St. & Khalifa Bin Zayed The First St. Al Ain",
+				"lanePosition" : null,
+				"startTime" : "2026-07-19T00:01:00+04:00",
+				"endTime" : "2026-07-27T23:59:00+04:00",
+				"name" : "TEMPORARY CLOSURE OF INTERSECTION IN AL AIN"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 55.7536781078, 24.1863784297 ],
+					[ 55.7538366915, 24.1864268438 ],
+					[ 55.7541304011, 24.1865210037 ],
+					[ 55.7545705419, 24.1866621065 ],
+					[ 55.7548358752, 24.1867581406 ],
+					[ 55.7551397183, 24.1868683246 ],
+					[ 55.7554500744, 24.1869874038 ],
+					[ 55.7560539457, 24.1872407689 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00566",
+				"creationtime" : "2026-07-17T14:46:44+04:00",
+				"updatetime" : "2026-07-17T18:47:55+04:00",
+				"street" : "Nahyan The First Street",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Temporary Closure of Intersection at Nahyan The First St. & Khalifa Bin Zayed The First St. Al Ain",
+				"lanePosition" : null,
+				"startTime" : "2026-07-19T00:01:00+04:00",
+				"endTime" : "2026-07-27T23:59:00+04:00",
+				"name" : "TEMPORARY CLOSURE OF INTERSECTION IN AL AIN"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 55.7559039271, 24.187412954 ],
+					[ 55.7554723281, 24.1872326058 ],
+					[ 55.7550751713, 24.1870779791 ],
+					[ 55.7547124612, 24.1869482078 ],
+					[ 55.7539502858, 24.1866923606 ],
+					[ 55.753487858, 24.1865506472 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00567",
+				"creationtime" : "2026-07-17T14:46:44+04:00",
+				"updatetime" : "2026-07-17T18:47:59+04:00",
+				"street" : "Nahyan The First Street",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Temporary Closure of Intersection at Nahyan The First St. & Khalifa Bin Zayed The First St. Al Ain",
+				"lanePosition" : null,
+				"startTime" : "2026-07-19T00:01:00+04:00",
+				"endTime" : "2026-07-27T23:59:00+04:00",
+				"name" : "TEMPORARY CLOSURE OF INTERSECTION IN AL AIN"
+			}
 		}
 	]
 }
