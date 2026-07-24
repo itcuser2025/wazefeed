@@ -1897,6 +1897,91 @@
 				"endTime" : "2026-08-04T23:59:00+04:00",
 				"name" : "TRAFFIC DIVERSION IN LIWA - AL DHAFRA REGION"
 			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.4434007542, 24.4164273842 ],
+					[ 54.4433577774, 24.4161542421 ],
+					[ 54.4433108247, 24.4159173391 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00575",
+				"creationtime" : "2026-07-24T10:42:34+04:00",
+				"updatetime" : "2026-07-17T14:17:04+04:00",
+				"street" : "Tunb Al Kubra Street",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Road Closure of Right Lane Towards Musaffah Bridge on Tunb Al Kubra Street – Abu Dhabi",
+				"lanePosition" : "Right",
+				"lane_impact" : {
+					"total_closed_lanes" : 1,
+					"roadside" : "Right"
+				},
+				"startTime" : "2026-07-25T00:01:00+04:00",
+				"endTime" : "2026-07-27T06:00:00+04:00",
+				"name" : "PARTIAL ROAD CLOSURE IN ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 54.4432825959, 24.4157749108 ],
+					[ 54.4432666276, 24.4156943423 ],
+					[ 54.4432290979, 24.4154699021 ],
+					[ 54.4432074117, 24.4153436904 ],
+					[ 54.4431990543, 24.4152683838 ],
+					[ 54.4431945703, 24.4151928021 ],
+					[ 54.4431939785, 24.4151169281 ],
+					[ 54.443199271, 24.415015615 ],
+					[ 54.4432115513, 24.4149146301 ],
+					[ 54.4432307608, 24.4148145544 ],
+					[ 54.4432568249, 24.4147157873 ],
+					[ 54.4432867616, 24.4146272275 ],
+					[ 54.443328473, 24.414525846 ],
+					[ 54.4433749266, 24.4144312283 ],
+					[ 54.4434243632, 24.4143490878 ],
+					[ 54.4435083518, 24.4142289231 ],
+					[ 54.4435779746, 24.4141442034 ],
+					[ 54.4436594235, 24.414056604 ],
+					[ 54.4437723199, 24.4139555922 ],
+					[ 54.4438721492, 24.413880095 ],
+					[ 54.4439717527, 24.4138146279 ],
+					[ 54.4440929741, 24.4137472184 ],
+					[ 54.44420801, 24.4136938562 ],
+					[ 54.4443487521, 24.4136405884 ],
+					[ 54.4444868682, 24.4136002197 ],
+					[ 54.4445686912, 24.4135835984 ],
+					[ 54.4446812728, 24.4135652486 ],
+					[ 54.4448264693, 24.4135516932 ],
+					[ 54.4450190393, 24.4135435048 ],
+					[ 54.4452046153, 24.4135381359 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00576",
+				"creationtime" : "2026-07-24T10:42:34+04:00",
+				"updatetime" : "2026-07-17T14:17:10+04:00",
+				"street" : "Tunb Al Kubra Street",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Road Closure of Right Lane Towards Musaffah Bridge on Tunb Al Kubra Street – Abu Dhabi",
+				"lanePosition" : "Right",
+				"lane_impact" : {
+					"total_closed_lanes" : 1,
+					"roadside" : "Right"
+				},
+				"startTime" : "2026-07-25T00:01:00+04:00",
+				"endTime" : "2026-07-27T06:00:00+04:00",
+				"name" : "PARTIAL ROAD CLOSURE IN ABU DHABI"
+			}
 		}
 	]
 }
