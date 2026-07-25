@@ -1105,137 +1105,6 @@
 			"geometry" : {
 				"type" : "LineString",
 				"coordinates" : [
-					[ 54.2245870292, 22.9850630001 ],
-					[ 54.2237705796, 22.985564561 ],
-					[ 54.2234079559, 22.9857594881 ],
-					[ 54.2230036369, 22.985909647 ],
-					[ 54.2227664461, 22.9859875328 ],
-					[ 54.2226042992, 22.9860330916 ],
-					[ 54.2225037038, 22.986073052 ],
-					[ 54.2224137752, 22.9861332931 ],
-					[ 54.2223168669, 22.9862352376 ],
-					[ 54.2222682595, 22.9863396408 ],
-					[ 54.2222016332, 22.9864213424 ],
-					[ 54.2220744493, 22.9865102134 ],
-					[ 54.2219413109, 22.9865534573 ],
-					[ 54.2218249315, 22.9865612769 ],
-					[ 54.2217456607, 22.9865517252 ],
-					[ 54.2217098749, 22.9865432895 ],
-					[ 54.2216354605, 22.9865430827 ],
-					[ 54.2215711122, 22.9865491936 ],
-					[ 54.2214522632, 22.9865748153 ],
-					[ 54.2213568937, 22.986610218 ],
-					[ 54.2212658553, 22.9866607734 ],
-					[ 54.221179372, 22.9867161275 ],
-					[ 54.2210583107, 22.9867908756 ],
-					[ 54.2209484675, 22.9868562788 ],
-					[ 54.2207889862, 22.9869455095 ],
-					[ 54.2206755988, 22.9870012252 ],
-					[ 54.2203468822, 22.987152868 ],
-					[ 54.2201725216, 22.9872319841 ],
-					[ 54.2198649022, 22.9873704968 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00535",
-				"creationtime" : "2026-07-08T11:02:38+04:00",
-				"updatetime" : "2026-07-08T15:03:09+04:00",
-				"street" : "Sheikh Theyab Bin Eissa AL Falahi Rd",
-				"type" : "ROAD_CLOSED",
-				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Traffic Diversion On Sheikh Theyab Bin Eissa AL Falahi Road (E90) Liwa - Al Dhafra Region",
-				"lanePosition" : null,
-				"startTime" : "2026-07-10T00:01:00+04:00",
-				"endTime" : "2026-07-24T23:59:00+04:00",
-				"name" : "TRAFFIC DIVERSION IN LIWA - AL DHAFRA REGION"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.2264447111, 22.9833622822 ],
-					[ 54.2263879198, 22.9833187461 ],
-					[ 54.2263755433, 22.9832884479 ],
-					[ 54.2263682345, 22.9832565463 ],
-					[ 54.2263661841, 22.9832238829 ],
-					[ 54.2263694477, 22.9831913175 ],
-					[ 54.2263821407, 22.9831504272 ],
-					[ 54.2264095772, 22.9831026552 ],
-					[ 54.2264318903, 22.9830787116 ],
-					[ 54.2264638315, 22.9830554246 ],
-					[ 54.2264900081, 22.9830408313 ],
-					[ 54.2265873327, 22.9829756214 ],
-					[ 54.2267076404, 22.9828941581 ],
-					[ 54.2269110068, 22.982739392 ],
-					[ 54.2270799139, 22.9825554573 ],
-					[ 54.2271261337, 22.9825010168 ],
-					[ 54.2272160416, 22.9824363735 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00536",
-				"creationtime" : "2026-07-08T11:02:38+04:00",
-				"updatetime" : "2026-07-08T15:03:13+04:00",
-				"street" : "Sheikh Theyab Bin Eissa AL Falahi Rd",
-				"type" : "ROAD_CLOSED",
-				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Traffic Diversion On Sheikh Theyab Bin Eissa AL Falahi Road (E90) Liwa - Al Dhafra Region",
-				"lanePosition" : null,
-				"startTime" : "2026-07-10T00:01:00+04:00",
-				"endTime" : "2026-07-24T23:59:00+04:00",
-				"name" : "TRAFFIC DIVERSION IN LIWA - AL DHAFRA REGION"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ 54.217363188, 22.9884987008 ],
-					[ 54.2173789153, 22.9885148733 ],
-					[ 54.2173916128, 22.9885335198 ],
-					[ 54.2174008992, 22.9885540801 ],
-					[ 54.2174073231, 22.9885866976 ],
-					[ 54.2174060523, 22.9886208791 ],
-					[ 54.2174000296, 22.9886426202 ],
-					[ 54.2173903421, 22.9886629925 ],
-					[ 54.2173658023, 22.9886930398 ],
-					[ 54.2173467924, 22.9887123383 ],
-					[ 54.2173123817, 22.9887388638 ],
-					[ 54.2172746884, 22.9887604691 ],
-					[ 54.2172344095, 22.9887767549 ],
-					[ 54.2171922916, 22.98878742 ],
-					[ 54.2171333401, 22.9887954105 ],
-					[ 54.216642215, 22.9888932918 ],
-					[ 54.2164216167, 22.9889821052 ],
-					[ 54.2163482949, 22.9890043131 ],
-					[ 54.2162565749, 22.9890195845 ]
-				]
-			},
-			"properties" : {
-				"id" : "AD00537",
-				"creationtime" : "2026-07-08T11:02:38+04:00",
-				"updatetime" : "2026-07-08T15:03:16+04:00",
-				"street" : "Sheikh Theyab Bin Eissa AL Falahi Rd",
-				"type" : "ROAD_CLOSED",
-				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
-				"direction" : "ONE_DIRECTION",
-				"description" : "Traffic Diversion On Sheikh Theyab Bin Eissa AL Falahi Road (E90) Liwa - Al Dhafra Region",
-				"lanePosition" : null,
-				"startTime" : "2026-07-10T00:01:00+04:00",
-				"endTime" : "2026-07-24T23:59:00+04:00",
-				"name" : "TRAFFIC DIVERSION IN LIWA - AL DHAFRA REGION"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
 					[ 55.7267329183, 24.2050887871 ],
 					[ 55.7268344104, 24.2046970946 ],
 					[ 55.7271458222, 24.2034781391 ],
@@ -1981,6 +1850,228 @@
 				"startTime" : "2026-07-25T00:01:00+04:00",
 				"endTime" : "2026-07-27T06:00:00+04:00",
 				"name" : "PARTIAL ROAD CLOSURE IN ABU DHABI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 55.7277661062, 24.2018218316 ],
+					[ 55.7276702475, 24.202190175 ],
+					[ 55.7274971361, 24.2028553658 ],
+					[ 55.7272986314, 24.2036772022 ],
+					[ 55.7270495714, 24.2046423097 ],
+					[ 55.7270376653, 24.2046905421 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00577",
+				"creationtime" : "2026-07-25T11:44:27+04:00",
+				"updatetime" : "2026-07-25T15:45:00+04:00",
+				"street" : "Zayed The First Street",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Road Closure of Right Lane on Zayed The First Street - Al Ain",
+				"lanePosition" : "Right ",
+				"lane_impact" : {
+					"total_closed_lanes" : 1,
+					"roadside" : "Right "
+				},
+				"startTime" : "2026-07-24T00:01:00+04:00",
+				"endTime" : "2026-07-26T23:59:00+04:00",
+				"name" : "PARTIAL ROAD CLOSURE IN AL AIN"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 55.7917367108, 24.1943998716 ],
+					[ 55.790527986, 24.1938923113 ],
+					[ 55.7893290449, 24.1933938818 ],
+					[ 55.7892082794, 24.1933547703 ],
+					[ 55.7890757212, 24.1933339114 ],
+					[ 55.7888145571, 24.1933219783 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00578",
+				"creationtime" : "2026-07-25T13:08:36+04:00",
+				"updatetime" : "2026-07-25T17:09:54+04:00",
+				"street" : "Ash Shabhat Street",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Closure of the Roundabout on Zayed Bin Sultan Street - Al Ain",
+				"lanePosition" : null,
+				"startTime" : "2026-07-26T00:01:00+04:00",
+				"endTime" : "2026-09-26T23:59:00+04:00",
+				"name" : "PARTIAL ROAD CLOSURE IN AL AIN"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 55.7889789721, 24.1929322014 ],
+					[ 55.7891705484, 24.1931487752 ],
+					[ 55.789225595, 24.1931959168 ],
+					[ 55.7892737069, 24.1932313554 ],
+					[ 55.7893307707, 24.1932629369 ],
+					[ 55.7901388529, 24.193607371 ],
+					[ 55.7912885993, 24.194084732 ],
+					[ 55.7917806894, 24.1942919385 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00579",
+				"creationtime" : "2026-07-25T13:08:36+04:00",
+				"updatetime" : "2026-07-25T17:09:54+04:00",
+				"street" : "Ash Shabhat Street",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Closure of the Roundabout on Zayed Bin Sultan Street - Al Ain",
+				"lanePosition" : null,
+				"startTime" : "2026-07-26T00:01:00+04:00",
+				"endTime" : "2026-09-26T23:59:00+04:00",
+				"name" : "PARTIAL ROAD CLOSURE IN AL AIN"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 55.7900664854, 24.1902699986 ],
+					[ 55.7900266121, 24.1903489851 ],
+					[ 55.7897966726, 24.1907948195 ],
+					[ 55.7895424828, 24.1912670427 ],
+					[ 55.7891737482, 24.192048496 ],
+					[ 55.7889841045, 24.1924590671 ],
+					[ 55.788948673, 24.1925679472 ],
+					[ 55.7889382436, 24.1926226349 ],
+					[ 55.7889344062, 24.1927443132 ],
+					[ 55.7889315059, 24.1928374182 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00580",
+				"creationtime" : "2026-07-25T13:08:36+04:00",
+				"updatetime" : "2026-07-25T17:09:54+04:00",
+				"street" : "Zayed Bin Sultan Street",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Closure of the Roundabout on Zayed Bin Sultan Street - Al Ain",
+				"lanePosition" : null,
+				"startTime" : "2026-07-26T00:01:00+04:00",
+				"endTime" : "2026-09-26T23:59:00+04:00",
+				"name" : "PARTIAL ROAD CLOSURE IN AL AIN"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 55.7886347818, 24.1933731569 ],
+					[ 55.7885080484, 24.1935082306 ],
+					[ 55.7884680672, 24.193549076 ],
+					[ 55.788411901, 24.1936171277 ],
+					[ 55.7883828466, 24.1936630912 ],
+					[ 55.7880440603, 24.1943371996 ],
+					[ 55.7875761718, 24.1952898649 ],
+					[ 55.7866483421, 24.1971510713 ],
+					[ 55.7861724146, 24.1981060551 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00581",
+				"creationtime" : "2026-07-25T13:08:36+04:00",
+				"updatetime" : "2026-07-25T17:09:54+04:00",
+				"street" : "Zayed Bin Sultan Street",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Closure of the Roundabout on Zayed Bin Sultan Street - Al Ain",
+				"lanePosition" : null,
+				"startTime" : "2026-07-26T00:01:00+04:00",
+				"endTime" : "2026-09-26T23:59:00+04:00",
+				"name" : "PARTIAL ROAD CLOSURE IN AL AIN"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 55.7885763627, 24.1926835586 ],
+					[ 55.7886899588, 24.192688245 ],
+					[ 55.7887968702, 24.1927237727 ],
+					[ 55.7888757866, 24.1927763965 ],
+					[ 55.7889315059, 24.1928374182 ],
+					[ 55.7889804335, 24.1929370037 ],
+					[ 55.7889883152, 24.1930852435 ],
+					[ 55.7889449822, 24.1931974798 ],
+					[ 55.7888708646, 24.1932829747 ],
+					[ 55.7887861008, 24.1933365752 ],
+					[ 55.7887099021, 24.1933627698 ],
+					[ 55.7886456303, 24.1933725265 ],
+					[ 55.7885059773, 24.1933584054 ],
+					[ 55.7884080186, 24.1933159664 ],
+					[ 55.7883307713, 24.1932535363 ],
+					[ 55.7882954685, 24.1932093427 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00582",
+				"creationtime" : "2026-07-25T13:08:36+04:00",
+				"updatetime" : "2026-07-25T17:09:54+04:00",
+				"street" : "None",
+				"type" : "ROAD_CLOSED",
+				"subtype" : "ROAD_CLOSED_CONSTRUCTION",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Closure of the Roundabout on Zayed Bin Sultan Street - Al Ain",
+				"lanePosition" : null,
+				"startTime" : "2026-07-26T00:01:00+04:00",
+				"endTime" : "2026-09-26T23:59:00+04:00",
+				"name" : "PARTIAL ROAD CLOSURE IN AL AIN"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 52.8795866545, 24.0916581932 ],
+					[ 52.8877106919, 24.0947402508 ],
+					[ 52.8925431216, 24.0965823519 ],
+					[ 52.8946548628, 24.0973827611 ],
+					[ 52.9013782907, 24.0999605823 ]
+				]
+			},
+			"properties" : {
+				"id" : "AD00583",
+				"creationtime" : "2026-07-25T13:08:36+04:00",
+				"updatetime" : "2026-07-25T17:09:54+04:00",
+				"street" : "Sheikh Khalifa Bin Zayed Int'l Road - E11",
+				"type" : "HAZARD",
+				"subtype" : "HAZARD_ON_ROAD_LANE_CLOSED",
+				"direction" : "ONE_DIRECTION",
+				"description" : "Partial Road Closure of Right Lane Towards Abu Dhabi on Sheikh Khalifa Bin Zayed Int’l Road (E11) in Al Dhafra Region",
+				"lanePosition" : "Right",
+				"lane_impact" : {
+					"total_closed_lanes" : 1,
+					"roadside" : "Right"
+				},
+				"startTime" : "2026-07-16T00:01:00+04:00",
+				"endTime" : "2026-08-02T23:59:00+04:00",
+				"name" : "PARTIAL ROAD CLOSURE IN AL DHAFRA REGION"
 			}
 		}
 	]
